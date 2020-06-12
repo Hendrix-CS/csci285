@@ -21,12 +21,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   algorithms and data structures (dictionaries, arrays, linked lists).
   Student learn these concepts through studying the Python programming
   language.
-baseurl: "/csci000" # the subpath of your site, e.g. /blog
+baseurl: "/csci285" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-number: CSCI 000
-title: Generic Computer Science Course
-semester: Fall 2019
+number: CSCI 285
+title: Scientific Computing
+semester: Fall 2020
 
 navigation:
   - title: Overview
@@ -55,48 +55,18 @@ navigation:
     url: '#commitments'
 
 instructors:
-  - id: yorgey
-    name: Dr. Brent Yorgey
-    email: yorgey@hendrix.edu
-    web: http://ozark.hendrix.edu/~yorgey
-    phone: (501) 450-1377
-    officehours: https://byorgey.youcanbook.me
   - id: goadrich
     name: Dr. Mark Goadrich
     email: goadrich@hendrix.edu
     web: http://mark.goadrich.com
     phone: (501) 450-1367
     officehours: http://mark.goadrich.com/schedule.html
-  - id: ferrer
-    name: Dr. Gabriel Ferrer
-    email: ferrer@hendrix.edu
-    web: http://ozark.hendrix.edu/~ferrer
-    phone: (501) 450-3879
-    officehours: https://drferrer.youcanbook.me/
-  - id: seme
-    name: Prof. Lars Seme
-    email: seme@hendrix.edu
-    web: https://www.hendrix.edu/mathcs/profile.aspx?id=70795
-    phone: (501) 450-1256
-    officehours: ???
 
 offerings:
   - name: LECTURE 01
-    loc: MCREY 110
-    time: MWF 8:10am - 9:00am
-    instructor: yorgey
-  - name: LECTURE 02
-    loc: MCREY 110
-    time: MWF 11:10am - 12:00pm
+    loc: MCREY 115
+    time: MWF 10:10am - 11:00am
     instructor: goadrich
-  - name: LAB 01
-    loc: Snoddy Computer Lab
-    time: R 1:10pm - 4:00pm
-    instructor: ferrer
-  - name: LAB 02
-    loc: Snoddy Computer Lab
-    time: W 1:10pm - 4:00pm
-    instructor: seme
 
 resources:
   - name: Python 3
