@@ -85,6 +85,9 @@ resources:
   - name: Mesa
     image: assets/images/mesa_logo.png
     url: https://mesa.readthedocs.io/en/master/#
+  - name: TensorFlow
+    image: assets/images/tensorflow.png
+    url: https://www.tensorflow.org/
 
 # Build settings
 markdown: kramdown
