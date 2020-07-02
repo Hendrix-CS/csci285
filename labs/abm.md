@@ -28,7 +28,7 @@ the `Environment` will not need to update its state, only hold information for t
 `Termite` class to manipulate.
 
 {% include tip.html content="Look to the Forest Fire
-model for how to get started on the Environment.""
+model for how to get started on the Environment." %}
 
 Initialize your model with the following parameters
 
