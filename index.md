@@ -81,7 +81,7 @@ There will often be short homework assignments to be completed over the weekend,
 |4 | [Clustering and PCA]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
 |5 | [Dynamical Systems]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
 |6 | [Monte Carlo Simulation]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
-|7 | [Agent-Based Modeling]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
+|7 | [Agent-Based Modeling]({{site.baseurl}}/labs/abm.html) | Sep 11-12 | Sep 18-19 |
 |8 | [Optimization]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
 |9 | [Deep Learning]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
 
@@ -101,12 +101,12 @@ project will be given when it is assigned.
 
 ## <a name="exams">Exams</a>: 240 points
 
-There will be two take-home exams, the first worth 100 points and the second
-worth 140 of your final grade. They will consist of short answer
-questions along with writing and debugging code.
+There will be two take-home exams, both worth 120 points of
+your final grade. They will consist of **individually** working through
+problems directly related to the labs.
 
-* Exam 1: Sep ??, covering ???
-* Exam 2: Nov ??, covering ???
+* Exam 1: Sep 18-25, covering Labs 1 - 4
+* Exam 2: Oct 23-30, covering Labs 5 - 8
 
 There is no final exam; you will complete a final project instead, as described above under Projects.
 
