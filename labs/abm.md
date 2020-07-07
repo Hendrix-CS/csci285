@@ -1,20 +1,17 @@
 ---
 layout: work
 type: Lab
-num: X
+num: 7
 worktitle: Agent-Based Modeling
 ---
 
 ## Overview
 
-In this lab, you will use Mesa to implement an Agent-Based Model to model the collective
+In this lab, you will use [Mesa](https://github.com/projectmesa/mesa) to
+implement an Agent-Based Model to model the collective
 behavior of [termites](http://en.wikipedia.org/wiki/Termite).
 In particular, you will be modeling how termites organize to build large
 structures without a leader.
-
-## Materials
-
-
 
 ## Description
 
@@ -43,30 +40,33 @@ to be `DIRT`.
 
 We will use three states to model our `Termite` behavior, `FORAGE`, `LOOK`, and `DROP`.
 
-When a `Termite` is in the `FORAGE` state, they wander randomly around the world.
-If they step on top of an `Environment` cell that contains `DIRT`, they pick it up
-by making their current cell `EMTPY`, and change their own state to `LOOK`.
+* When a `Termite` is in the `FORAGE` state, they wander randomly around the world.
+  If they step on top of an `Environment` cell that contains `DIRT`, they pick it up
+  by making their current cell `EMTPY`, and change their own state to `LOOK`.
 
-In the `LOOK` state, the `Termite` is looking for another piece of `DIRT`. They will
-again wander around the world randomly until they are standing on a cell with
-`DIRT`. When this happens, they change their state to `DROP`.
+* In the `LOOK` state, the `Termite` is looking for another piece of `DIRT`. They will
+  again wander around the world randomly until they are standing on a cell with
+  `DIRT`. When this happens, they change their state to `DROP`.
 
-Finally, a `Termite` in the `DROP` state is now looking for an `EMPTY` `Environment` cell in the
-world. They wander randomly until they find this `EMPTY` cell, then put their
-`DIRT` into the cell. They then take 5 random steps, and finally change to the
-`FORAGE` state. This last piece helps them not to immediately pick up the
-piece of `DIRT` they just dropped.
+* Finally, a `Termite` in the `DROP` state is now looking for an `EMPTY` `Environment` cell in the
+  world. They wander randomly until they find this `EMPTY` cell, then put their
+  `DIRT` into the cell. They then take 5 random steps, and finally change to the
+  `FORAGE` state. This last piece helps them not to immediately pick up the
+  piece of `DIRT` they just dropped.
 
 Create 50 `Termite` agents, and place them randomly in the world to start.
 
 ### Step 3 - Sliders
 
+num_dirt
+
+num_termites
+
 ## Evaluation
 
-Run your model for 1000 iterations. Describe what you see in terms of the
-formation of piles of dirt.
-
-## What to Hand In
+Run your model for 1000 iterations. Write a lab report, including
+screen shots from the start and end of your model.
+Describe what you see in terms of the formation of piles of dirt.
 
 ## Grading
 

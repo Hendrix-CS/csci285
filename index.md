@@ -62,28 +62,24 @@ Also, there will be many opportunities to accumulate small amounts of points
 throughout the semester by participating in classroom exercises and
 reflecting on the material. These will total at least 55 points, most likely more.
 
-| #  | Name | Assigned | Due |
-|:--:|-----||:--------:|:---:|
-|0 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|1 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-
-There will often be short homework assignments to be completed over the weekend, assigned on Friday and due Wednesday, sometimes with a corresponding quiz at the beginning of class on Wednesday.
+| #  | Name |
+|:--:|-----|
+|0 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
+|1 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) |
 
 ## <a name="labs">Labs</a>: 360 points
 
-| #  | Name | Assigned | Due |
-|:--:|-----||:--------:|:---:|
-|1 | [Python Refresher]({{site.baseurl}}/labs/sample-lab.html) | Aug | Aug |
-|2 | [Pandas and plotnine]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 | Sep 11-12 |
-|3 | [GIS Data Mashup]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
-|4 | [Clustering and PCA]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
-|5 | [Dynamical Systems]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
-|6 | [Monte Carlo Simulation]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
-|7 | [Agent-Based Modeling]({{site.baseurl}}/labs/abm.html) | Sep 11-12 | Sep 18-19 |
-|8 | [Optimization]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
-|9 | [Deep Learning]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
+| #  | Name |
+|:--:|-----|
+|1 | [Python Refresher]({{site.baseurl}}/labs/python-review.html) |
+|2 | [Pandas and plotnine]({{site.baseurl}}/labs/visualization.html) |
+|3 | [GIS and Choropleths]({{site.baseurl}}/labs/gismashup.html) |
+|4 | [Clustering and PCA]({{site.baseurl}}/labs/clustering.html) |
+|5 | [Dynamical Systems]({{site.baseurl}}/labs/dynamical.html) |
+|6 | [Monte Carlo Simulation]({{site.baseurl}}/labs/montecarlo.html) |
+|7 | [Agent-Based Modeling]({{site.baseurl}}/labs/abm.html) |
+|8 | [Optimization]({{site.baseurl}}/labs/optimization.html) |
+|9 | [Deep Learning]({{site.baseurl}}/labs/deep-learning.html) |
 
 Much of your experience with programming in this course will be through semi-weekly labs. Each lab will be assigned in lab with time allotted to work through the materials, and will be due **by the start of the following lab**. All labs are weighted equally within the lab portion of your final grade.
 
@@ -91,9 +87,9 @@ On these labs, you may work with a partner on the lab assignments. Their name mu
 
 ## <a name="projects">Project</a>: 300 points
 
-| #  | Name | Points | Assigned | Due |
-|:--:|-----||:------:|:--------:|:---:|
-|1 | [Final Project]({{site.baseurl}}/projects/project.html)  | 300  | Oct ?? | Dec ?? |
+| #  | Name |
+|:--:|-----|
+|1 | [Final Project]({{site.baseurl}}/projects/project.html)  |
 
 You will have a final project in this course.
 Further details on the grading standards and handin instructions for this
@@ -105,10 +101,10 @@ There will be two take-home exams, both worth 120 points of
 your final grade. They will consist of **individually** working through
 problems directly related to the labs.
 
-* Exam 1: Sep 18-25, covering Labs 1 - 4
-* Exam 2: Oct 23-30, covering Labs 5 - 8
+* Exam 1: Sep 18-23, covering data analytics and visualization
+* Exam 2: Oct 23-28, covering modeling and simulation
 
-There is no final exam; you will complete a final project instead, as described above under Projects.
+There is no final exam; you will complete a final project instead, as described above under Project.
 
 ## <a name="scale">Grading Scale</a>
 
