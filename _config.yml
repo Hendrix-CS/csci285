@@ -52,8 +52,8 @@ navigation:
         url: '#exams'
       - page: Scale
         url: '#scale'
-  - page: calendar
-    url: 'https://app.teamgantt.com/projects/calendar/2020-08-01?ids=2238941'
+  - page: Calendar
+    url: 'https://app.teamgantt.com/public/projects/calendar/2020-08-01?ids=2238941&projectIds=2238941&publicKeys=fItPsEP7nOQ4'
   - page: Commitments
     url: '#commitments'
 
