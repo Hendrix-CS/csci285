@@ -42,16 +42,18 @@ navigation:
     url: '#inclasscode'
   - title: Coursework
     subfolderitems:
-      - page: Homework and Quizzes
+      - page: Checkins
         url: '#hwqz'
       - page: Labs
         url: '#labs'
-      - page: Projects
+      - page: Project
         url: '#projects'
       - page: Exams
         url: '#exams'
       - page: Scale
         url: '#scale'
+  - page: calendar
+    url: 'https://app.teamgantt.com/projects/calendar/2020-08-01?ids=2238941'
   - page: Commitments
     url: '#commitments'
 
