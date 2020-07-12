@@ -35,8 +35,6 @@ successes and failures. Record your solutions and
 attempts in `Code` blocks, and annotate what you did with `MarkDown` blocks.
 Cite all the webpages you find and use in your search for your solution.
 
-You may work with *one* partner on this lab.
-
 ## Grading
 
 * 20 points for code which leads to the correct answer.

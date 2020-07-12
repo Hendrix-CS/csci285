@@ -71,9 +71,9 @@ reflecting on the material. These will total at least 55 points, most likely mor
 
 | #  | Name |
 |:--:|-----|
-|1 | [Python Refresher]({{site.baseurl}}/labs/python-review.html) |
-|2 | [Pandas and plotnine]({{site.baseurl}}/labs/visualization.html) |
-|3 | [GIS and Choropleths]({{site.baseurl}}/labs/gismashup.html) |
+|1 | [Python Review]({{site.baseurl}}/labs/python-review.html) |
+|2 | [Data Visualization]({{site.baseurl}}/labs/visualization.html) |
+|3 | [Choropleths]({{site.baseurl}}/labs/gismashup.html) |
 |4 | [Clustering and PCA]({{site.baseurl}}/labs/clustering.html) |
 |5 | [Dynamical Systems]({{site.baseurl}}/labs/dynamical.html) |
 |6 | [Monte Carlo Simulation]({{site.baseurl}}/labs/montecarlo.html) |
