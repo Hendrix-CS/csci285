@@ -12,7 +12,7 @@ with installing Anaconda and Jupyter on your own machine.
 
 ## Materials
 
-* [Puzzle Files](assets/data/puzzle.zip)
+* [Puzzle Files](../assets/data/puzzle.zip)
 
 ## Description
 

@@ -12,8 +12,8 @@ Pandas and Plotnine.
 
 ## Materials
 
-* [FEV dataset](data/FEV.csv)
-* [FEV notebook](code/FEV_Data_Analysis.ipynb)
+* [FEV dataset](../assets/data/FEV.csv)
+* [FEV notebook](../assets/code/FEV_Data_Analysis.ipynb)
 
 ### Step 1 - Data Gathering
 
