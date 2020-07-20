@@ -1,8 +1,8 @@
 ---
 layout: work
 type: Lab
-num: X
-worktitle: BLAH BLAH BLAH
+num: 3
+worktitle: Choropleths
 ---
 
 ## Overview
@@ -11,26 +11,25 @@ For this lab, you will be creating a Choropleth, incorporating the tools we lear
 
 ## Possible Datasets
 
-[Census Data](http://api.census.gov/data/key_signup.html)
-[Our World in Data](https://ourworldindata.org/)
-[Southern Poverty Law Center Hate Crimes Index](http://www.splcenter.org/get-informed/hate-incidents)
-[Medical Expenditure Panel Survey](http://meps.ahrq.gov/mepsweb/)
-[Centers for Disease Control and Prevention](https://data.cdc.gov/)
-[Pew Research](http://www.pewresearch.org/data/download-datasets/)
-[Pew Internet Research](http://www.pewinternet.org/datasets/)
-[Government Dataset APIs](https://www.data.gov/developers/apis)
-[Data.gov](https://catalog.data.gov/dataset)
+* [Our World in Data](https://ourworldindata.org/)
+* [Southern Poverty Law Center Hate Crimes Index](http://www.splcenter.org/get-informed/hate-incidents)
+* [Medical Expenditure Panel Survey](http://meps.ahrq.gov/mepsweb/)
+* [Centers for Disease Control and Prevention](https://data.cdc.gov/)
+* [Pew Research](http://www.pewresearch.org/data/download-datasets/)
+* [Pew Internet Research](http://www.pewinternet.org/datasets/)
+* [Data.gov](https://catalog.data.gov/dataset)
+* [Census Data](https://data.census.gov/cedsci/)
 
 ## Examples
 
-[Most Common Job in Every State](http://www.npr.org/sections/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
-[La Quinta and Denny's coincidence](http://njgeo.org/2014/01/30/mitch-hedberg-and-gis/)\
-[Which is closer, beer or whisky?](http://blog.wolfram.com/2014/08/19/which-is-closer-local-beer-or-local-whiskey/)\
-[Geology and Voting](http://www.npr.org/blogs/krulwich/2012/10/02/162163801/obama-s-secret-weapon-in-the-south-small-dead-but-still-kickin)\
-[Data Visualization at census.gov](http://www.census.gov/dataviz/)\
-[Church or Beer on Twitter](http://www.floatingsheep.org/2012/07/church-or-beer-americans-on-twitter.html)\
-[Football Allegiance as declared on Facebook](http://www.theatlantic.com/technology/archive/2014/09/the-geography-of-nfl-fandom/379729/)\
-[COVID-19 Maps](https://blog.mapbox.com/notable-maps-visualizing-covid-19-and-surrounding-impacts-951724cc4bd8)
+* [Most Common Job in Every State](http://www.npr.org/sections/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
+* [La Quinta and Denny's coincidence](http://njgeo.org/2014/01/30/mitch-hedberg-and-gis/)
+* [Which is closer, beer or whisky?](http://blog.wolfram.com/2014/08/19/which-is-closer-local-beer-or-local-whiskey/)
+* [Geology and Voting](http://www.npr.org/blogs/krulwich/2012/10/02/162163801/obama-s-secret-weapon-in-the-south-small-dead-but-still-kickin)
+* [Data Visualization at census.gov](http://www.census.gov/dataviz/)
+* [Church or Beer on Twitter](http://www.floatingsheep.org/2012/07/church-or-beer-americans-on-twitter.html)
+* [Football Allegiance as declared on Facebook](http://www.theatlantic.com/technology/archive/2014/09/the-geography-of-nfl-fandom/379729/)
+* [COVID-19 Maps](https://blog.mapbox.com/notable-maps-visualizing-covid-19-and-surrounding-impacts-951724cc4bd8)
 
 ## Making a Choropleth
 
