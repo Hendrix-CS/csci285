@@ -18,13 +18,13 @@ Pandas and Plotnine.
 ### Step 1 - Data Gathering
 
 Find a CSV-formatted scientific dataset with multiple columns and rows of experimental results.
-or, you can use one of the following options listed below.
+I strongly recommend you get your dataset from the United States Geological Survey data repository
+linked below, please talk to me if there is another dataset you wish to examine.
 
-* [Penguins](https://github.com/allisonhorst/palmerpenguins)
-* Data Carpentry Birds
+* [USGS Science Datasets](https://www.usgs.gov/products/data-and-tools/science-datasets)
 
-Open a notebook and record where you found this dataset. Discuss the meaning of
-the columns and rows in your dataset.
+Open a notebook and record the provenance of the data, how it was collected, and by whom.
+Discuss the meaning of the columns and rows in your dataset.
 
 ### Step 2 - Analysis
 
