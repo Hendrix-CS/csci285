@@ -20,6 +20,13 @@ Upon completing this course, my goal is for you to be able to:
 * Develop agent-based models for complex simulations,
 * Approximate the roots of a continuous function by several techniques and understand the strengths and limitations of these techniques.
 
+## W2 Requirements
+
+This course is designated as a <a href="https://www.hendrix.edu/Faculty_Handbook/2020-2021/Academic_Policies_and_Procedures/F_2_c__Writing_Across_the_Curriculum/">W2 Writing Intensive Course</a> and
+includes these learning goals and assessment criteria. Writing will be assessed throughout
+the semester through lab reports and the final paper, with multiple revision
+opportunities and feedback provided regularly.
+
 ## <a name="resources">Resources</a>
 
 {% include resources.html content=site.resources %}
