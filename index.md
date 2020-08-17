@@ -43,6 +43,17 @@ When we write code together in class, it will be posted here!
 
 <hr>
 
+# Attendance
+
+We will be meeting this semester through Microsoft Teams.
+This course will be using all of our scheduled time slots (10:10 - 11:00am MWF) for synchronous meetings
+throughout the semester. I expect you to be present and participating in our discussions
+and small group work sessions, with video and audio turned on for at least part of
+each class. There will be regular attendance polls and the chat feature for additional
+forms of course participation. If you have difficulties meeting these expectations,
+please contact me, the Office of Academic Success, the IT HelpDesk, and the Provost's Office
+to discuss alternate accomodations.
+
 # Coursework
 
 Each student has **four late days** to spend throughout the semester as they wish.
@@ -67,12 +78,13 @@ on the [course calendar](https://app.teamgantt.com/public/projects/calendar/2020
 
 Also, there will be many opportunities to accumulate small amounts of points
 throughout the semester by participating in classroom exercises and
-reflecting on the material. These will total at least 55 points, most likely more.
+reflecting on the material. These will total at least 50 points, most likely more.
 
+<!--
 | #  | Name |
 |:--:|-----|
 |0 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
-|1 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) |
+-->
 
 ## <a name="labs">Labs</a>: 360 points
 
@@ -81,7 +93,7 @@ reflecting on the material. These will total at least 55 points, most likely mor
 |1 | [Python Review]({{site.baseurl}}/labs/python-review.html) |
 |2 | [Data Visualization]({{site.baseurl}}/labs/visualization.html) |
 |3 | [Choropleths]({{site.baseurl}}/labs/gismashup.html) |
-|4 | [Clustering and PCA]({{site.baseurl}}/labs/clustering.html) |
+|4 | [Clustering and PCA]({{site.baseurl}}/labs/kmeans-pca.html) |
 |5 | [Dynamical Systems]({{site.baseurl}}/labs/dynamical.html) |
 |6 | [Monte Carlo Simulation]({{site.baseurl}}/labs/montecarlo.html) |
 |7 | [Agent-Based Modeling]({{site.baseurl}}/labs/abm.html) |
@@ -90,7 +102,7 @@ reflecting on the material. These will total at least 55 points, most likely mor
 
 Much of your experience with programming in this course will be through semi-weekly labs. Each lab will be assigned in lab with time allotted to work through the materials, and will be due **by the start of the following lab**. All labs are weighted equally within the lab portion of your final grade.
 
-On these labs, you may work with a partner on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment. If students working as partners wish to turn in a lab late, both students must use a late day.
+On these labs, you will work with a partner on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment. If students working as partners wish to turn in a lab late, both students must use a late day.
 
 ## <a name="projects">Project</a>: 300 points
 

@@ -46,7 +46,7 @@ Specifically, you should
 * Use an appropriate projection to minimize distortion in your map.
 * Denote the steps you used so that your analysis is repeatable by others.
 * Write descriptions in your notebook of your project for a general audience. This should be in the style of a blog post, intermixed with the relevant python code and map figures.
-* Give a 3 minute presentation to the class on Wednesday about your findings.
+* Give a 3 minute presentation to the class about your findings.
 
 ### Something More
 
@@ -56,6 +56,7 @@ For full credit, you must include something more. For example, add in specific p
 
 This assignment is due at 6:00 pm on Thursday, September 8th in Moodle. This is to give me time to assemble your documents for easy presentation in class on Friday, and to allow you to practice your presentation.
 
+* 20 points for drawing a map based on a geospatial dataset using GeoPandas with appropriate projection
 * 10 points for well-written explanation of data provenance, discussion of each graph, and summary.
 * 5 points for class presentation of analysis.
 * 5 points for something more.
