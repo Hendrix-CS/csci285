@@ -90,6 +90,7 @@ reflecting on the material. These will total at least 50 points, most likely mor
 
 | #  | Name |
 |:--:|-----|
+|0 | [Survey](https://forms.gle/9MBCMbJe1THhxX3n6) |
 |1 | [Python Review]({{site.baseurl}}/labs/python-review.html) |
 |2 | [Data Visualization]({{site.baseurl}}/labs/visualization.html) |
 |3 | [Choropleths]({{site.baseurl}}/labs/gismashup.html) |
