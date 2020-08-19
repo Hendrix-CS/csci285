@@ -67,19 +67,6 @@ exceptional circumstances (you get sick, travel for a game or family
 obligation, *etc.*). After you have used up your late days, late assignments
 will receive at most half credit.
 
-## <a name="hwqz">Checkins and Formative Assessment</a>: 100 points
-
-Three times throughout the semester, you are expected to
-make an office hours appointment and check in with me about the course. Each checkin
-meeting will count for 15 points.
-This will be conversation and feedback about your current progress and understanding.
-These should be scheduled during the weeks shown
-on the [course calendar](https://app.teamgantt.com/public/projects/calendar/2020-01-05?ids=1972972&projectIds=1972972&publicKeys=bWZU5DuRsTN4&userResourceIds=0).
-
-Also, there will be many opportunities to accumulate small amounts of points
-throughout the semester by participating in classroom exercises and
-reflecting on the material. These will total at least 50 points, most likely more.
-
 <!--
 | #  | Name |
 |:--:|-----|
@@ -125,6 +112,19 @@ problems directly related to the labs.
 * Exam 2: Oct 23-28, covering modeling and simulation
 
 There is no final exam; you will complete a final project instead, as described above under Project.
+
+## <a name="hwqz">Checkins and Formative Assessment</a>: 100 points
+
+Three times throughout the semester, you are expected to
+make an office hours appointment and check in with me about the course. Each checkin
+meeting will count for 15 points.
+This will be conversation and feedback about your current progress and understanding.
+These should be scheduled during the weeks shown
+on the [course calendar](https://app.teamgantt.com/public/projects/calendar/2020-01-05?ids=1972972&projectIds=1972972&publicKeys=bWZU5DuRsTN4&userResourceIds=0).
+
+Also, there will be many opportunities to accumulate small amounts of points
+throughout the semester by participating in classroom exercises and
+reflecting on the material. These will total at least 40 points, most likely more.
 
 ## <a name="scale">Grading Scale</a>
 
