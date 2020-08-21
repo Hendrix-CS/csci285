@@ -35,6 +35,61 @@ successes and failures. Record your solutions and
 attempts in `Code` blocks, and annotate what you did with `MarkDown` blocks.
 Cite all the webpages you find and use in your search for your solution.
 
+## Installing Anaconda
+
+To analyze our data this semester, we will be using Anaconda and
+Jupyter Notebooks, and hosting these on our own computers. What we will be
+doing is usually too large for the free cloud-based notebooks like
+Azure.
+
+The [Anaconda Installation](https://docs.anaconda.com/anaconda/install/)
+page lists many instructions for multiple operating systems. Follow the
+instructions that make sense to you, choosing the Python 3.7 version.
+
+### Open a Jupyter Notebook
+
+Now we can test to see that everything is working. Follow
+[these instructions](https://docs.anaconda.com/anaconda/install/verify-install/)
+or mine below to get the `root` environment ready.
+
+Then, type `jupyter notebook` and a browser window should appear.
+From here, you can make a notebook as I have demonstrated in class.
+
+### On a Mac
+
+Open up the terminal and type
+
+    conda env list
+
+Hopefully you only see the `root` environment. Then type
+
+    source activate root
+
+to get the mappings correct for your programs.
+
+### On a Windows Machine
+
+Open up the Anaconda Prompt and type
+
+    conda env list
+
+Hopefully you only see the `root` environment. Then type
+
+    activate root
+
+to get the mappings correct for your programs.
+
+## Adding Modules Using pip
+
+At the anaconda prompt with the `root` environment activated, type:
+
+    pip install matplotlib
+    pip install pandas
+    pip install plotnine
+    pip install scipy
+    pip install numpy
+    pip install scikit-learn
+
 ## Grading
 
 * 20 points for code which leads to the correct answer.
