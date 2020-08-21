@@ -1,8 +1,8 @@
 ---
 layout: work
 type: Lab
-num: X
-worktitle: BLAH BLAH BLAH
+num: 8
+worktitle: Optimization
 ---
 
 ## Overview
@@ -50,7 +50,6 @@ resulting journey, and show how long this journey will take.
 ## Grading
 
 * 10 points for well-written explanation of data provenance, discussion of each graph, and summary.
-* To earn a 10, do the above and
-* To earn a 14, do the above and
-* To earn a 17, do the above and
-* To earn a 20, do the above and
+* 10 points for TSP Extensions code
+* 10 points for GA Extensions code
+* 10 points for Intertellar Journey code
