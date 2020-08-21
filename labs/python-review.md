@@ -35,6 +35,10 @@ successes and failures. Record your solutions and
 attempts in `Code` blocks, and annotate what you did with `MarkDown` blocks.
 Cite all the webpages you find and use in your search for your solution.
 
+{% include warning.html content="For this lab, you can collaborate with your team, but each member must turn in a 
+notebook that they created on their own machine, to ensure they have
+installed and can use the tools needed to be successful the rest of the semester." %}
+
 ## Installing Anaconda
 
 To analyze our data this semester, we will be using Anaconda and
