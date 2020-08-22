@@ -48,18 +48,19 @@ Azure.
 
 The [Anaconda Installation](https://docs.anaconda.com/anaconda/install/)
 page lists many instructions for multiple operating systems. Follow the
-instructions that make sense to you, choosing the Python 3.8 version.
+instructions that make sense to you.
+The most recent Anaconda version is 2020.07.
 
 ### Open a Jupyter Notebook
 
 Now we can test to see that everything is working. Follow
 [these instructions](https://docs.anaconda.com/anaconda/install/verify-install/)
-or mine below to get the `root` environment ready.
+or mine below to get the `base` environment ready.
 
 Then, type `jupyter notebook` and a browser window should appear.
 From here, you can make a notebook as I have demonstrated in class.
 
-### On a Mac
+#### On a Mac
 
 Open up the terminal and type
 
@@ -71,7 +72,7 @@ Hopefully you only see the `base` environment. Then type
 
 to get the mappings correct for your programs.
 
-### On a Windows Machine
+#### On a Windows Machine
 
 Open up the Anaconda Prompt and type
 
@@ -85,7 +86,7 @@ to get the mappings correct for your programs.
 
 ## Adding Modules Using pip
 
-At the anaconda prompt with the `root` environment activated, type:
+At the anaconda prompt with the `base` environment activated, type:
 
     pip install matplotlib
     pip install pandas
