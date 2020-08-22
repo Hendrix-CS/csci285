@@ -35,7 +35,7 @@ successes and failures. Record your solutions and
 attempts in `Code` blocks, and annotate what you did with `MarkDown` blocks.
 Cite all the webpages you find and use in your search for your solution.
 
-{% include warning.html content="For this lab, you can collaborate with your team, but each member must turn in a 
+{% include warning.html content="For this lab, you can collaborate with your team, but each member must turn in a
 notebook that they created on their own machine, to ensure they have
 installed and can use the tools needed to be successful the rest of the semester." %}
 
@@ -48,7 +48,7 @@ Azure.
 
 The [Anaconda Installation](https://docs.anaconda.com/anaconda/install/)
 page lists many instructions for multiple operating systems. Follow the
-instructions that make sense to you, choosing the Python 3.7 version.
+instructions that make sense to you, choosing the Python 3.8 version.
 
 ### Open a Jupyter Notebook
 
@@ -65,9 +65,9 @@ Open up the terminal and type
 
     conda env list
 
-Hopefully you only see the `root` environment. Then type
+Hopefully you only see the `base` environment. Then type
 
-    source activate root
+    source activate base
 
 to get the mappings correct for your programs.
 
@@ -77,9 +77,9 @@ Open up the Anaconda Prompt and type
 
     conda env list
 
-Hopefully you only see the `root` environment. Then type
+Hopefully you only see the `base` environment. Then type
 
-    activate root
+    activate base
 
 to get the mappings correct for your programs.
 
