@@ -93,6 +93,7 @@ At the anaconda prompt with the `base` environment activated, type:
     pip install plotnine
     pip install scipy
     pip install numpy
+    pip install geopandas
     pip install scikit-learn
 
 ## Grading
