@@ -39,7 +39,7 @@ When we write code together in class, it will be posted here!
 
 | Date | Topic | Code |
 |:----:|------||-----||
-| F 21 Aug | Python Review| [Intro Notebook]() |
+| M 24 Aug | Python Review | [Counting C Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Counting_Cs.ipynb) |
 
 <hr>
 
@@ -52,7 +52,7 @@ and small group work sessions, with video and audio turned on for at least part 
 each class. There will be regular attendance polls and the chat feature for additional
 forms of course participation. If you have difficulties meeting these expectations,
 please contact me, the Office of Academic Success, the IT HelpDesk, and the Provost's Office
-to discuss alternate accomodations.
+to discuss alternate accommodations.
 
 # Coursework
 
