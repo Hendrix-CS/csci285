@@ -40,6 +40,8 @@ When we write code together in class, it will be posted here!
 | Date | Topic | Code |
 |:----:|------||-----||
 | M 24 Aug | Python Review | [Counting C Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Counting_Cs.ipynb) |
+| F 28 Aug | Data Visualization | [Birdwatching Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Goadrich%20Bird%20Data.ipynb)
+[goadrich_summer_bird_journal_2020.csv]({{site.baseurl}}/data/goadrich_summer_bird_journal_2020.csv)|
 
 <hr>
 
@@ -88,9 +90,9 @@ will receive at most half credit.
 |8 | [Optimization]({{site.baseurl}}/labs/optimization.html) |
 |9 | [Deep Learning]({{site.baseurl}}/labs/deep-learning.html) |
 
-Much of your experience with programming in this course will be through semi-weekly labs. Each lab will be assigned in lab with time allotted to work through the materials, and will be due **by the start of the following lab**. All labs are weighted equally within the lab portion of your final grade.
+Much of your experience with programming in this course will be through semi-weekly labs. Each lab will be assigned on Monday with time allotted to work through the materials, and will typically be due **at Friday 11:59pm of that week**. All labs are weighted equally within the lab portion of your final grade.
 
-On these labs, you will work with a partner on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment. If students working as partners wish to turn in a lab late, both students must use a late day.
+On these labs, you will work with partners on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment. If students working as partners wish to turn in a lab late, all students must use a late day.
 
 ## <a name="projects">Project</a>: 300 points
 
