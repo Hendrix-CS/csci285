@@ -40,9 +40,12 @@ When we write code together in class, it will be posted here!
 | Date | Topic | Code |
 |:----:|------||-----||
 | M 24 Aug | Python Review | [Counting C Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Counting_Cs.ipynb) |
-| F 28 Aug | Data Visualization | [Birdwatching Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Goadrich%20Bird%20Data.ipynb) [birds.csv]({{site.baseurl}}/assets/data/goadrich_summer_bird_journal_2020.csv) |
-| M 31 Aug | | [chickwts.txt]({{site.baseurl}}/assets/data/chickwts.txt) [palmerpenquins](https://github.com/allisonhorst/palmerpenguins) |
-| | | [Lake Trout Otolith Growth Increment Measurements](https://alaska.usgs.gov/products/data.php?dataid=306) [lakeTrout.csv]({{site.baseurl}}/assets/data/lakeTrout.csv)  |
+| F 28 Aug | Data Visualization | [Birdwatching Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Goadrich%20Bird%20Data.ipynb) |
+| | | [birds.csv]({{site.baseurl}}/assets/data/goadrich_summer_bird_journal_2020.csv) |
+| M 31 Aug | | [chickwts.txt]({{site.baseurl}}/assets/data/chickwts.txt) |
+| | | [palmerpenquins](https://github.com/allisonhorst/palmerpenguins) |
+| | | [Lake Trout Otolith Growth Increment Measurements](https://alaska.usgs.gov/products/data.php?dataid=306) |
+| | | [lakeTrout.csv]({{site.baseurl}}/assets/data/lakeTrout.csv)  |
 
 <hr>
 
