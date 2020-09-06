@@ -47,6 +47,7 @@ When we write code together in class, it will be posted here!
 | | | [Lake Trout Otolith Growth Increment Measurements](https://alaska.usgs.gov/products/data.php?dataid=306) |
 | | | [lakeTrout.csv]({{site.baseurl}}/assets/data/lakeTrout.csv)  |
 | | | [More Bird Data Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/More%20Bird%20Data.ipynb) |
+| F 4 Sep | GeoPandas | [GeoPandas Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/GeoPandas%20Example.ipynb) |
 
 <hr>
 
