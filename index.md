@@ -48,6 +48,7 @@ When we write code together in class, it will be posted here!
 | | | [lakeTrout.csv]({{site.baseurl}}/assets/data/lakeTrout.csv)  |
 | | | [More Bird Data Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/More%20Bird%20Data.ipynb) |
 | F 4 Sep | GeoPandas | [GeoPandas Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/GeoPandas%20Example.ipynb) |
+| M 7 Sep | Choropleths | [Extended GeoPandas Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/GeoPandas%20and%20Choropleths.ipynb) |
 
 <hr>
 
