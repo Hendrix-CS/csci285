@@ -23,7 +23,7 @@ breast and ovarian cancer, found in the publication
 Schaener et al. Mol. Biol. Cell, Nov 1 2003, vol 14, no 11. The
 following file contains a subset of their experimental data.
 
--   [Ovarian and Breast Cancer Data]({{site.baseurl}}/assets/data/cancergenes.csv) 
+-   [Ovarian and Breast Cancer Data]({{site.baseurl}}/assets/data/cancergenes.csv)
 
 Create a Jupyter notebook, and read this file into a Pandas DataFrame.
 The gene expression data is separated by tabs. The first row specifies the labels of
@@ -101,7 +101,7 @@ Describe how much variance is explained through using these components.
 
 ### Step 5
 
-Finally, load up the data file that includes the cell types for each of the
+Finally, load up the data file `E-MTAB-62.sdrf.txt` that includes the cell types for each of the
 samples used in the study.
 
 Color your plot above using the
@@ -109,8 +109,6 @@ Color your plot above using the
 
 Then make another plot using the
 `Factor Value[4 meta-groups]` column for the color.
-
-https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-62/E-MTAB-62.sdrf.txt
 
 Report on any patterns you notice in the figure.
 
