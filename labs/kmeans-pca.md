@@ -50,7 +50,7 @@ Construct a heatmap where red indicates that this gene is expressed
 much less than expected in control conditions (negative numbers), and green
 indicates that this gene is expressed much more than expected (positive numbers).
 
-Plot your data discuss any patterns you notice in the figure.
+Discuss any patterns you notice in the figure.
 
 ### Step 3
 
@@ -62,11 +62,10 @@ Reorganize your data by making the NAME column Categorical
 based on these clusters, such that the genes in one
 cluster are placed above the genes in the other cluster.
 
-Draw a plot with this new data, and report on any patterns you
-notice in the figure.
+Draw a plot with this new data.
 
-Compare the figure you created with those
-found in the original scientific paper.
+Report on any patterns you notice in the figure, and compare the figure you
+created with those found in the original scientific paper.
 
 ### Step 4
 
@@ -110,15 +109,13 @@ Color your plot above using the
 Then make another plot using the
 `Factor Value[4 meta-groups]` column for the color.
 
-Report on any patterns you notice in the figure.
+Report on any patterns you notice in the figures.
 
-Compare the figure you created with those
+Compare the figures you created with those
 found in the original scientific paper.
 
 ## Grading
 
-* To earn a 5, demonstrate
-* To earn a 10, do the above and
-* To earn a 14, do the above and
-* To earn a 17, do the above and
-* To earn a 20, do the above and
+* 15 points for loading the cancer data, clustering, and drawing heatmaps.
+* 15 points for loading the cell data, using PCA, and drawing figures.
+* 10 points for well-written explanation of data, discussion of each graph, and summary section.
