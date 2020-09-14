@@ -49,6 +49,7 @@ When we write code together in class, it will be posted here!
 | | | [More Bird Data Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/More%20Bird%20Data.ipynb) |
 | F 4 Sep | GeoPandas | [GeoPandas Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/GeoPandas%20Example.ipynb) |
 | M 7 Sep | Choropleths | [Extended GeoPandas Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Geopandas%20and%20Choropleths.ipynb) |
+| M 14 Sep | Clustering | [Heatmaps and Clustering Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Heatmaps%20and%20Clustering.ipynb) |
 
 <hr>
 
