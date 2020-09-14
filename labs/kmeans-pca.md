@@ -23,7 +23,7 @@ breast and ovarian cancer, found in the publication
 Schaener et al. Mol. Biol. Cell, Nov 1 2003, vol 14, no 11. The
 following file contains a subset of their experimental data.
 
--   [Ovarian and Breast Cancer Data]({{site.baseurl}}/assets/data/cancergenes.csv)
+-   [Ovarian and Breast Cancer Data]({{site.baseurl}}/assets/data/cancergenes.txt)
 
 Create a Jupyter notebook, and read this file into a Pandas DataFrame.
 The gene expression data is separated by tabs. The first row specifies the labels of
