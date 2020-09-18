@@ -18,7 +18,7 @@ social interactions, to learn more about these amazing
 animals on the edge of extinction in their native Madagascar.
 
 In this exam, you will be analyzing
-[two datasets about lemurs](https://lemur.duke.edu/duke-lemur-center-database/)
+[two datasets](https://lemur.duke.edu/duke-lemur-center-database/)
 about lemurs in residence at the DLC, which can be cited as
 *Zehr, SM, Roach RG, Haring D, Taylor J, Cameron FH, Yoder AD. Life history profiles for 27 strepsirrhine primate taxa generated using captive data from the Duke Lemur Center. Sci. Data 1:140019 doi: 10.1038/sdata.2014.19 (2014).*
 
@@ -72,7 +72,7 @@ Draw a boxplot of adult lemur's weight in grams versus the species
 What
 differences do you notice in this plot?
 
-Discuss what you notice
+Discuss what you notice in
 the data for the sifaka species.
 
 ### Step 4
@@ -99,7 +99,7 @@ noticing all along.
 Search the web for this name
 plus "duke lemur center" and summarize your findings.
 
-## Clustering Across Species
+## A Conspiracy of Lemurs
 
 ![Sifaka Selfie from DLC](../assets/images/sifakas.jpg){: .pull-right .w-50 .img-fluid}
 
