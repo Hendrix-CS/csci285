@@ -41,8 +41,10 @@ the following files.
       * DataRecord_3_DLC_Weight_File_05Feb2019.csv
       * DLC_WeightFile_VariableDescriptions_and_UsageNotes_08Feb2019.pdf
 
-{% include important.html content="If you are having trouble opening the files because of a UTF-8 error, please try my local copies of the
-[Weight]({{site.baseurl}}/assets/data/DataRecord_3_DLC_Weight_File_05Feb2019) and [Life History]({{site.baseurl}}/assets/data/DataRecord_1b_DLC_LH_Table_Analysis_05Feb2019) files." %}
+{% include important.html content="If you are having trouble opening the files because of a UTF-8 error, please try my local copies of the  files linked below." %}
+
+* [Weight]({{site.baseurl}}/assets/data/DataRecord_3_DLC_Weight_File_05Feb2019.csv)
+* [Life History]({{site.baseurl}}/assets/data/DataRecord_1b_DLC_LH_Table_Analysis_05Feb2019.csv)
 
 ## Lemurs of Unusual Size
 
