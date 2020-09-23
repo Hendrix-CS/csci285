@@ -84,7 +84,7 @@ the data for the sifaka species.
 
 Draw a scatterplot of adult
 [sifaka](https://en.wikipedia.org/wiki/Sifaka) lemur's weight in
-grams versus their age in years at the time of weighing, using an alpha
+grams **on the y axis** versus their age in years at the time of weighing **on the x axis**, using an alpha
 transparency of 0.1.
 
 Add in a linear regression line to this graph.
@@ -94,14 +94,14 @@ Discuss any trends you notice in the data and any outliers.
 ### Step 5
 
 Draw a line graph of **all** (infant/juvenile,
-young adult, and adult) sifaka lemur's weight
-in grams versus their age in years at the time of
-weighing, and color the lines based on the name of the lemur.
+young adult, and adult) sifaka lemur's weight in
+grams **on the y axis** versus their age in years at the time of
+weighing **on the x axis**, and color the lines based on the name of the lemur.
 
 Identify the name of the outlier lemur we have been
 noticing all along.
 
-Search the web for this name
+Search Google for this name in quotes
 plus "duke lemur center" and summarize your findings.
 
 ## A Conspiracy of Lemurs
