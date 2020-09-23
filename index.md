@@ -51,6 +51,8 @@ When we write code together in class, it will be posted here!
 | M 7 Sep | Choropleths | [Extended GeoPandas Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Geopandas%20and%20Choropleths.ipynb) |
 | M 14 Sep | Clustering | [Heatmaps and Clustering Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Heatmaps%20and%20Clustering.ipynb) |
 | W 16 Sep | Principal Component Analysis | [HD Clustering and PCA Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Higher-Dimensional%20Clustering%20and%20PCA.ipynb) |
+| W 23 Sep | Lab 4 Solution | [Clustering and Heatmaps](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Cancer%20Microarray.ipynb) |
+| | | [PCA](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Gene%20Chip%20PCA.ipynb) |
 
 <hr>
 
