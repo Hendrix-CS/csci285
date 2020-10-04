@@ -7,7 +7,7 @@ worktitle: Modeling the System Dynamics of Malaria in Rwanda
 
 ## Description
 
-![Anopheles mosquito](../assets/images/Anopheles.jepg){: .pull-right .w-50 .img-fluid}
+![Anopheles mosquito](../assets/images/Anopheles.jpeg){: .pull-right .w-50 .img-fluid}
 
 The most deadly strain of malaria is caused by [Plasmodia falciparum](https://www.ncbi.nlm.nih.gov/books/NBK555962/),
 which is transmitted by
@@ -117,7 +117,7 @@ augment the model going forward?
 
 * 15 points for documenting your research, diagraming the lifecycle
 using SIR compartment models, and setting up your initial model.
-* 15 points for augmenting your model with each of the three 
+* 15 points for augmenting your model with each of the three
 extensions.
 * 10 points for well-written explanation of data provenance,
 discussion of each graph, and summary.

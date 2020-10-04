@@ -54,6 +54,9 @@ When we write code together in class, it will be posted here!
 | W 23 Sep | Lab 4 Solution | [Clustering and Heatmaps](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Cancer%20Microarray.ipynb) |
 | | | [PCA](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Gene%20Chip%20PCA.ipynb) |
 | M 28 Sep | Population Dynamics | [Euler's Method Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Euler's%20Method.ipynb) |
+| W 30 Sep | Runga Kutta | [Runga-Kutta Methods](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods) |
+|  | | [Runga Kutta Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Runga%20Kutta%20and%20Lorenz.ipynb) |
+| F 2 Oct | Epidemiology | [Epidemiology Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Epidemiology.ipynb) |
 
 <hr>
 
@@ -96,7 +99,7 @@ will receive at most half credit.
 |2 | [Data Visualization]({{site.baseurl}}/labs/visualization.html) |
 |3 | [Choropleths]({{site.baseurl}}/labs/gismashup.html) |
 |4 | [Clustering and PCA]({{site.baseurl}}/labs/kmeans-pca.html) |
-|5 | [Dynamical Systems]({{site.baseurl}}/labs/dynamical.html) |
+|5 | [Dynamical Systems]({{site.baseurl}}/labs/malaria.html) |
 |6 | [Monte Carlo Simulation]({{site.baseurl}}/labs/montecarlo.html) |
 |7 | [Agent-Based Modeling]({{site.baseurl}}/labs/abm.html) |
 |8 | [Optimization]({{site.baseurl}}/labs/optimization.html) |
