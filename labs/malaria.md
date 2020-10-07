@@ -33,7 +33,7 @@ the time involved in each life cycle event.
 
 Based on your research above, draw an SIR
 [compartment model](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) to describe the flow
-of the human population from sick to infected to recovered.
+of the human population from susceptible to infected to recovered.
 
 Draw another SIR compartment model describing the flow of the
 mosquito population.
