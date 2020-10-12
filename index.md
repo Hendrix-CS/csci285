@@ -58,6 +58,8 @@ When we write code together in class, it will be posted here!
 |  | | [Runga Kutta Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Runga%20Kutta%20and%20Lorenz.ipynb) |
 | F 2 Oct | Epidemiology | [Epidemiology Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Epidemiology.ipynb) |
 | M 5 Oct | Drugs and Death | [Epidemiology Revisited Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Epidemiology%20Revisited.ipynb) |
+| F 9 Oct | Randomness | [Random Numbers Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Random%20Numbers.ipynb) |
+| M 12 Oct | Monte Carlo Simulation | [Random Simulation Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Random%20Simulation.ipynb) |
 
 <hr>
 
