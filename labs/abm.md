@@ -116,7 +116,7 @@ You do not need to create sliders, but are welcome to do so if you want.
 
 Visualize your model using the `mesa runserver` method to display the grid.
 
-#### Counting Piles
+#### BONUS - Counting Piles
 
 We would like to know how the number of piles changes over time. We can define a
 pile as a connected group of pieces of `DIRT`. To count the piles, we can
@@ -132,7 +132,7 @@ implement the following algorithm as a static method in the model:
             * mark it to be `True`.
             * recursively search its neighbors.
 
-#### Evaluation
+#### BONUS - Evaluation
 
 Perform a parameter sweep on `num_termites`, from 20 to 80, incrementing by 5, running each parameter choice 4 times, and record the number of piles at
 the end of the simulation.
@@ -149,3 +149,4 @@ Describe what you see in terms of the formation of piles of dirt.
 * 15 points for writing a termite model in step 4.
 * 5 points for well-written explanations of your models and research,
 and discussion of each graph throughout.
+* +10 BONUS points for counting the piles in the Termite model
