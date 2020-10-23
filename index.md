@@ -129,7 +129,7 @@ your final grade. They will consist of **individually** working through
 problems directly related to the labs.
 
 * [Exam 1]({{site.baseurl}}/exams/exam1.html): Sep 18-24, covering data analytics and visualization
-* Exam 2: Oct 23-28, covering modeling and simulation
+* [Exam 2]({{site.baseurl}}/exams/exam2.html): Oct 23-29, covering modeling and simulation
 
 There is no final exam; you will complete a final project instead, as described above under Project.
 
