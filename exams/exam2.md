@@ -92,7 +92,7 @@ For our *second assumption*, to help determine the plurality winner for each sta
 Polls based on a sample of the whole population include a *margin of error*. To determine if Biden will win a particular state, we will generate a random number using a normal distribution, with a mean of Biden's `pct` for that state's poll.
 To account for the margin of error, we will use the following formula to calculate the standard deviation for the poll, which is based on the `sample_size` for that state.
 
-1 / (2 * math.sqrt(sample_size))
+    stdv = 1 / (2 * math.sqrt(sample_size))
 
 ### Step 8
 
