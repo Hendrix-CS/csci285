@@ -38,17 +38,17 @@ and recommended parameters from the Wikipedia page linked above for `a`, `b`, `c
 
 ### Step 2
 
-Run a simulation of your function for 2000 timesteps, using a `dt` of 0.01, and let `I` equal 2.
+Run a simulation of your function for 2000 timesteps, using a `dt` of 0.01, and let `I` equal 2. Use [1, 1, 2] as your initial values for `x`, `y`, and `z`.
 Plot the trajectory of the `y` variable over time, and discuss what you observe.
 
 ### Step 3
 
-Run a simulation of your function for 2000 timesteps, using a `dt` of 0.01, and let `I` equal 1.
+Run a simulation of your function for 2000 timesteps, using a `dt` of 0.01, and let `I` equal 1. Use [1, 1, 2] as your initial values for `x`, `y`, and `z`.
 Plot the trajectory of the `y` variable over time, and discuss what you observe.
 
 ### Step 4
 
-Run a simulation of your function for 2000 timesteps, using a `dt` of 0.01, and let `I` alternate between 1 and 2 every 400 timesteps.
+Run a simulation of your function for 2000 timesteps, using a `dt` of 0.01, and let `I` alternate between 1 and 2 every 400 timesteps. Use [1, 1, 2] as your initial values for `x`, `y`, and `z`.
 Plot the trajectory of the `y` variable over time, and discuss what you observe.
 
 ## Electoral College
