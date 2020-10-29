@@ -140,7 +140,7 @@ Alter your simulation so that each firefly flashes for the first **two** steps o
 
 ## Handin and Grading
 
-Turn in your Jupyter Notebooks on Moodle in the Exam 2 folder.
+Turn in your Jupyter Notebooks, and the zip of the Firefly project, on Moodle in the Exam 2 folder.
 
 {% include important.html content="Add readable labels to your axes,
 include a title for each graph you generate, discuss your results,
