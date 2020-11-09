@@ -7,24 +7,29 @@ worktitle: Optimization
 
 ## Overview
 
-## Description
+In this lab, you will create plots to better understand the local search
+algorithms of gradient descent and simulated annealing, compare two implementations of evolutionary algorithm search, and extend the algorithm to solve a 3D problem.
 
-### Step 1 - TSP Extensions
+### Step 1 - Local Search Plotting
 
-* Create a Tour with 80 random points.
-* Draw a plot of the cost of a tour over time using gradient descent.
-* Draw a plot of the cost of a tour over time using simulated annealing.
+#### Step 1.1 Plotting the internal details
+
+* Create a Tour with 50 random points.
+* Draw a plot of the cost of a tour over time using gradient descent, where each call to calculate the distance of a tour takes 1 unit of time.
+* Draw a plot of the cost of a tour over time using simulated annealing, where each call to calculate the distance of a tour takes 1 unit of time.
 * Draw a scatter plot of the probability of accepting a bad move over time using simulated annealing.
+
+#### Step 1.2 Interchange neighborhood
+
 * Extend the Tour object to include an "interchange" function. Similar to swap,
 it will bring in an *i*th and *j*th city, and reverse the order of all cities
 in between them, including the *i*th and *j*th city.
-* Rerun your simulated annealing algorithm and gradient descent algorithm above, using
-the interchange neighborhood function. How do the results compare?
+* Rerun the simulated annealing and gradient descent algorithms, using
+the interchange neighborhood function. How do the results compare in terms of the quality of solutions found, and the time needed to find them? Be sure to show a plot of the tour, and the graphs create above.
 
-### Step 2 - GA Extensions
+### Step 2 - Evolutionary Algorithm Extensions
 
-Implement one of the crossover techniques below and compare your results to the
-method presented in class.
+Implement one of the crossover techniques below and compare your results to the method presented in class.
 
 * [Cycle Crossover](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
 * [Edge Recombination](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/EdgeRecombinationCrossoverOperator.aspx)
@@ -37,7 +42,7 @@ You are planning a journey for a robotic probe to survey all of the
 Your probe will start at Earth, visit each star once, and return home.
 Convert the distance, right ascension and declination for each
 star to [cartesian coordinates](http://www.astronexus.com/node/37), then plan
-out a close-to-optimal journey using the techniques we have learned in class.
+out a close-to-optimal journey using one of the techniques we have learned in class.
 Assume the probe can travel at half the speed of light.
 
 Write a detailed lab report describing how you scraped
@@ -52,4 +57,4 @@ resulting journey, and show how long this journey will take.
 * 10 points for well-written explanation of data provenance, discussion of each graph, and summary.
 * 10 points for TSP Extensions code
 * 10 points for GA Extensions code
-* 10 points for Intertellar Journey code
+* 10 points for Interstellar Journey code
