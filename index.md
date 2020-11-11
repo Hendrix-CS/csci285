@@ -108,7 +108,6 @@ will receive at most half credit.
 |6 | [Monte Carlo Simulation]({{site.baseurl}}/labs/montecarlo.html) |
 |7 | [Agent-Based Modeling]({{site.baseurl}}/labs/abm.html) |
 |8 | [Optimization]({{site.baseurl}}/labs/optimization.html) |
-|9 | [Deep Learning]({{site.baseurl}}/labs/deep-learning.html) |
 
 Much of your experience with programming in this course will be through semi-weekly labs. Each lab will be assigned on Monday with time allotted to work through the materials, and will typically be due **at Friday 11:59pm of that week**. All labs are weighted equally within the lab portion of your final grade.
 

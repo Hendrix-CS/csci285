@@ -31,9 +31,9 @@ the interchange neighborhood function. How do the results compare in terms of th
 
 Implement one of the crossover techniques below and compare your results to the method presented in class.
 
-* [Cycle Crossover](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
-* [Edge Recombination](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/EdgeRecombinationCrossoverOperator.aspx)
-* [PMX Crossover](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx)
+* [Cycle Crossover](https://web.archive.org/web/20200216005128/http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
+* [Edge Recombination](https://web.archive.org/web/20200215110258/http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/EdgeRecombinationCrossoverOperator.aspx)
+* [PMX Crossover](https://web.archive.org/web/20200216051820/http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx)
 
 ### Step 3 - Interstellar Journey
 
