@@ -61,8 +61,7 @@ When we write code together in class, it will be posted here!
 | F 9 Oct | Randomness | [Random Numbers Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Random%20Numbers.ipynb) |
 | M 12 Oct | Monte Carlo Simulation | [Random Simulation Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Random%20Simulation.ipynb) |
 | F 6 Nov | Local Search | [Local Search Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Local%20Search%20Algorithms.ipynb) |
-| W 11 Nov | Randomized Algorithms | [Simulated Annealing and Evolutionary
-Algorithms Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Local%20Search%20Algorithms%20Full.ipynb) |
+| W 11 Nov | Randomized Algorithms | [Simulated Annealing and Evolutionary Algorithms Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Local%20Search%20Algorithms%20Full.ipynb) |
 
 <hr>
 
