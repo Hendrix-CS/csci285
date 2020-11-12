@@ -94,7 +94,7 @@ Create an agent class called Person which will wander the world. This agent has 
 
 In their step method, they should randomly wander around the world.
 
-If an agent in the `SUSCEPTIBLE` state is at the same location as an `INFECTED` agent, then this agent will change its state to `INFECTED`.
+If an agent in the `SUSCEPTIBLE` state is in the neighborhood of an `INFECTED` agent, then this agent will change its state to `INFECTED`.
 
 If an agent is in the `INFECTED` state, then it will
 recover after 10 timesteps and change to the `RECOVERED` state.
