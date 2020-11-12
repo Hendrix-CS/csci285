@@ -2,7 +2,7 @@
 layout: work
 type: Exam
 num: 2
-worktitle: Painters
+worktitle: Makeup Exam
 ---
 
 ## Description
