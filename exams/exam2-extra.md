@@ -7,7 +7,7 @@ worktitle: Makeup Exam
 
 ## Description
 
-These questions can be attempted to recover points on exam 2.
+These questions can be attempted to recover points on exam 2. It is still the case that these questions should be solved individually. You can ask me as many questions as you want.
 
 ## Modeling Genetic Regulatory Networks
 
@@ -119,7 +119,7 @@ Convert the recovery time for `INFECTED` agents into a parameter. This will requ
 
 ## Handin and Grading
 
-Turn in your Jupyter Notebooks, and the zip of the SIR project, on Moodle in the Exam 2 folder.
+Schedule an individual meeting with me to talk through your solutions to these questions and earn back credit.
 
 {% include important.html content="Add readable labels to your axes,
 include a title for each graph you generate, discuss your results,
