@@ -9,78 +9,111 @@ worktitle: Painters
 
 These questions can be attempted to recover points on exam 2.
 
-## Chemical Reaction
+## Modeling Genetic Regulatory Networks
 
-![Neuron Diagram](../assets/images/neuron.png){: .pull-right .w-50 .img-fluid}
+In biology and genetics, many researchers are trying to understand how the individual
+parts of a cell function as a
+[system](http://en.wikipedia.org/wiki/Systems_biology).
+One type of these systems is know as
+[Genetic Regulatory Networks](http://en.wikipedia.org/wiki/Gene_regulatory_network).
+These networks attempt to capture the mechanisms of cell regulation over time.
+Individual genes can be
+[upregulated or downregulated](http://en.wikipedia.org/wiki/Downregulation_and_upregulation) by other genes active in the cell, flipping
+on or off like light switches or thermostats. These changes in
+regulation are how the body
+reacts to different stimulus. For example, some genes are upregulated in the presence
+of sunlight while others are downregulated. As day and night progress, these creates the
+sleep cycle and
+[circadian rhythm](http://en.wikipedia.org/wiki/Circadian_rhythm) for the organism.
 
-One piece of [computational neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience) involves the simulation of individual neurons.
-Mathematical models with differential equations can be written to capture the
-flow of chemicals across neurons and emulate the spiking and bursting behavior
-over time.
+Researchers
+attempt to model the mechanisms they observe using differential equations.
+We can specify the genetic components of a network, and then add differential
+equations that capture the positive and negative feedback mechanisms we observe, according
+to the [Michaelis-Menten kinetics](http://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics).
 
-One of the more straight-forward [biological neuron models](https://en.wikipedia.org/wiki/Biological_neuron_model) is the [Hindmarsh-Rose](https://en.wikipedia.org/wiki/Hindmarsh%E2%80%93Rose_model). Three variables, `x`, `y`,
-and `z` capture pieces of the membrane and ion channels, with `x` showing the
-spiking of the neuron activation over time.
+We assume each gene is both produced and degraded at each time step.
+To keep things simple, we assume all of the gene is completely degraded after each unit
+of time.
 
 ### Step 1
 
-Write a function to implement the Hindmarsh-Rose neuron model so that it can be
-simulated using the Runga-Kutta 4 method we implemented in class. Use the equations
-and recommended parameters from the Wikipedia page linked above for `a`, `b`, `c`, `d`, `r`, `s`, and `x_R`.
+Write a function to implement the following set
+of differential equations.
+
+![Neuron Diagram](../assets/images/dadt.png)
+![Neuron Diagram](../assets/images/dbdt.png)
+![Neuron Diagram](../assets/images/dcdt.png)
 
 ### Step 2
 
-Run a simulation of your function for 2000 timesteps, using a `dt` of 0.01, and let `I` equal 2. Use [1, 1, 2] as your initial values for `x`, `y`, and `z`.
-Plot the trajectory of the `x` variable over time, and discuss what you observe.
+Assume an initial concentration of 0 for all three genes, with the following values for the constants
+
+* pA = 2
+* pB = 2
+* pC = 5
+* kAC = 1
+* kBA = 1
+* kCA = 1
+* kCB = 100
+
+Use Runga-Kutta 4 to simulate the change in this system over time for 10 timesteps, using an appropriately small dt.
+
+Draw a figure showing the concentrations of each gene over time.
+
+How long does it take to reach a steady state?
 
 ### Step 3
 
-Run a simulation of your function for 2000 timesteps, using a `dt` of 0.01, and let `I` equal 1. Use [1, 1, 2] as your initial values for `x`, `y`, and `z`.
-Plot the trajectory of the `x` variable over time, and discuss what you observe.
+Rerun the simulation of your function above, but assume an initial concentration of 1 for all three genes.
+
+Draw a figure of the change in this system over time for 10 timesteps, using an appropriately small dt.
+
+What differences do you notice?
 
 ### Step 4
 
-Run a simulation of your function for 2000 timesteps, using a `dt` of 0.01, and let `I` alternate between 1 and 2 every 400 timesteps. Use [1, 1, 2] as your initial values for `x`, `y`, and `z`.
-Plot the trajectory of the `x` variable over time, and discuss what you observe.
+The production constants above can be parameterized to allow for outside influence on
+the network. In our case, we will assume the production of A can be controlled by
+light, and set up an experiment when the lights are toggled every three hours, starting with
+the lights on.
 
-## Painters
+Modify your code from above so that `pA` is 2 when the lights are on, and 0 when the lights are off.
+
+Discuss how this changes the behavior of your model.
+
+## SIR Agents
+
+We will be recreating the SIR model of infection spread using an agent-based model.
 
 ### Step 5
 
-You are an artist interested in creating collaborative abstract art. You have hired the painters to paint the world and make paintings for you.
+Create an agent class called Person which will wander the world. This agent has one property, their state, which is given as a parameter in the initialization method.
 
-* Create an agent class called Environment to store the color of each cell in the world. This agent has one property, their color, which is initially "GREEN".
+In their step method, they should randomly wander around the world.
 
-* Create an agent class called Painter which will wander the world and paint the Environment. This agent has one property, their color, which is initially "GREEN". In their step function, they should randomly wander around the world.
+If an agent in the `SUSCEPTIBLE` state is at the same location as an `INFECTED` agent, then this agent will change its state to `INFECTED`.
 
-* Set up the model to have height of 50 and width of 50, with an Environment cell in each coordinate.
-
-* Add to your model 30 Painters in each of two colors, red and white. These Painters should be placed randomly in the world.
+If an agent is in the `INFECTED` state, then it will
+recover after 10 timesteps and change to the `RECOVERED` state.
 
 ### Step 6
 
-You must next add code to have the turtles paint the world. The turtles follow a simple rule: if they see an empty (green) patch, paint it with their own color, then wiggle. You need to
-Draw a state transition diagram to describe this behavior.
-Create a Wiggle procedure
-Create a Paint procedure (use an if statement)
-Add a forever block that includes these two procedures
-Run this model and report on the resulting painting in the world.
+Set up the model to have height of 50 and width of 50.
 
-Question 3
-You hire another set of turtles, but they are not entirely reliable. As before, if they see a green patch, they color it with their color, but if they see a patch that is already colored but is not their own color, they change into that color and start painting with this new color. For example, a red turtle encounters a white patch, causing it to become a white turtle. This turtle is now painting green patches white.
-Draw a state transition diagram to describe this behavior.
-Create a Paint2 procedure (use if statements)
-Replace Paint with Paint2 in your forever block
-Run this model. Discuss any differences between the paintings from the turtles in Question 2 and Question 3.
+Add to your model 99 Person agents, starting in random locations, with the state `SUSCEPTIBLE`.
 
-Question 4
-You hire a third set of turtles, which follow a slightly different set of rules. If they encounter a green patch, they paint it their color, but if they encounter a colored patch that is not their own, they first change into that color then color this patch green. For example, a red turtle encounters a white patch, causing it to become a white turtle and paint the white patch green, and this turtle is now painting green patches white.
-Draw a state transition diagram to describe this behavior.
-Create a Paint3 procedure (use if statements)
-Replace Paint2 with Paint3 in your forever block
-Run this model. Discuss any differences between this model and the models in Questions 2 and Questions 3. Why do you think this model behaves the way it does? Which pictures do you prefer and why?
+Add to your model 1 Person agent, starting in a random location, with the state `INFECTED`.
 
+Visualize your Persons using the server, using a circle to portray the agents on the screen. The `SUSCEPTIBLE` agents should be blue, the `INFECTED` agents should be red, and the `RECOVERED` agents should be green.
 
+### Step 7
+
+Set up your agent and model clases in a Jupyter notebook, and run your simulation until there are no more `INFECTED` Persons. Use a DataCollector to record the number of agents in the world that in each state at every timestep. Plot this data using ggplot and a line graph. You will want to melt your dataframe to plot all three on the same graph. What can you say about your results? How does this ABM relate to the previous differential equation SIR model?
+
+### Step 8
+
+Convert the recovery time for `INFECTED` agents into a parameter. This will require changes to the model, and to the server for this to be a `UserSettableParameter`. Rerun your experiment and plots for Step 7 with values of 5 and 20. Compare and contrast these new plots.
 
 ## Handin and Grading
 
