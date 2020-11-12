@@ -41,7 +41,7 @@ of time.
 Write a function to implement the following set
 of differential equations.
 
-![Neuron Diagram](../assets/images/dadt.png
+![Neuron Diagram](../assets/images/dadt.png)
 
 ![Neuron Diagram](../assets/images/dbdt.png)
 
