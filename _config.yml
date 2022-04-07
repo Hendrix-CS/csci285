@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 number: CSCI 285
 title: Scientific Computing
-semester: Fall 2020
+semester: Fall 2022
 
 navigation:
   - title: Overview
@@ -58,18 +58,16 @@ navigation:
     url: '#commitments'
 
 instructors:
-  - id: goadrich
-    name: Dr. Mark Goadrich
-    email: goadrich@hendrix.edu
-    web: http://mark.goadrich.com
-    phone: (501) 450-1367
-    officehours: http://mark.goadrich.com/schedule.html
+  - id: wilson
+    name: Prof. Joshua Wilson
+    email: wilsonj@hendrix.edu
+    phone: (919) 323-6369
 
 offerings:
   - name: LECTURE 01
-    loc: MCREY 115
-    time: MWF 10:10am - 11:00am
-    instructor: goadrich
+    loc: MCREY 315
+    time: TR 2:45 -4:00pm
+    instructor: wilson
 
 resources:
   - name: Python 3
