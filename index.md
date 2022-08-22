@@ -13,14 +13,16 @@ layout: course-single
 
 ## <a name="goals">Learning Goals</a>
 
-Upon completing this course, my goal is for you to be able to:
+Upon completing this course, you will be able to,
 
-* Visualize data from a wide variety of sources,
-* Analyze data using exploratory data analysis and clustering techniques
-* Build and solve system dynamics problems,
-* Construct a Monte-Carlo simulation model,
-* Develop agent-based models for complex simulations,
-* Approximate the roots of a continuous function by several techniques and understand the strengths and limitations of these techniques.
+* Analyze & visualize data sets from a variety of sources.
+* Learn several analysis techniques include EDA, clustering, and regression.
+* Model and solve system dynamics problems.
+* Construct a Monte-Carlo simulation model.
+* Develop agent-based models for complex simulations.
+* Approximate the roots of continuous functions.
+* Understand the strengths and limitations of numerical techniques.
+* Write idiomatic python and use scientific python libraries.
 
 <br>
 

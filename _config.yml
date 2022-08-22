@@ -76,6 +76,9 @@ resources:
   - name: Anaconda
     image: assets/images/anaconda.png
     url: https://www.anaconda.com/products/individual
+  - name: Kaggle
+    image: assets/images/kaggle.png
+    url: https://www.kaggle.com/
   - name: Pandas
     image: assets/images/pandas.png
     url: https://pandas.pydata.org/
