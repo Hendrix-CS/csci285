@@ -28,9 +28,7 @@ Upon completing this course, you will be able to,
 
 ### W2 Requirements
 
-This course is designated as a <a href="https://www.hendrix.edu/Faculty_Handbook/2020-2021/Academic_Policies_and_Procedures/F_2_c__Writing_Across_the_Curriculum/">W2 Writing Intensive Course</a> and
-includes these learning goals and assessment criteria. Writing will be assessed throughout
-the semester through lab reports and the final paper, with multiple revision
+This course is designated as a <a href="https://www.hendrix.edu/Faculty_Handbook/2020-2021/Academic_Policies_and_Procedures/F_2_c__Writing_Across_the_Curriculum/">W2 Writing Intensive Course</a> and includes these learning goals and assessment criteria. Writing will be assessed throughout the semester through lab reports and the final paper, with multiple revision
 opportunities and feedback provided regularly.
 
 <br>
@@ -43,7 +41,7 @@ We will be meeting this semester in MCREY 315. This course will be using all of 
 
 ## <a name="checkins">Checkins</a>
 
-Three times throughout the semester, you are expected to make an office hours appointment and check in with me about the course. This will be conversation and feedback about your current progress and understanding. These should be scheduled during the weeks shown on the course calendar.
+Three times throughout the semester, you are expected to make an office hours appointment and check in with me about the course. This will be conversation and feedback about your current progress and understanding. These should be scheduled, in advance, using the available time slots [found here](TBD). These checkins are a component of your final grade.
 
 <br>
 
@@ -92,11 +90,9 @@ TBD
 
 # <a name="calendar">Calendar</a>
 
-When we write code together in class, it will be posted here!
-
-| Date | Topic | Code |
+| Date | Topic | Resources |
 |:----:|------||-----||
-| T 8/23 | Python Review | [Counting C Notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/Counting_Cs.ipynb) |
+| T 8/23 | Introduction to `pandas` | |
 
 
 <br>
