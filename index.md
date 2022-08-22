@@ -92,39 +92,41 @@ TBD
 
 | Date | Topic | Resources |
 |:----:|------||-----||
-| T 8/23 | Introduction to `pandas` | |
-| R 8/25 | | |
-| T 8/30 | | |
-| R 9/1 | | |
-| T 9/6 | | |
-| R 9/8 | | |
-| T 9/13 | | |
-| R 9/15 | | |
-| T 9/20 | | |
-| R 9/22 | | |
-| T 9/27 | | |
-| R 9/29 | | |
-| T 10/4 | | |
-| R 10/6 | | |
-| T 10/11 | | |
-| R 10/13 | | |
-| T 10/18 | | |
-| R 10/20 | | |
+| T 8/23  | Start Module #1 (Data Analysis) | |
+|         | Intro to pandas | |
+| R 8/25  | Lab #1 | |
+| T 8/30  | | |
+| R 9/1   | Lab #2 | |
+| T 9/6   | | |
+| R 9/8   | Lab #3 | |
+| T 9/13  | | |
+| R 9/15  | Lab #4 | |
+| T 9/20  | Module #1 Review & Catch-up | |
+| R 9/22  | Class cancelled | |
+| T 9/27  | Exam #1 | |
+| R 9/29  | Start Module #2 (Modeling) | |
+| T 10/4  | | |
+| R 10/6  | Lab #5 | |
+| T 10/11 | **Due**:  Project topic selection one-pager | |
+| R 10/13 | No class (fall break) | |
+| T 10/18 | **Due**:  Project overview one-pager | |
+| R 10/20 | Lab #6 | |
 | T 10/25 | | |
-| R 10/27 | | |
-| T 11/1 | | |
-| R 11/3 | | |
-| T 11/8 | | |
-| R 11/10 | | |
-| T 11/15 | | |
+| R 10/27 |  Project overview presentation day | |
+| T 11/1  | **Due**: Model descriptions one-pager | |
+| R 11/3  | Lab #7 | |
+| T 11/8  | Module #2 Review & Catch-up | |
+| R 11/10 | Exam #2 | |
+| T 11/15 | Start Module #3 | |
+|         | **Due**: Project paper rough draft | |
 | R 11/17 | | |
-| T 11/22 | | |
-| R 11/24 | | |
-| T 11/29 | | |
-| R 12/1 | | |
-| T 12/6 | | |
-| R 12/8 | | |
+| T 11/22 | Lab #8 | |
+| R 11/24 | No class (thanksgiving break) | |
+| T 11/29 | Project presentation day | |
+| R 12/1  | | |
+| T 12/6  | Module #3 Review & Catch-up | |
+| R 12/8  | Exam #3 | |
 | T 12/13 | | |
-| R 12/15 | | |
+| R 12/15 | **Due**: Project data, implementation, and final draft | |
 
 <br>
