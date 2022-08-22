@@ -48,10 +48,10 @@ navigation:
     subfolderitems:
       - page: Labs
         url: '#labs'
-      - page: Project
-        url: '#projects'
       - page: Exams
         url: '#exams'
+      - page: Final Project
+        url: '#project'
   - page: Calendar
     url: '#calendar'
   - page: Commitments
