@@ -36,24 +36,24 @@ navigation:
         url: '#description'
       - page: Learning Goals
         url: '#goals'
+      - page: Attendance
+        url: '#attendance'
+      - page: Checkins
+        url: '#checkins'
+      - page: Late Work Policy
+        url: '#latework'
       - page: Resources
         url: '#resources'
-  - page: In-Class Code
-    url: '#inclasscode'
   - title: Coursework
     subfolderitems:
-      - page: Checkins
-        url: '#hwqz'
       - page: Labs
         url: '#labs'
       - page: Project
         url: '#projects'
       - page: Exams
         url: '#exams'
-      - page: Scale
-        url: '#scale'
   - page: Calendar
-    url: 'https://app.teamgantt.com/public/projects/calendar/2020-08-01?ids=2238941&projectIds=2238941&publicKeys=fItPsEP7nOQ4'
+    url: '#calendar'
   - page: Commitments
     url: '#commitments'
 
@@ -66,7 +66,7 @@ instructors:
 offerings:
   - name: LECTURE 01
     loc: MCREY 315
-    time: TR 2:45 -4:00pm
+    time: TR 2:45 - 4:00pm
     instructor: wilson
 
 resources:
