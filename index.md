@@ -66,7 +66,15 @@ In order to spend a late day, the instructor must be notified, by email, prior t
 
 <br>
 
+## <a name="labs">Labs</a>
 
+Much of your experience with programming in this course will be through labs. We will set aside time in class for working on labs together. The instructor will make time for lab Q/A every week to address common pain points and we'll generally spend half of our in class time working on labs together. Labs will be issued on the morning of a "lab day" and will be due by the next "lab day". **Attendance is required** on these days. This means that most labs will be given around a week to complete. All labs are weighted equally within the lab portion of your final grade.
+
+
+
+On these labs, you will work with partners on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a ***\*single copy\**** of the assignment. If students working as partners wish to turn in a lab late, all students must use a late day.
+
+<br>
 
 # <a name="calendar">Calendar</a>
 
