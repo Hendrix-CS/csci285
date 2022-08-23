@@ -76,21 +76,15 @@ resources:
   - name: Anaconda
     image: assets/images/anaconda.png
     url: https://www.anaconda.com/products/individual
-  - name: Kaggle
-    image: assets/images/kaggle.png
-    url: https://www.kaggle.com/
   - name: Pandas
     image: assets/images/pandas.png
     url: https://pandas.pydata.org/
-  - name: Plotnine
-    image: assets/images/plotnine.png
+  - name: Matplotlib
+    image: assets/images/matplotlib.png
     url: https://plotnine.readthedocs.io/en/stable/
   - name: Mesa
     image: assets/images/mesa_logo.png
     url: https://mesa.readthedocs.io/en/master/#
-  - name: TensorFlow
-    image: assets/images/tensorflow.png
-    url: https://www.tensorflow.org/
 
 # Build settings
 markdown: kramdown
