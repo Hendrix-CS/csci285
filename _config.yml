@@ -38,7 +38,7 @@ navigation:
         url: '#goals'
       - page: Attendance
         url: '#attendance'
-      - page: Checkins
+      - page: Check ins
         url: '#checkins'
       - page: Late Work Policy
         url: '#latework'
