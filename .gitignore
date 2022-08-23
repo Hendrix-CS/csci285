@@ -22,7 +22,6 @@ _site
 web/hakyll
 *.hi
 *.o
-*.pdf
 
 exams-solutions/
 csci150-instructors/
