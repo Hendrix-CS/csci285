@@ -41,3 +41,4 @@ lectures/S17/__pycache__/
 /homework/recursion.tex
 *.md.tex
 homework/*.tex
+**/.ipynb_checkpoints/

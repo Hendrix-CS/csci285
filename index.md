@@ -94,7 +94,7 @@ TBD
 |:----:|------||-----||
 | T 8/23  | Start Module #1 (Data Analysis) | [lecture_1.pdf](assets/pres/lecture_1.pdf) |
 |         | Intro to pandas | [ipynb](assets/notebooks/Palmer_Penguins_1.ipynb) [raw](assets/data/penguins_raw.csv) [cleaned](assets/data/penguins.csv) |
-| R 8/25  | Lab #1 | [Lake Trout](labs/pandas.md) [ipynb](assets/notebooks/pandas_intro.ipynb) |
+| R 8/25  | Lab #1 | [Lake Trout](labs/pandas.md) [ipynb](assets/notebooks/pandas_intro.ipynb) [lecture_2.pdf](assets/pres/lecture_2.pdf) |
 | T 8/30  | | |
 | R 9/1   | Lab #2 | |
 | T 9/6   | | |
