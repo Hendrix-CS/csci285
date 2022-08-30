@@ -41,7 +41,7 @@ We will be meeting this semester in MCREY 315. This course will be using all of 
 
 ## <a name="checkins">Checkins</a>
 
-Three times throughout the semester, you are expected to make an office hours appointment and check in with me about the course. This will be conversation and feedback about your current progress and understanding. These should be scheduled, in advance, using the available time slots [found here](TBD). These checkins are a component of your final grade.
+Three times throughout the semester, you are expected to make an office hours appointment and check in with me about the course. This will be conversation and feedback about your current progress and understanding. These should be scheduled, in advance, using the available time slots [found here](https://calendly.com/wilsojb/30min). These checkins are a component of your final grade.
 
 <br>
 

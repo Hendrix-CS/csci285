@@ -68,6 +68,7 @@ offerings:
     loc: MCREY 315
     time: TR 2:45 - 4:00pm
     instructor: wilson
+    officehours: https://calendly.com/wilsojb/30min
 
 resources:
   - name: Python 3
