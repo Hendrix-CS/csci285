@@ -90,12 +90,16 @@ TBD
 
 # <a name="calendar">Calendar</a>
 
+Here is a link to the deck I'm presenting in class each week: [slides.pdf](assets/pres/slides.pdf). I'll continue to update this link with new slides after each class period.
+
+
 | Date | Topic | Resources |
 |:----:|------||-----||
-| T 8/23  | Start Module #1 (Data Analysis) | [lecture_1.pdf](assets/pres/lecture_1.pdf) |
-|         | Intro to pandas | [ipynb](assets/notebooks/Palmer_Penguins_1.ipynb) [raw](assets/data/penguins_raw.csv) [cleaned](assets/data/penguins.csv) |
-| R 8/25  | Lab #1 | [Lake Trout](labs/pandas.md) [ipynb](assets/notebooks/pandas_intro.ipynb) [lecture_2.pdf](assets/pres/lecture_2.pdf) |
-| T 8/30  | | |
+| T 8/23  | Start Module #1 (Data Analysis) |  |
+|         | Intro to pandas | [Palmer_Penguins_1](assets/notebooks/Palmer_Penguins_1.ipynb) [raw data](assets/data/penguins_raw.csv) [cleaned data](assets/data/penguins.csv) |
+| R 8/25  | [Lab #1: Lake Trout](labs/pandas.md) | [pandas_intro](assets/notebooks/pandas_intro.ipynb) |
+| T 8/30  | Markdown overview | [dillinger.io](https://dillinger.io/) |
+|         | Intro to seaborn  | [Palmer_Penguins_2](assets/notebooks/Palmer_Penguins_2.ipynb) [cleaned data](assets/data/penguins.csv) |
 | R 9/1   | Lab #2 | |
 | T 9/6   | | |
 | R 9/8   | Lab #3 | |
