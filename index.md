@@ -91,6 +91,17 @@ Each assignment is assessed as **Complete**, **Partially Complete** or **Not Com
     * Maintain an 65% or higher on the **Final Project** (TBD)
     * Up to three unexcused absences.
 
+
+### Revising submitted work
+
+If a submitted assignment receives a **Partially Complete** assessment and the student seeks a **Complete** assessment:
+
+- In most cases, detailed feedback will be provided with requirements necessary for a revision to be considered **Complete**. A deadline will also be established – typically a week after the assignment is returned.
+- If the student has any questions or is uncertain what those requirements are, they should schedule an office hour appointment.
+- If the student submits revisions which meet the requirements by the deadline, the revised work will receive a **Complete** assessment.
+
+If a submitted assignment receives a **Not Complete** assessment, a similar list of requirements will be provided. In most cases, a **Not Complete** assignment can only be upgraded to **Partially Complete**, but the instructor reserves the right to allow students to achieve **Complete** on a case-by-case basis.
+
 <br>
 
 # <a name="coursework">Coursework</a>
