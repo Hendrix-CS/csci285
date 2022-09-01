@@ -34,7 +34,7 @@ Open a notebook and begin writing your data dictionary.
 
 ## Step 2: Analysis
 
-Load your csv file as a Pandas data frame. Begin exploring your data using the methods discussed in class and used in [Lab #1](assets/labs/pandas.md). Perform any transformations of your data you feel is appropriate and adds value to your analysis.
+Load your csv file as a Pandas data frame. Begin exploring your data using the methods discussed in class and used in Lab #1. Perform any data transformations that you feel adds value to your analysis.
 
 ## Step 3: Visualization
 

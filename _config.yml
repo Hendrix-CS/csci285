@@ -44,6 +44,8 @@ navigation:
         url: '#latework'
       - page: Resources
         url: '#resources'
+      - page: Scale
+        url: '#scale'
   - title: Coursework
     subfolderitems:
       - page: Labs
@@ -84,7 +86,7 @@ resources:
     image: assets/images/matplotlib.png
     url: https://plotnine.readthedocs.io/en/stable/
   - name: Seaborn
-    image: assets/images/seaborn.png
+    image: assets/images/seaborn_logo.png
     url: https://seaborn.pydata.org/
   - name: Mesa
     image: assets/images/mesa_logo.png

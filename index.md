@@ -60,6 +60,39 @@ In order to spend a late day, the instructor must be notified, by email, prior t
 
 <br>
 
+## <a name="scale">Specifications Grading</a>
+
+Each assignment is assessed as **Complete**, **Partially Complete** or **Not Complete**. Criteria for the first two categories will be specified for each assignment. Final course grades are earned based on cumulative assignment outcomes. **Late Work** is automatically given **Partially Complete** without any further consideration. See the **Late Work Policy** to understand this requirement.
+
+* To earn an A in the course, a student will:
+    * **Complete** two **Exams** and at least **Partially Complete** the remaining **Exam**.
+    * **Complete** seven out of eight **Labs** with the other at least **Partially Complete**.
+    * Maintain an 85% or higher on the **Final Project** (TBD)
+    * Schedule and attend a minimum of three **Checkins** (office hour appointments)
+    * Up to one unexcused absence.
+
+* To earn a B in the course, a student will:
+    * **Complete** two **Exams** and at least **Partially Complete** the remaining **Exam**.
+    * **Complete** six out of eight **Labs** with the other two at least **Partially Complete**.
+    * Maintain an 75% or higher on the **Final Project** (TBD)
+    * Schedule and attend a minimum of two **Checkins** (office hour appointments)
+    * Up to one unexcused absence.
+
+* To earn a C in the course, a student will:
+    * **Complete** one **Exam** and at least **Partially Complete** the remaining **Exams**.
+    * **Complete** five out of eight **Labs** with **Partially Complete** on at least two more.
+    * Maintain an 65% or higher on the **Final Project** (TBD)
+    * Schedule and attend a minimum of one **Checkins** (office hour appointments)
+    * Up to two unexcused absences.
+
+* To earn a D in the course, a student will:
+    * **Partially Complete** two **Exams**.
+    * **Complete** four out of eight **Labs** with **Partially Complete** on at least two more.
+    * Maintain an 65% or higher on the **Final Project** (TBD)
+    * Up to three unexcused absences.
+
+<br>
+
 # <a name="coursework">Coursework</a>
 
 <br>
