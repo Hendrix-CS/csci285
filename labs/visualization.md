@@ -7,50 +7,58 @@ worktitle: Data Visualization
 
 ## Overview
 
-In this lab, you will find a dataset and analyze it using the python libraries
-Pandas and Plotnine.
+In this lab, you will find a dataset and analyze it using the pandas and seaborn python libraries.
 
 ## Materials
 
 * [FEV dataset](../assets/data/FEV.csv)
-* [FEV notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/code/FEV_Data_Analysis.ipynb)
+* [FEV notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/notebooks/FEV_Data_Analysis.ipynb)
+* [Seaborn Regression Models](https://seaborn.pydata.org/tutorial/regression.html)
 
-### Step 1 - Data Gathering
 
-Find a CSV-formatted scientific dataset with multiple columns and rows of experimental results.
-I strongly recommend you get your dataset from the United States Geological Survey data repository
-linked below, please talk to me if there is another dataset you wish to examine.
+## Step 1: Data Gathering
 
-* [USGS Science Datasets](https://www.usgs.gov/products/data-and-tools/science-datasets)
+Find a CSV-formatted scientific dataset with multiple columns and rows of experimental results. Your dataset must have more than one numerical feature and at least one categorical feature. Here are some resources for open data:
 
-Open a notebook and record the provenance of the data, how it was collected, and by whom.
-Discuss the meaning of the columns and rows in your dataset.
+* [USGS Datasets](https://www.usgs.gov/products/data)
+* [Little Rock Data Hub](https://data.littlerock.gov/)
+* [NYC Open Data](https://opendata.cityofnewyork.us/)
 
-### Step 2 - Analysis
 
-Load your csv file as a Pandas data frame.
+Open a notebook and begin writing your data dictionary. 
 
-Analyze your file, attempting to discover if there are any relationships
-between the data fields. Specifically, you should find a dataset where you can
+* Record the provenance of the data.
+* How it was collected and by whom.
+* Describe the features (e.g. columns) of your data
+
+
+## Step 2: Analysis
+
+Load your csv file as a Pandas data frame. Begin exploring your data using the methods discussed in class and used in [Lab #1](assets/labs/pandas.md). Perform any transformations of your data you feel is appropriate and adds value to your analysis.
+
+## Step 3: Visualization
+
+Continue exploring your data using visualization techniques discussed in class. Specifically, 
 
 * Draw histograms
-* Draw scatter plots
-* Draw line plots
+* Draw scatter plots (with and without linear reg)
+* Draw categorical plots (box, violin, swarm, etc.)
 * Divide the data into subcategories for further plotting
-* Use Linear Regression to look for patterns with high correlation
 
-Be sure to label your axes and title your figures.
+Be sure to label your axes and title your figures. 
 
-### Step 3 - Descriptions
+## Step 4: Conclusions
 
-Throughout your notebook, write descriptions of your findings and each graph
-in `MarkDown` blocks. Include a summary section about what you learned from exploring this data.
+Throughout your notebook, write descriptions of your findings and graphs. Draw some conclusions. Include a summary section near the end about what you learned from exploring this data.
+
+## What To Turn In
+
+As you work on this lab, record all of your progress in a Jupyter notebook. Record your solutions and attempts in `Code` blocks, and annotate what you did with `MarkDown` blocks. Cite all the webpages you find and use in your search for your solution. You should turn in this notebook, all of the data you used, and anything else produced during your investigation. A good solution should read like a self-contained report.
 
 ## Grading
 
-The FEV notebook linked above is a good example of my expectations for this lab, in terms
-of the computational analysis and the written descriptions and reflections.
+The FEV notebook linked above is a good example of my expectations for this lab, in terms of the computational analysis and the written descriptions and reflections.
 
-* 15 points for good use of Pandas functions for summarization, selection, and data cleaning
-* 15 points for including each of the requested plot types using plotnine
-* 10 points for well-written explanation of data provenance, discussion of each graph, and summary.
+* Complete: Notebook can be read easily w/o needing to reference this page for additional detail. It should read like a self-contained report. It can be executed without producing runtime errors. All steps (1, 2, 3, and 4) are finished. All data loaded into the notebook should be provided.
+
+* Partially Complete: Notebook can be executed without producing runtime errors. All steps (1, 2, 3, and 4) are attempted.
