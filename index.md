@@ -95,11 +95,11 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 
 | Date | Topic | Resources |
 |:----:|------||-----||
-| T 8/23  | Start Module #1 (Data Analysis) |  |
-|         | Intro to pandas | [Palmer_Penguins_1](assets/notebooks/Palmer_Penguins_1.ipynb) [raw data](assets/data/penguins_raw.csv) [cleaned data](assets/data/penguins.csv) |
-| R 8/25  | [Lab #1: Lake Trout](labs/pandas.md) | [pandas_intro](assets/notebooks/pandas_intro.ipynb) |
+| T 8/23  | Start Module #1 (Data Analysis) | [pandas_intro](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/pandas_intro.ipynb) |
+|         | Intro to pandas | [Palmer_Penguins_1](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Palmer_Penguins_1.ipynb) [raw data](assets/data/penguins_raw.csv) [cleaned data](assets/data/penguins.csv) |
+| R 8/25  | [Lab #1: Lake Trout](labs/pandas.md) |  |
 | T 8/30  | Markdown overview | [dillinger.io](https://dillinger.io/) |
-|         | Intro to seaborn  | [Palmer_Penguins_2](assets/notebooks/Palmer_Penguins_2.ipynb) [cleaned data](assets/data/penguins.csv) |
+|         | Intro to seaborn  | [Palmer_Penguins_2](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Palmer_Penguins_2.ipynb) [cleaned data](assets/data/penguins.csv) |
 | R 9/1   | Lab #2 | |
 | T 9/6   | | |
 | R 9/8   | Lab #3 | |
