@@ -7,23 +7,23 @@ worktitle: Final Project
 
 # Overview
 
-The purpose of this project is to
-improve your research, writing and communication skills as well as give
-you an opportunity to explore in-depth a particular domain with your
-scientific computing skills.
+The purpose of this project is to improve your research, writing and communication skills as well as give you an opportunity to explore in-depth a particular domain with your scientific computing skills.
+
+
 
 # Topic Selection - 10 points
 
-This project is a group project. You must first select a partner for this
-project and a topic.
+This project is a group project. You must first select a partner for this project and a topic.
 
-A good inspiration for topics is the [COMAP Contests in Modeling](https://www.comap.com/undergraduate/contests/mcm/previous-contests.php). The problems from previous years are posted for both
-the Mathematical and Interdisciplinary contests, and most of these would be
-suitable for investigation. You may choose another topic beyond these questions,
-but it must be as complex and interesting as those posed above.
 
-Your topic should be chosen in consultation with me, and you will turn
-in a paragraph description of your topic.
+
+A good inspiration for topics is the [COMAP Contests in Modeling](https://www.comap.com/undergraduate/contests/mcm/previous-contests.php). The problems from previous years are posted for both the Mathematical and Interdisciplinary contests, and most of these would be suitable for investigation. You may choose another topic beyond these questions, but it must be as complex and interesting as those posed above.
+
+
+
+Your topic should be chosen in consultation with me, and you will turn in a paragraph description of your topic.
+
+
 
 # Background Overview - 20 points
 
