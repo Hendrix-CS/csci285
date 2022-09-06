@@ -88,9 +88,9 @@ resources:
   - name: Seaborn
     image: assets/images/seaborn_logo.png
     url: https://seaborn.pydata.org/
-  - name: Scikit-learn
-    image: assets/images/scikit-learn-logo-small.png
-    url: https://scikit-learn.org/stable/index.html
+  # - name: Scikit-learn
+  #   image: assets/images/scikit-learn-logo-small.png
+  #   url: https://scikit-learn.org/stable/index.html
   - name: Mesa
     image: assets/images/mesa_logo.png
     url: https://mesa.readthedocs.io/en/master/#

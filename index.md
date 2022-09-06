@@ -67,40 +67,40 @@ Each assignment is assessed as **Complete**, **Partially Complete** or **Not Com
 * To earn an A in the course, a student will:
     * **Complete** two **Exams** and at least **Partially Complete** the remaining **Exam**.
     * **Complete** seven out of eight **Labs** with the other at least **Partially Complete**.
-    * Maintain an 85% or higher on the **Final Project** (TBD)
+    * Maintain an 85% or higher on the **Final Project**
     * Schedule and attend a minimum of three **Checkins** (office hour appointments)
     * Up to one unexcused absence.
 
 * To earn a B in the course, a student will:
     * **Complete** two **Exams** and at least **Partially Complete** the remaining **Exam**.
     * **Complete** six out of eight **Labs** with the other two at least **Partially Complete**.
-    * Maintain an 75% or higher on the **Final Project** (TBD)
+    * Maintain an 75% or higher on the **Final Project**
     * Schedule and attend a minimum of two **Checkins** (office hour appointments)
     * Up to one unexcused absence.
 
 * To earn a C in the course, a student will:
     * **Complete** one **Exam** and at least **Partially Complete** the remaining **Exams**.
     * **Complete** five out of eight **Labs** with **Partially Complete** on at least two more.
-    * Maintain an 65% or higher on the **Final Project** (TBD)
+    * Maintain an 65% or higher on the **Final Project**
     * Schedule and attend a minimum of one **Checkins** (office hour appointments)
     * Up to two unexcused absences.
 
 * To earn a D in the course, a student will:
     * **Partially Complete** two **Exams**.
     * **Complete** four out of eight **Labs** with **Partially Complete** on at least two more.
-    * Maintain an 65% or higher on the **Final Project** (TBD)
+    * Maintain an 65% or higher on the **Final Project**
     * Up to three unexcused absences.
 
 
-### Revising submitted work
+### Revising Labs
 
-If a submitted assignment receives a **Partially Complete** assessment and the student seeks a **Complete** assessment:
+If a submitted **Lab** receives a **Partially Complete** assessment and the student seeks a **Complete** assessment:
 
 - In most cases, detailed feedback will be provided with requirements necessary for a revision to be considered **Complete**. A deadline will also be established – typically a week after the assignment is returned.
 - If the student has any questions or is uncertain what those requirements are, they should schedule an office hour appointment.
-- If the student submits revisions which meet the requirements by the deadline, the revised work will receive a **Complete** assessment.
+- If the student submits revisions which meet the requirements by the deadline, the revised **Lab** will receive a **Complete** assessment.
 
-If a submitted assignment receives a **Not Complete** assessment, a similar list of requirements will be provided. In most cases, a **Not Complete** assignment can only be upgraded to **Partially Complete**, but the instructor reserves the right to allow students to achieve **Complete** on a case-by-case basis.
+If a submitted **Lab** receives a **Not Complete** assessment, a similar list of requirements will be provided. In most cases, a **Not Complete** assessment can only be upgraded to **Partially Complete**, but the instructor reserves the right to allow students to achieve **Complete** on a case-by-case basis.
 
 <br>
 
@@ -127,7 +127,11 @@ These exams will be allotted three full class periods to complete. We will also 
 <br>
 
 ## <a name="project">Final Project</a>
-TBD
+A major component of this course is a "Final Project" which we will build up to over the second half of the semester with various incremental deadlines. 
+
+https://hendrix-cs.github.io/csci285/projects/project.html
+
+
 
 <br>
 
@@ -138,7 +142,7 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 
 
 | Date | Topic | Resources |
-|:----:|------||-----||
+|:----:|------:|-----:|
 | T 8/23  | Start Module #1 (Data Analysis) | [pandas_intro](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/pandas_intro.ipynb) |
 |         | Intro to pandas | [Palmer_Penguins_1](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Palmer_Penguins_1.ipynb) [raw data](assets/data/penguins_raw.csv) [cleaned data](assets/data/penguins.csv) |
 | R 8/25  | [Lab #1: Lake Trout](labs/pandas.md) |  |
@@ -146,35 +150,36 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 |         | Intro to seaborn  | [Palmer_Penguins_2](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Palmer_Penguins_2.ipynb) [cleaned data](assets/data/penguins.csv) |
 | R 9/1   | [Lab #2: Data Visualization](labs/visualization.md) | |
 | T 9/6   | | |
-| R 9/8   | Lab #3 | |
-| T 9/13  | | |
-| R 9/15  | Lab #4 | |
+| R 9/8   |  | |
+| T 9/13  | Lab #3 | |
+| R 9/15  |  | |
 | T 9/20  | Module #1 Review & Catch-up | |
 | R 9/22  | Class cancelled | |
 | T 9/27  | Exam #1 | |
-| R 9/29  | Start Module #2 (Modeling) | |
-| T 10/4  | | |
-| R 10/6  | Lab #5 | |
-| T 10/11 | **Due**:  Project topic selection one-pager | |
+| R 9/29  | Lab #4 | |
+| T 10/4  | Start Module #2 (Modeling) | |
+| R 10/6  |  | |
+| T 10/11  | Lab #5 | |
+|         | **Due**:  Project topic selection one-pager | |
 | R 10/13 | No class (fall break) | |
-| T 10/18 | **Due**:  Project overview one-pager | |
-| R 10/20 | Lab #6 | |
-| T 10/25 | | |
-| R 10/27 |  Project overview presentation day | |
-| T 11/1  | **Due**: Model descriptions one-pager | |
-| R 11/3  | Lab #7 | |
+| T 10/18 |  | |
+| R 10/20 |  | |
+| R 10/25 | Project overview presentation day | |
+|         | **Due**:  Project overview one-pager | |
+| R 10/27 |  Lab #6 | |
+| T 11/1  |  | |
+| R 11/3  |  | |
 | T 11/8  | Module #2 Review & Catch-up | |
+|         | **Due**: Model descriptions one-pager | |
 | R 11/10 | Exam #2 | |
-| T 11/15 | Start Module #3 | |
-|         | **Due**: Project paper rough draft | |
-| R 11/17 | | |
-| T 11/22 | Lab #8 | |
+| T 11/15 | Lab #7 | |
+| R 11/17 | Start Module #3 (numerical techniques) | |
+| T 11/22 | **Due**: Project paper rough draft | |
 | R 11/24 | No class (thanksgiving break) | |
-| T 11/29 | Project presentation day | |
-| R 12/1  | | |
+| T 11/29 | Lab #8 | |
+| R 12/1  | Project presentation day | |
 | T 12/6  | Module #3 Review & Catch-up | |
 | R 12/8  | Exam #3 | |
-| T 12/13 | | |
-| R 12/15 | **Due**: Project data, implementation, and final draft | |
+| T 12/13 | **Due**: Project data, implementation, and final draft | |
 
 <br>
