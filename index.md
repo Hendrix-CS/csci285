@@ -129,8 +129,7 @@ These exams will be allotted three full class periods to complete. We will also 
 ## <a name="project">Final Project</a>
 A major component of this course is a "Final Project" which we will build up to over the second half of the semester with various incremental deadlines. 
 
-https://hendrix-cs.github.io/csci285/projects/project.html
-
+[https://hendrix-cs.github.io/csci285/projects/project.html](https://hendrix-cs.github.io/csci285/projects/project.html)
 
 
 <br>
