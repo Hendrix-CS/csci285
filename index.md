@@ -149,8 +149,8 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 |         | Intro to seaborn  | [Palmer_Penguins_2](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Palmer_Penguins_2.ipynb) [cleaned data](assets/data/penguins.csv) |
 | R 9/1   | [Lab #2: Data Visualization](labs/visualization.md) | |
 | T 9/6   | Intro to scikit-learn | [Distance Measures](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Distance_Measures.ipynb) [K-Means](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/K-Means.ipynb) |
-| R 9/8   | Clustering & PCA | |
-| T 9/13  | Lab #3 | |
+| R 9/8   | Clustering & PCA | [Palmer_Penguins_3](assets/notebooks/Palmer_Penguins_3.ipynb) [K-Means Considerations](assets/notebooks/K-Means_Considerations.ipynb) |
+| T 9/13  | [Lab #3: K-means and PCA](labs/heart-disease.md) | |
 | R 9/15  |  | |
 | T 9/20  | Module #1 Review & Catch-up | |
 | R 9/22  | Class cancelled | |
