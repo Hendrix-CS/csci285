@@ -1,7 +1,7 @@
 ---
 layout: work
 type: Lab
-num: 4
+num: 3
 worktitle: K-means and PCA
 ---
 
@@ -10,7 +10,7 @@ worktitle: K-means and PCA
 Imagine you are tasked by the [Cleveland Clinic](http://my.clevelandclinic.org/) to help them train new doctors to diagnose patients with [heart disease](https://en.wikipedia.org/wiki/Cardiovascular_disease). They have been reviewing their past patient histories and started to notice some patterns after narrowing their focus to a few key features of each patient. They also give you some more detailed information about these features in the form of a data dictionary,
 
 | Feature | Data Type | Description |
-|:----:|------:|-----:|
+|:----|:------|:-----|
 | age                       | int       | age in years |
 | female                    | boolean   | true if female patient |
 | chest_pain                | string    | type of chest pain |
@@ -23,10 +23,11 @@ Imagine you are tasked by the [Cleveland Clinic](http://my.clevelandclinic.org/)
 | vessels                   | int       | number of major vessels (0-3) colored by flourosopy, showing they are clogged |
 | heart_disease             | bool      | doctor's diagnosis of heart disease |
 
+<br />
 
 ## Step 1: Understanding the data
 
-You will be analyzing past patient history in order to understand patterns of heart disease. [Click here]() to download the dataset you'll be working with in this lab. Create a Jupyter notebook and read this file into a Pandas DataFrame. 
+You will be analyzing past patient history in order to understand patterns of heart disease. [Click here](assets/data/cleveland-testing.csv) to download the dataset you'll be working with in this lab. Create a Jupyter notebook and read this file into a Pandas DataFrame. 
 
 * Display the shape (i.e. rows & columns) and a subset of the data using pandas. 
 * Display `.dtypes` and confirm these match with the provided data dictionary.
@@ -62,7 +63,7 @@ Produce a confusion matrix (2x2) and associated heatmap that compares ground tru
 
 ## Step 4: Principal component analysis
 
-Use PCA to find the first two principal components. The variance of each component explains its "importance" in the decomposition. By running `pca = PCA(n_components=2).fit(x)`, you can get back the variance of each component from `pca.explained_variance_`. You can then run `pca.transform(x)` to rotation your input features into PCA-1/PCA-2 space. 
+Use PCA to find the first two principal components. The variance of each component explains its "importance" in the decomposition. By running `pca = PCA(n_components=2).fit(x)`, you can get back the variance of each component from `pca.explained_variance_`. You can then run `pca.transform(x)` to rotate your input features into PCA-1/PCA-2 space. 
 
 * Produce a bar chart (i.e. `sns.barplot`) that plots the components (PCA-1, PCA-2) against their explained variance. 
 * Produce a scatter plot of the PCA rotated heart disease data colored by cluster (i.e. K-Means resulting labels). 

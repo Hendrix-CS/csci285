@@ -1,0 +1,294 @@
+age,female,chest_pain,rest_bps,cholesterol,high_fasting_blood_sugar,rest_ecg,maximum_heart_rate,exercise_angina,vessels,heart_disease
+57,False,asymptomatic,140,192,False,normal,148,False,0,False
+56,True,atypical angina,140,294,False,hypertrophy,153,False,0,False
+56,False,non-anginal pain,130,256,True,hypertrophy,142,True,1,True
+44,False,atypical angina,120,263,False,normal,173,False,0,False
+52,False,non-anginal pain,172,199,True,normal,162,False,0,False
+57,False,non-anginal pain,150,168,False,normal,174,False,0,False
+48,False,atypical angina,110,229,False,normal,168,False,0,True
+54,False,asymptomatic,140,239,False,normal,160,False,0,False
+48,True,non-anginal pain,130,275,False,normal,139,False,0,False
+49,False,atypical angina,130,266,False,normal,171,False,0,False
+64,False,typical angina,110,211,False,hypertrophy,144,True,0,False
+58,True,typical angina,150,283,True,hypertrophy,162,False,0,False
+58,False,atypical angina,120,284,False,hypertrophy,160,False,0,True
+58,False,non-anginal pain,132,224,False,hypertrophy,173,False,2,True
+60,False,asymptomatic,130,206,False,hypertrophy,132,True,2,True
+50,True,non-anginal pain,120,219,False,normal,158,False,0,False
+58,True,non-anginal pain,120,340,False,normal,172,False,0,False
+66,True,typical angina,150,226,False,normal,114,False,0,False
+43,False,asymptomatic,150,247,False,normal,171,False,0,False
+40,False,asymptomatic,110,167,False,hypertrophy,114,True,0,True
+69,True,typical angina,140,239,False,normal,151,False,2,False
+60,False,asymptomatic,117,230,True,normal,160,True,2,True
+64,False,non-anginal pain,140,335,False,normal,158,False,0,True
+59,False,asymptomatic,135,234,False,normal,161,False,0,False
+44,False,non-anginal pain,130,233,False,normal,179,True,0,False
+42,False,asymptomatic,140,226,False,normal,178,False,0,False
+43,False,asymptomatic,120,177,False,hypertrophy,120,True,0,True
+57,False,asymptomatic,150,276,False,hypertrophy,112,True,1,True
+55,False,asymptomatic,132,353,False,normal,132,True,1,True
+61,False,non-anginal pain,150,243,True,normal,137,True,0,False
+65,True,asymptomatic,150,225,False,hypertrophy,114,False,3,True
+40,False,typical angina,140,199,False,normal,178,True,0,False
+71,True,atypical angina,160,302,False,normal,162,False,2,False
+59,False,non-anginal pain,150,212,True,normal,157,False,0,False
+61,True,asymptomatic,130,330,False,hypertrophy,169,False,0,True
+58,False,non-anginal pain,112,230,False,hypertrophy,165,False,1,True
+51,False,non-anginal pain,110,175,False,normal,123,False,0,False
+50,False,asymptomatic,150,243,False,hypertrophy,128,False,0,True
+65,True,non-anginal pain,140,417,True,hypertrophy,157,False,1,False
+53,False,non-anginal pain,130,197,True,hypertrophy,152,False,0,False
+41,True,atypical angina,105,198,False,normal,168,False,1,False
+65,False,asymptomatic,120,177,False,normal,140,False,0,False
+44,False,asymptomatic,112,290,False,hypertrophy,153,False,1,True
+44,False,atypical angina,130,219,False,hypertrophy,188,False,0,False
+60,False,asymptomatic,130,253,False,normal,144,True,1,True
+54,False,asymptomatic,124,266,False,hypertrophy,109,True,1,True
+50,False,non-anginal pain,140,233,False,normal,163,False,1,True
+41,False,asymptomatic,110,172,False,hypertrophy,158,False,0,True
+54,False,non-anginal pain,125,273,False,hypertrophy,152,False,1,False
+51,False,typical angina,125,213,False,hypertrophy,125,True,1,False
+51,True,asymptomatic,130,305,False,normal,142,True,0,True
+46,True,non-anginal pain,142,177,False,hypertrophy,160,True,0,False
+58,False,asymptomatic,128,216,False,hypertrophy,131,True,3,True
+54,True,non-anginal pain,135,304,True,normal,170,False,0,False
+54,False,asymptomatic,120,188,False,normal,113,False,1,True
+60,False,asymptomatic,145,282,False,hypertrophy,142,True,2,True
+60,False,non-anginal pain,140,185,False,hypertrophy,155,False,0,True
+54,False,non-anginal pain,150,232,False,hypertrophy,165,False,0,False
+59,False,asymptomatic,170,326,False,hypertrophy,140,True,0,True
+46,False,non-anginal pain,150,231,False,normal,147,False,0,True
+65,True,non-anginal pain,155,269,False,normal,148,False,0,False
+67,False,asymptomatic,125,254,True,normal,163,False,2,True
+62,False,asymptomatic,120,267,False,normal,99,True,2,True
+65,False,asymptomatic,110,248,False,hypertrophy,158,False,2,True
+44,False,asymptomatic,110,197,False,hypertrophy,177,False,1,True
+65,True,non-anginal pain,160,360,False,hypertrophy,151,False,0,False
+60,False,asymptomatic,125,258,False,hypertrophy,141,True,1,True
+51,True,non-anginal pain,140,308,False,hypertrophy,142,False,1,False
+48,False,atypical angina,130,245,False,hypertrophy,180,False,0,False
+58,False,asymptomatic,150,270,False,hypertrophy,111,True,0,True
+45,False,asymptomatic,104,208,False,hypertrophy,148,True,0,False
+53,True,asymptomatic,130,264,False,hypertrophy,143,False,0,False
+39,False,non-anginal pain,140,321,False,hypertrophy,182,False,0,False
+68,False,non-anginal pain,180,274,True,hypertrophy,150,True,0,True
+52,False,atypical angina,120,325,False,normal,172,False,0,False
+44,False,non-anginal pain,140,235,False,hypertrophy,180,False,0,False
+47,False,non-anginal pain,138,257,False,hypertrophy,156,False,0,False
+53,True,non-anginal pain,128,216,False,hypertrophy,115,False,0,False
+53,True,asymptomatic,138,234,False,hypertrophy,160,False,0,False
+51,True,non-anginal pain,130,256,False,hypertrophy,149,False,0,False
+66,False,asymptomatic,120,302,False,hypertrophy,151,False,0,False
+62,True,asymptomatic,160,164,False,hypertrophy,145,False,3,True
+62,False,non-anginal pain,130,231,False,normal,146,False,3,False
+44,True,non-anginal pain,108,141,False,normal,175,False,0,False
+63,True,non-anginal pain,135,252,False,hypertrophy,172,False,0,False
+52,False,asymptomatic,128,255,False,normal,161,True,1,True
+59,False,asymptomatic,110,239,False,hypertrophy,142,True,1,True
+60,True,asymptomatic,150,258,False,hypertrophy,157,False,2,True
+52,False,atypical angina,134,201,False,normal,158,False,1,False
+48,False,asymptomatic,122,222,False,hypertrophy,186,False,0,False
+45,False,asymptomatic,115,260,False,hypertrophy,185,False,0,False
+34,False,typical angina,118,182,False,hypertrophy,174,False,0,False
+57,True,asymptomatic,128,303,False,hypertrophy,159,False,1,False
+71,True,non-anginal pain,110,265,True,hypertrophy,130,False,1,False
+49,False,non-anginal pain,120,188,False,normal,139,False,3,True
+54,False,atypical angina,108,309,False,normal,156,False,0,False
+59,False,asymptomatic,140,177,False,normal,162,True,1,True
+57,False,non-anginal pain,128,229,False,hypertrophy,150,False,1,True
+61,False,asymptomatic,120,260,False,normal,140,True,1,True
+39,False,asymptomatic,118,219,False,normal,140,False,0,True
+61,True,asymptomatic,145,307,False,hypertrophy,146,True,0,True
+56,False,asymptomatic,125,249,True,hypertrophy,144,True,1,True
+52,False,typical angina,118,186,False,hypertrophy,190,False,0,False
+43,True,asymptomatic,132,341,True,hypertrophy,136,True,0,True
+62,True,non-anginal pain,130,263,False,normal,97,False,1,True
+41,False,atypical angina,135,203,False,normal,132,False,0,False
+58,False,non-anginal pain,140,211,True,hypertrophy,165,False,0,False
+35,True,asymptomatic,138,183,False,normal,182,False,0,False
+63,False,asymptomatic,130,330,True,hypertrophy,132,True,3,True
+65,False,asymptomatic,135,254,False,hypertrophy,127,False,1,True
+48,False,asymptomatic,130,256,True,hypertrophy,150,True,2,True
+63,True,asymptomatic,150,407,False,hypertrophy,154,False,3,True
+51,False,non-anginal pain,100,222,False,normal,143,True,0,False
+55,False,asymptomatic,140,217,False,normal,111,True,0,True
+65,False,typical angina,138,282,True,hypertrophy,174,False,1,True
+45,True,atypical angina,130,234,False,hypertrophy,175,False,0,False
+56,True,asymptomatic,200,288,True,hypertrophy,133,True,2,True
+54,False,asymptomatic,110,239,False,normal,126,True,1,True
+44,False,atypical angina,120,220,False,normal,170,False,0,False
+62,True,asymptomatic,124,209,False,normal,163,False,0,False
+54,False,non-anginal pain,120,258,False,hypertrophy,147,False,0,False
+51,False,non-anginal pain,94,227,False,normal,154,True,1,False
+29,False,atypical angina,130,204,False,hypertrophy,202,False,0,False
+51,False,asymptomatic,140,261,False,hypertrophy,186,True,0,False
+43,True,non-anginal pain,122,213,False,normal,165,False,0,False
+55,True,atypical angina,135,250,False,hypertrophy,161,False,0,False
+70,False,asymptomatic,145,174,False,normal,125,True,0,True
+62,False,atypical angina,120,281,False,hypertrophy,103,False,1,True
+35,False,asymptomatic,120,198,False,normal,130,True,0,True
+51,False,non-anginal pain,125,245,True,hypertrophy,166,False,0,False
+59,False,atypical angina,140,221,False,normal,164,True,0,False
+59,False,typical angina,170,288,False,hypertrophy,159,False,0,True
+52,False,atypical angina,128,205,True,normal,184,False,0,False
+64,False,non-anginal pain,125,309,False,normal,131,True,0,True
+58,False,non-anginal pain,105,240,False,hypertrophy,154,True,0,False
+47,False,non-anginal pain,108,243,False,normal,152,False,0,True
+57,False,asymptomatic,165,289,True,hypertrophy,124,False,3,True
+41,False,non-anginal pain,112,250,False,normal,179,False,0,False
+45,False,atypical angina,128,308,False,hypertrophy,170,False,0,False
+60,True,non-anginal pain,102,318,False,normal,160,False,1,False
+52,False,typical angina,152,298,True,normal,178,False,0,False
+42,True,asymptomatic,102,265,False,hypertrophy,122,False,0,False
+67,True,non-anginal pain,115,564,False,hypertrophy,160,False,0,False
+55,False,asymptomatic,160,289,False,hypertrophy,145,True,1,True
+64,False,asymptomatic,120,246,False,hypertrophy,96,True,1,True
+70,False,asymptomatic,130,322,False,hypertrophy,109,False,3,True
+51,False,asymptomatic,140,299,False,normal,173,True,0,True
+58,False,asymptomatic,125,300,False,hypertrophy,171,False,2,True
+60,False,asymptomatic,140,293,False,hypertrophy,170,False,2,True
+68,False,non-anginal pain,118,277,False,normal,151,False,1,False
+46,False,atypical angina,101,197,True,normal,156,False,0,False
+77,False,asymptomatic,125,304,False,hypertrophy,162,True,3,True
+54,True,non-anginal pain,110,214,False,normal,158,False,0,False
+58,True,asymptomatic,100,248,False,hypertrophy,122,False,0,False
+48,False,non-anginal pain,124,255,True,normal,175,False,2,False
+57,False,asymptomatic,132,207,False,normal,168,True,0,False
+52,False,non-anginal pain,138,223,False,normal,169,False,0,False
+54,True,atypical angina,132,288,True,hypertrophy,159,True,1,False
+35,False,asymptomatic,126,282,False,hypertrophy,156,True,0,True
+45,True,atypical angina,112,160,False,normal,138,False,0,False
+70,False,non-anginal pain,160,269,False,normal,112,True,1,True
+53,False,asymptomatic,142,226,False,hypertrophy,111,True,0,False
+59,True,asymptomatic,174,249,False,normal,143,True,0,True
+62,True,asymptomatic,140,394,False,hypertrophy,157,False,0,False
+64,False,asymptomatic,145,212,False,hypertrophy,132,False,2,True
+57,False,asymptomatic,152,274,False,normal,88,True,1,True
+52,False,asymptomatic,108,233,True,normal,147,False,3,False
+56,False,asymptomatic,132,184,False,hypertrophy,105,True,1,True
+43,False,non-anginal pain,130,315,False,normal,162,False,1,False
+53,False,non-anginal pain,130,246,True,hypertrophy,173,False,3,False
+48,False,asymptomatic,124,274,False,hypertrophy,166,False,0,True
+56,True,asymptomatic,134,409,False,hypertrophy,150,True,2,True
+42,False,typical angina,148,244,False,hypertrophy,178,False,2,False
+59,False,typical angina,178,270,False,hypertrophy,145,False,0,False
+60,True,asymptomatic,158,305,False,hypertrophy,161,False,0,True
+63,True,atypical angina,140,195,False,normal,179,False,2,False
+42,False,non-anginal pain,120,240,True,normal,194,False,0,False
+66,False,atypical angina,160,246,False,normal,120,True,3,True
+54,False,atypical angina,192,283,False,hypertrophy,195,False,1,True
+69,False,non-anginal pain,140,254,False,hypertrophy,146,False,3,True
+50,False,non-anginal pain,129,196,False,normal,163,False,0,False
+51,False,asymptomatic,140,298,False,normal,122,True,3,True
+43,False,asymptomatic,132,247,True,hypertrophy,143,True,0,True
+62,True,asymptomatic,138,294,True,normal,106,False,3,True
+68,True,non-anginal pain,120,211,False,hypertrophy,115,False,0,False
+67,False,asymptomatic,100,299,False,hypertrophy,125,True,2,True
+69,False,typical angina,160,234,True,hypertrophy,131,False,1,False
+45,True,asymptomatic,138,236,False,hypertrophy,152,True,0,False
+50,True,atypical angina,120,244,False,normal,162,False,0,False
+59,False,typical angina,160,273,False,hypertrophy,125,False,0,True
+50,True,asymptomatic,110,254,False,hypertrophy,159,False,0,False
+64,True,asymptomatic,180,325,False,normal,154,True,0,False
+57,False,non-anginal pain,150,126,True,normal,173,False,1,False
+64,True,non-anginal pain,140,313,False,normal,133,False,0,False
+43,False,asymptomatic,110,211,False,normal,161,False,0,False
+45,False,asymptomatic,142,309,False,hypertrophy,147,True,3,True
+58,False,asymptomatic,128,259,False,hypertrophy,130,True,2,True
+50,False,asymptomatic,144,200,False,hypertrophy,126,True,0,True
+55,False,atypical angina,130,262,False,normal,155,False,0,False
+62,True,asymptomatic,150,244,False,normal,154,True,0,True
+37,True,non-anginal pain,120,215,False,normal,170,False,0,False
+38,False,typical angina,120,231,False,normal,182,True,0,True
+41,False,non-anginal pain,130,214,False,hypertrophy,168,False,0,False
+66,True,asymptomatic,178,228,True,normal,165,True,2,True
+52,False,asymptomatic,112,230,False,normal,160,False,1,True
+56,False,typical angina,120,193,False,hypertrophy,162,False,0,False
+46,True,atypical angina,105,204,False,normal,172,False,0,False
+46,True,asymptomatic,138,243,False,hypertrophy,152,True,0,False
+64,True,asymptomatic,130,303,False,normal,122,False,2,False
+59,False,asymptomatic,138,271,False,hypertrophy,182,False,0,False
+41,True,non-anginal pain,112,268,False,hypertrophy,172,True,0,False
+54,True,non-anginal pain,108,267,False,hypertrophy,167,False,0,False
+39,True,non-anginal pain,94,199,False,normal,179,False,0,False
+53,False,asymptomatic,123,282,False,normal,95,True,2,True
+63,True,asymptomatic,108,269,False,normal,169,True,2,True
+34,True,atypical angina,118,210,False,normal,192,False,0,False
+47,False,asymptomatic,112,204,False,normal,143,False,0,False
+67,True,non-anginal pain,152,277,False,normal,172,False,1,False
+54,False,asymptomatic,110,206,False,hypertrophy,108,True,1,True
+66,False,asymptomatic,112,212,False,hypertrophy,132,True,1,True
+52,True,non-anginal pain,136,196,False,hypertrophy,169,False,0,False
+55,True,asymptomatic,180,327,False,wave abnormality,117,True,0,True
+49,False,non-anginal pain,118,149,False,hypertrophy,126,False,3,True
+74,True,atypical angina,120,269,False,hypertrophy,121,True,1,False
+54,True,non-anginal pain,160,201,False,normal,163,False,1,False
+54,False,asymptomatic,122,286,False,hypertrophy,116,True,2,True
+56,False,asymptomatic,130,283,True,hypertrophy,103,True,0,True
+46,False,asymptomatic,120,249,False,hypertrophy,144,False,0,True
+49,True,atypical angina,134,271,False,normal,162,False,0,False
+42,False,atypical angina,120,295,False,normal,162,False,0,False
+41,False,atypical angina,110,235,False,normal,153,False,0,False
+41,True,atypical angina,126,306,False,normal,163,False,0,False
+49,True,asymptomatic,130,269,False,normal,163,False,0,False
+61,False,typical angina,134,234,False,normal,145,False,2,True
+60,True,non-anginal pain,120,178,True,normal,96,False,0,False
+67,False,asymptomatic,120,237,False,normal,71,False,0,True
+58,False,asymptomatic,100,234,False,normal,156,False,1,True
+47,False,asymptomatic,110,275,False,hypertrophy,118,True,1,True
+52,False,asymptomatic,125,212,False,normal,168,False,2,True
+62,False,atypical angina,128,208,True,hypertrophy,140,False,0,False
+57,False,asymptomatic,110,201,False,normal,126,True,0,False
+58,False,asymptomatic,146,218,False,normal,105,False,1,True
+64,False,asymptomatic,128,263,False,normal,105,True,1,False
+51,True,non-anginal pain,120,295,False,hypertrophy,157,False,0,False
+43,False,asymptomatic,115,303,False,normal,181,False,0,False
+42,True,non-anginal pain,120,209,False,normal,173,False,0,False
+67,True,asymptomatic,106,223,False,normal,142,False,2,False
+76,True,non-anginal pain,140,197,False,wave abnormality,116,False,0,False
+70,False,atypical angina,156,245,False,hypertrophy,143,False,0,False
+57,False,atypical angina,124,261,False,normal,141,False,0,True
+44,True,non-anginal pain,118,242,False,normal,149,False,1,False
+58,True,atypical angina,136,319,True,hypertrophy,152,False,2,True
+60,True,typical angina,150,240,False,normal,171,False,0,False
+44,False,non-anginal pain,120,226,False,normal,169,False,0,False
+61,False,asymptomatic,138,166,False,hypertrophy,125,True,1,True
+42,False,asymptomatic,136,315,False,normal,125,True,0,True
+52,False,asymptomatic,128,204,True,normal,156,True,0,True
+59,False,non-anginal pain,126,218,True,normal,134,False,1,True
+40,False,asymptomatic,152,223,False,normal,181,False,0,True
+42,False,non-anginal pain,130,180,False,normal,150,False,0,False
+61,False,asymptomatic,140,207,False,hypertrophy,138,True,1,True
+66,False,asymptomatic,160,228,False,hypertrophy,138,False,0,False
+46,False,asymptomatic,140,311,False,normal,120,True,2,True
+71,True,asymptomatic,112,149,False,normal,125,False,0,False
+59,False,typical angina,134,204,False,normal,162,False,2,True
+64,False,typical angina,170,227,False,hypertrophy,155,False,0,False
+66,True,non-anginal pain,146,278,False,hypertrophy,152,False,1,False
+39,True,non-anginal pain,138,220,False,normal,152,False,0,False
+57,False,atypical angina,154,232,False,hypertrophy,164,False,1,True
+58,True,asymptomatic,130,197,False,normal,131,False,0,False
+57,False,asymptomatic,110,335,False,normal,143,True,1,True
+47,False,non-anginal pain,130,253,False,normal,179,False,0,False
+55,True,asymptomatic,128,205,False,wave abnormality,130,True,1,True
+35,False,atypical angina,122,192,False,normal,174,False,0,False
+61,False,asymptomatic,148,203,False,normal,161,False,1,True
+58,False,asymptomatic,114,318,False,wave abnormality,140,False,3,True
+58,True,asymptomatic,170,225,True,hypertrophy,146,True,2,True
+58,False,atypical angina,125,220,False,normal,144,False,0,False
+56,False,atypical angina,130,221,False,hypertrophy,163,False,0,False
+56,False,atypical angina,120,240,False,normal,169,False,0,False
+67,False,non-anginal pain,152,212,False,hypertrophy,150,False,0,True
+55,True,atypical angina,132,342,False,normal,166,False,0,False
+44,False,asymptomatic,120,169,False,normal,144,True,0,True
+63,False,asymptomatic,140,187,False,hypertrophy,144,True,2,True
+63,True,asymptomatic,124,197,False,normal,136,True,0,True
+41,False,atypical angina,120,157,False,normal,182,False,0,False
+59,False,asymptomatic,164,176,True,hypertrophy,90,False,2,True
+57,True,asymptomatic,140,241,False,normal,123,True,0,True
+45,False,typical angina,110,264,False,normal,132,False,0,True
+68,False,asymptomatic,144,193,True,normal,141,False,2,True
+57,False,asymptomatic,130,131,False,normal,115,True,1,True
+57,True,atypical angina,130,236,False,hypertrophy,174,False,1,True
+38,False,non-anginal pain,138,175,False,normal,173,False,0,False
