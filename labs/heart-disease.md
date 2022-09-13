@@ -27,7 +27,7 @@ Imagine you are tasked by the [Cleveland Clinic](http://my.clevelandclinic.org/)
 
 ## Step 1: Understanding the data
 
-You will be analyzing past patient history in order to understand patterns of heart disease. [Click here](assets/data/cleveland-testing.csv) to download the dataset you'll be working with in this lab. Create a Jupyter notebook and read this file into a Pandas DataFrame. 
+You will be analyzing past patient history in order to understand patterns of heart disease. [Click here](../assets/data/cleveland-testing.csv) to download the dataset you'll be working with in this lab. Create a Jupyter notebook and read this file into a Pandas DataFrame. 
 
 * Display the shape (i.e. rows & columns) and a subset of the data using pandas. 
 * Display `.dtypes` and confirm these match with the provided data dictionary.
