@@ -72,14 +72,14 @@ Each assignment is assessed as **Complete**, **Partially Complete** or **Not Com
     * Up to one unexcused absence.
 
 * To earn a B in the course, a student will:
-    * **Complete** two **Exams** and at least **Partially Complete** the remaining **Exam**.
+    * **Complete** one **Exam** and **Partially Complete** the remaining **Exams**.
     * **Complete** six out of eight **Labs** with the other two at least **Partially Complete**.
     * Maintain an 75% or higher on the **Final Project**
     * Schedule and attend a minimum of two **Checkins** (office hour appointments)
     * Up to one unexcused absence.
 
 * To earn a C in the course, a student will:
-    * **Complete** one **Exam** and at least **Partially Complete** the remaining **Exams**.
+    * **Partially Complete** all three **Exams**.
     * **Complete** five out of eight **Labs** with **Partially Complete** on at least two more.
     * Maintain an 65% or higher on the **Final Project**
     * Schedule and attend a minimum of one **Checkins** (office hour appointments)
@@ -122,7 +122,7 @@ On these labs, you will work with partners on the lab assignments. Their name mu
 
 There will be three exams administered throughout the semester in order to evaluate your competency with the course material. They will consist of **individually** working through problems directly related to the labs and lectures. There will be no "pop" quizzes. You will know when each exam is scheduled to occur.
 
-These exams will be allotted three full class periods to complete. We will also reserve the class period before the exam for "Module Review". This is meant to be exam prep, Q/A, and cover any lingering subject matter in the module. 
+These exams will be allotted three full class periods. We will also reserve the class period before the exam for "Module Review". This is meant to be exam prep, Q/A, and cover any lingering subject matter in the module. 
 
 <br>
 
@@ -151,8 +151,8 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 | T 9/6   | Intro to scikit-learn | [Distance Measures](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Distance_Measures.ipynb) [K-Means](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/K-Means.ipynb) |
 | R 9/8   | Clustering & PCA | [Palmer_Penguins_3](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Palmer_Penguins_3.ipynb) [K-Means Considerations](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/K-Means_Considerations.ipynb) |
 | T 9/13  | [Lab #3: K-means and PCA](labs/heart-disease.md) | |
-| R 9/15  |  | |
-| T 9/20  | Module #1 Review & Catch-up | |
+| R 9/15  | Geopandas & More Visualizations | [Geopandas](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/geopandas.ipynb) [Flight Delays](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Flight_Delays_And_Cancellations.ipynb) |
+| T 9/20  | Module #1 Review & Catch-up | [Datasets](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Datasets.ipynb) [Lemurs]() |
 | R 9/22  | Class cancelled | |
 | T 9/27  | Exam #1 | |
 | R 9/29  | Lab #4 | |
