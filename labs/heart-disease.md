@@ -38,7 +38,7 @@ You will be analyzing past patient history in order to understand patterns of he
 ### Step 1.1: Categorical analysis
 
 * Display `.value_counts()` for `chest_pain`, `rest_ecg`, and `heart_disease`. 
-* Construct three pairwise plots that color the three categorical features against the five numerical features.
+* Construct three pairwise plots that color these three categorical features against the five numerical features.
 
 
 Discuss any patterns or other interesting traits you notice from your numerical and categorical analysis.
