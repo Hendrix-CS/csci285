@@ -154,7 +154,7 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 | R 9/15  | Geopandas & More Visualizations | [Geopandas](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/geopandas.ipynb) [Flight Delays](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Flight_Delays_And_Cancellations.ipynb) |
 | T 9/20  | Module #1 Review & Catch-up | [Datasets](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Datasets.ipynb) [Lemurs](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Lemurs.ipynb) |
 | R 9/22  | Class cancelled | |
-| T 9/27  | Exam #1 | |
+| T 9/27  | [Exam #1](exams/exam1.md) | |
 | R 9/29  | Lab #4 | |
 | T 10/4  | Start Module #2 (Modeling) | |
 | R 10/6  |  | |
