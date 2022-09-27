@@ -5,6 +5,10 @@ num: 1
 worktitle: Data Analysis & Visualization
 ---
 
+In this exam, you will demonstrate your mastery of CSCI 285 Module #1 concepts in three parts. Part #1 focuses on generating data and visualizing it with pandas. Part #2 focuses on working with a unknown dataset and visualizing it. Part #3 asks you to take the dataset from Part #2 and perform KMeans aggregation and PCA decomposition.
+
+<br />
+
 # Part 1 - 50 points
 
 1. (**10 points**) Create a pandas data frame that has the following schema, 
@@ -53,7 +57,7 @@ The data contained in this data frame should satisfy the following constraints,
 
 
 
-
+<br />
 
 
 # Part 2 - 50 points
@@ -75,7 +79,7 @@ The [iris flower dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dat
 
 7. (**10 points**) Draw a scatter plot that includes linear regressions, using seaborn, using any two features you find interesting. Color by species. Set the aspect ratio to 1.5. Make sure that your axes are labeled and that you set a title. What conclusions can you draw from this plot?
 
-
+<br />
 
 # Part 3 - 50 points
 
