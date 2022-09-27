@@ -5,7 +5,7 @@ num: 1
 worktitle: Data Analysis & Visualization
 ---
 
-In this exam, you will demonstrate your mastery of CSCI 285 Module #1 concepts in three parts. Part #1 focuses on generating data and visualizing it with pandas. Part #2 focuses on working with a unknown dataset and visualizing it. Part #3 asks you to take the dataset from Part #2 and perform KMeans aggregation and PCA decomposition.
+In this exam, you will demonstrate your mastery of CSCI 285 Module #1 concepts in three parts. Part #1 focuses on generating data and visualizing it with pandas. Part #2 focuses on working with an unknown dataset and visualizing it. Part #3 asks you to take the dataset from Part #2 and perform KMeans aggregation and PCA decomposition.
 
 <br />
 
@@ -42,7 +42,6 @@ The data contained in this data frame should satisfy the following constraints,
 3. (**10 points**) Draw a scatter plot, using seaborn, that plots age vs. income. Make sure that your axes are labeled and that you set a title. Increase the size and aspect ratio to improve visibility.
 
 4. (**10 points**) Create a new column on your data frame, called `sector`, that contains one of four values: "jazz", "puck", "camp", and "flub". Draw another scatter plot similar to one you created in (3) except that "sector" is displayed using color.
-
 > Assign "jazz" if age > 25 and income > 35k
 > Assign "puck" if age < 25 and income > 35k
 > Assign "camp" if age > 25 and income < 35k
@@ -101,13 +100,13 @@ Discuss why k=3 clusters is the right choice. How can you show that k=3 is the r
 
 * What is meant by the "curse of dimensionality"? Does the iris dataset suffer from this "curse"? 
 
-
+<br />
 
 # What To Turn In
 
 A Jupyter notebook that begins with the following statement, 
 
-> All of the below work is my own. I adhered to the test-taking procedure by not receiving any help from my peers. I have cited any resources I found online or from notebooks shared from class that helped me complete this exam.
+> All of the below work is my own. I adhered to the test-taking procedure by not receiving any help from my peers. I have cited all resources I found online or from notebooks shared from class that helped me complete this exam.
 
 
 
@@ -117,7 +116,7 @@ A Jupyter notebook that begins with the following statement,
 
 * Turn in a zip file that contains your notebook and any data needed to run the notebook.
 
-
+<br />
 
 # Grading
 
