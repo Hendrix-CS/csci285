@@ -11,7 +11,7 @@ In this exam, you will demonstrate your mastery of CSCI 285 Module #1 concepts i
 
 # Part 1 - 50 points
 
-(**10 points**) Create a pandas data frame that has the following schema, 
+(**10 points**) Using python and/or pandas, create a data frame that has the following schema, 
 
 |  id   | age  | income |
 | :---: | :--: | :----: |
