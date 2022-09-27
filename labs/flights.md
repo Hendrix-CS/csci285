@@ -12,7 +12,7 @@ We discussed this dataset in class using [Flight Delays And Cancellations](http:
 
 
 ### Raw Data
-Instead of working with the raw flights data, you will use a tranformed version made specifically for this lab. [Click here]() to download. It is quite large (727mb) so the download may take some time. If you are having trouble downloading this data, you may need to work with a [smaller sample size]().
+Instead of working with the raw flights data, you will use a tranformed version made specifically for this lab. [Click here](https://www.kaggle.com/datasets/hendrixwilsonj/flights-transformed) to download. This data is quite large (727mb) so I zipped for hosted version to make it easier to download.
 
 
 ### References
