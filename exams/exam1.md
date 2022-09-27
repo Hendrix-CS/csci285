@@ -88,7 +88,7 @@ Continuing with the iris flower data set from Part 2, scale your features and us
 
 Discuss why k=3 clusters is the right choice. How can you show that k=3 is the right choice using the the principle of _inertia_. 
 
-
+<br />
 
 ### Discussion Questions - 20 points
 
