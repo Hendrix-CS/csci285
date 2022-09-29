@@ -151,7 +151,7 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 | T 9/6   | Intro to scikit-learn | [Distance Measures](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Distance_Measures.ipynb) [K-Means](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/K-Means.ipynb) |
 | R 9/8   | Clustering & PCA | [Palmer_Penguins_3](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Palmer_Penguins_3.ipynb) [K-Means Considerations](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/K-Means_Considerations.ipynb) |
 | T 9/13  | [Lab #3: K-means and PCA](labs/heart-disease.md) | |
-| R 9/15  | Geopandas & More Visualizations | [Geopandas](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/geopandas.ipynb) [Flight Delays](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Flight_Delays_And_Cancellations.ipynb) |
+| R 9/15  | Geopandas & More Visualizations | [Geopandas](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/geopandas.ipynb) [Flight Delays](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Flight_Delays_And_Cancellations.ipynb?flush_cache=true) |
 | T 9/20  | Module #1 Review & Catch-up | [Datasets](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Datasets.ipynb) [Lemurs](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Lemurs.ipynb) |
 | R 9/22  | Class cancelled | |
 | T 9/27  | [Exam #1](exams/exam1.md) | |
