@@ -12,10 +12,9 @@ The purpose of this project is to improve your research, writing and communicati
 # Topic Selection - 10 points
 
 This project is a group project. You must first select a partner for this project and a topic.
+A good inspiration for topics is the [COMAP Contests in Modeling](https://contest.comap.com/undergraduate/contests/mcm/previous-contests.php). The problems from previous years are posted for both the Mathematical and Interdisciplinary contests, and most of these would be suitable for investigation. You may choose another topic beyond these questions, but it must be as complex and interesting as those posed above.
 
-A good inspiration for topics is the [COMAP Contests in Modeling](https://www.comap.com/undergraduate/contests/mcm/previous-contests.php). The problems from previous years are posted for both the Mathematical and Interdisciplinary contests, and most of these would be suitable for investigation. You may choose another topic beyond these questions, but it must be as complex and interesting as those posed above.
-
-Your topic should be chosen in consultation with me, and you will turn in a paragraph description of your topic.
+Your topic should be chosen in consultation with me, and you will turn in a paragraph description of your topic. Please see [Topic Selection Criteria](topic-selection.md) for more information about how to select an appropriate topic.
 
 
 # Background Overview - 20 points
