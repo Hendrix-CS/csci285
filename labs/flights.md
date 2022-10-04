@@ -176,7 +176,7 @@ For each plot, what patterns in the data do you observe? What explains these pat
 
 
 ## Step 5: Choropleths (Bonus)
-In [airlines.csv](../assets/data/airlines.csv) there are geographical features that can be used to make choropleths. Overlay airline location on top of any choropleth of your choosing. You may need to use [kaggle](https://www.kaggle.com/) to load the necessary geopandas libraries. Please turn in step 5 in a separate notebook from Steps 1-4.
+In [airports.csv](../assets/data/airports.csv) there are geographical features that can be used to make choropleths. Overlay airport location on top of any choropleth of your choosing. You may need to use [kaggle](https://www.kaggle.com/) to load the necessary geopandas libraries. Please turn in step 5 in a separate notebook from Steps 1-4.
 
 
 ## What To Turn In
