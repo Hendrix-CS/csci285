@@ -156,9 +156,9 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 | R 9/22  | Class cancelled | |
 | T 9/27  | [Exam #1](exams/exam1.md) | |
 | R 9/29  | [Lab #4](labs/flights.md) | |
-| T 10/4  | Start Module #2 (Modeling) | |
-| R 10/6  |  | |
-| T 10/11  | Lab #5 | |
+| T 10/4  | Start Module #2 (Modeling) | [Euler's Method](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Euler_Method.ipynb) [Taylor Expansion](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Taylor_Expansion.ipynb) [Population Growth](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Population_Growth.ipynb) |
+| R 10/6  | SIR Modeling | [Pred_Prey_Revisited](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/PredPrey_Revisited.ipynb) [SIR_Modeling](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/SIR_Modeling.ipynb) [Newton's law of cooling](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Newton_law_of_cooling.ipynb) |
+| T 10/11  | [Lab #5](labs/malaria.md) | |
 |         | **Due**:  Project topic selection one-pager | |
 | R 10/13 | No class (fall break) | |
 | T 10/18 |  | |
