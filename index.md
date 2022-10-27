@@ -161,19 +161,20 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 | T 10/11  | [Lab #5](labs/malaria.md) | |
 |         | **Due**:  Project topic selection one-pager | |
 | R 10/13 | No class (fall break) | |
-| T 10/18 | Monte Carlo Methods | |
+| T 10/18 | Monte Carlo Methods | [Monte_Carlo_Method](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Monte_Carlo_Method.ipynb) |
 | R 10/20 | Project Work Day #1 | |
 | T 10/25 | Project overview presentation day | |
 |         | **Due**:  Project overview one-pager | |
 | R 10/27 | Monte Carlo Methods | |
-| T 11/1  | Lab #6 | |
-| R 11/3  |  | |
+| T 11/1  | [Lab #6](labs/election.md) | |
+| R 11/3  | Agent-based modeling | |
 | T 11/8  | Module #2 Review & Catch-up | |
 |         | **Due**: Model descriptions one-pager | |
 | R 11/10 | Exam #2 | |
 | T 11/15 | Lab #7 | |
-| R 11/17 | Start Module #3 (numerical techniques) | |
-| T 11/22 | **Due**: Project paper rough draft | |
+| R 11/17 | Agent-based modeling | |
+| T 11/22 | Start Module #3 (numerical techniques)       |  |
+|         | **Due**: Project paper rough draft | |
 | R 11/24 | No class (thanksgiving break) | |
 | T 11/29 | Lab #8 | |
 | R 12/1  | Project presentation day | |
