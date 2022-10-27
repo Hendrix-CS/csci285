@@ -70,7 +70,7 @@ Rerun you simulation, draw a chart, and describe the differences you find.
 
 Recently, [genetically-engineered mosquitoes](https://www.nih.gov/news-events/nih-research-matters/engineering-malaria-resistance-mosquitoes) have been developed in an attempt to inhibit the spread of malaria.
 
-Research the effectiveness of releasing these mosquitoes into the environment. Incorporate your findings into your model, assuming they will be released in Rwanda in April 2022.
+Research the effectiveness of releasing these mosquitoes into the environment. Incorporate your findings into your model, assuming they will be released in Rwanda in April 2024.
 
 Rerun you simulation, draw a chart, and describe the differences you find.
 
