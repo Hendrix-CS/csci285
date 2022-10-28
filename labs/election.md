@@ -17,11 +17,19 @@ Download the zip file of the [polling data](https://projects.fivethirtyeight.com
 
 ## Step 2: Preparing the polling data for analysis
 
-Our goal is to predict the probability that Democrats will win [key swing states](https://www.politico.com/news/2022/10/15/senate-swing-state-polls-midterms-00061877) and retain control of the Senate after the November 8th mid-term elections. We will look at the following races, 
+Our goal is to predict the probability that Democrats will win or lose [key swing states](https://www.politico.com/news/2022/10/15/senate-swing-state-polls-midterms-00061877) and retain (or lose) control of the Senate after the November 8th mid-term elections. We will look at the following races,
 
 * Nevada (CATHERINE CORTEZ MASTO (D) vs. Adam Laxalt (R))
 * Pennsylvania (Mehmet Oz (R) vs. John Fetterman (D))
 * Georgia (RAPHAEL WARNOCK (D) vs. Herschel Walker (R))
+* Wisconsin (Sen. Ron Johnson, (R) vs. Lt. Gov. Mandela Barnes (D))
+* Arizona (MARK KELLY (D) vs. Blake Masters (R))
+* Colorado (MICHAEL BENNET (D) vs. Joe O’Dea (R))
+* Florida (MARCO RUBIO (R) vs. Val Demings (D))
+* New Hampshire (MAGGIE HASSAN (D) vs. Don Bolduc (R))
+* North Carolina (Ted Budd (R) vs. Cheri Beasley (D))
+* Ohio (J.D. Vance (R) vs. Tim Ryan (D))
+
 
  _For our first assumption_, we will only use the most recent poll for each state. Format the `created_at` column of the polling DataFrame as a datetime and then select only the poll with the latest value for each state. If there are multiple polls entered on the same date, select the one with the larger sample size.
 
@@ -39,14 +47,19 @@ Polls based on a sample of the whole population include a _margin of error_. To 
 stdv = 1 / (2 * math.sqrt(sample_size))
 ```
 
+
 ## Step 4: Simulation
 
-We now have enough data to simulate the elections. For each seat, generate a percentage of voters choosing DEM. If this generated value is greater than 0.5, then award the seat to the Democrats. Run the election simulation 40,000 times and collect the results of each simulation. Plot the outcome using a histogram. Calculate the mean & median of your resulting distribution.
+We now have enough data to simulate the elections. For each seat, generate a percentage of voters choosing DEM. If this generated value is greater than 0.5, then award the seat to the Democrats. Run the election simulation 40,000 times and collect the results of each simulation. 
+
+Plot the (binary) outcomes (e.g. "won" or "lost") for each state using a bar chart.
 
 
 ## Step 5: Conclusion
 
-Clearly state the predicted probability of Democrats winning the senate in the 2022 mid-term elections. How closely do your results match the predictions at FiveThirtyEight? What could explain any differences you see? What other assumptions did we implicitly make in our simulation?
+Download [current U.S. Senate data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PEJ5QU). The file should be called "1976-2020-senate.csv". Load this file up in a Jupyter notebook as a Pandas DataFrame. Examine its shape and features and produce a data dictionary explaining each column and what a row of data represents. 
+
+Using the data in this file, and the results of your Monte Carlo simulations, clearly state your predicted 2022 mid-term election outcomes. Will the Democrats maintain control of the U.S. Senate? How closely do your results match the predictions at FiveThirtyEight? What could explain any differences you see? What other assumptions did we implicitly make in our simulation?
 
 
 ## What To Turn In
@@ -61,14 +74,8 @@ As you work on this lab, record all of your progress in a Jupyter notebook. Reco
 
 ## Grading
 
-* Complete: Notebook can be read easily w/o needing to reference this page for additional detail. It should read like a self-contained report. It can be executed without producing runtime errors. All steps (1 - 8) are finished and all discussion questions are answered.
+* Complete: Notebook can be read easily w/o needing to reference this page for additional detail. It should read like a self-contained report. It can be executed without producing runtime errors. All steps (1-5) are finished and all discussion questions are answered.
 
-* Partially complete: Notebook can be executed without producing runtime errors. Steps (1-5, 8) are finished and discussion questions are answered.
-
-## Grading
-
-* Complete: Notebook can be read easily w/o needing to reference this page for additional detail. It should read like a self-contained report. It can be executed without producing runtime errors. All steps (1, 2, 3) are finished and all discussion questions are answered.
-
-* Partially complete: Notebook can be executed without producing runtime errors. Steps (1, 2, 3) are attempted.
+* Partially complete: Notebook can be executed without producing runtime errors. Steps (1-5) are attempted.
 
 * Bonus: If you complete the lab before the mid-terms on November 8th, then you can get 15 additional points added to your Exam #2 grade. this is enough to turn a "B" into an "A".
