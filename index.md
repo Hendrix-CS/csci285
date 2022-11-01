@@ -165,7 +165,7 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 | R 10/20 | Project Work Day #1 | |
 | T 10/25 | Project overview presentation day | |
 |         | **Due**:  Project overview one-pager | |
-| R 10/27 | Monte Carlo Methods | |
+| R 10/27 | Monte Carlo Methods | [Saving for College](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Monte_Carlo_Simulations.ipynb) [Estimating PI](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Estimating_pi.ipynb) |
 | T 11/1  | [Lab #6](labs/election.md) | |
 | R 11/3  | Agent-based modeling | |
 | T 11/8  | Module #2 Review & Catch-up | |
