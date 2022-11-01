@@ -12,7 +12,7 @@ The 2022 mid-term elections are upon us. These elections are taking place now an
 
 ## Step 1: Download polling data
 
-Download the zip file of the [polling data](https://projects.fivethirtyeight.com/2022-election-forecast/senate/) collected by FiveThirtyEight, located at the bottom of this page, with the relevant polls recorded in `senate_polls.csv`. This file holds all the senate polls for each state from the last two years. Load this file up in a Jupyter notebook as a Pandas DataFrame. Examine its shape and features and produce a data dictionary explaining each column and what a row of data represents. 
+Download the zip file of the [polling data](https://projects.fivethirtyeight.com/2022-election-forecast/senate/) collected by FiveThirtyEight, located at the bottom of this page, with the relevant polls recorded in `senate_polls.csv`. This file holds all the senate polls for each state from the last two years. Load this file up in a Jupyter notebook as a Pandas DataFrame. Examine its shape and features and produce a data dictionary explaining the most important columns and what a row of data represents. 
 
 
 ## Step 2: Preparing the polling data for analysis
