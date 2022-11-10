@@ -169,9 +169,9 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 | T 11/1  | [Lab #6](labs/election.md) | |
 | R 11/3  | Agent-based modeling | |
 | T 11/8  | Module #2 Review & Catch-up | |
-|         | **Due**: Model descriptions one-pager | |
 | R 11/10 | Exam #2 | |
 | T 11/15 | Lab #7 | |
+|         | **Due**: Model descriptions one-pager | |
 | R 11/17 | Agent-based modeling | |
 | T 11/22 | Start Module #3 (numerical techniques)       |  |
 |         | **Due**: Project paper rough draft | |
