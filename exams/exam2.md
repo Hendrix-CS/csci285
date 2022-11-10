@@ -41,7 +41,7 @@ Create a Monte Carlo simulation of two large and two small fishing companies com
 
 The lakes in which the companies are fishing can only support two million fish. Every year, the fish that remain after fishing will reproduce at an average rate of 25% with a standard deviation of 5%, rounded to the nearest whole number without going over two million. For instance, if there are 1.2 million fish, they are expected to grow to 1.5 million for the next year. If there are 1.9 million, they will grow to two million.
 
-Run 100 trials of this simulation, and create a cumulative graph of all experiments showing the total population of the fish in the lake over time for the next 50 years.
+Run 100 trials of this simulation, and create a cumulative graph of all experiments showing the total population of the fish in the lake over time for the next 50 years. You can assume that the starting population of fish is two million.
 
 What is the average length of time before the fish population in the lake reaches zero?
 
