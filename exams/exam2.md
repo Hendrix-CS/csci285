@@ -13,7 +13,7 @@ In this exam, you will demonstrate your mastery of CSCI 285 Module #2 concepts i
 
 The [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system) is a set of ordinary differential equations that, while deterministic in its representation, exhibits chaotic solutions under certain conditions. Applications of the Lorenz system has led to the popularization of the term "butterfly effect" (i.e. even the minor disturbance of butterfly wings could cause hurricanes to form on the other side of the world). 
 
-Using Euler's method, solve and visualize the Lorenz system for x(t), y(t), and z(t) using line graphs, and produce "butterfly" phase portrait(s) by scatter plotting y(x), y(z), and x(z). For initial conditions, use σ = 10, β = 8/3, ρ = 28, x_0 = 2.0, y_0 = 5.0, and z_0 = 3.0. Ensure that 1k iterations of Euler's method occurs per step (e.g. dt ~ 0.001). Start with n=30 steps.
+Using Euler's method, solve and visualize the Lorenz system for x(t), y(t), and z(t) using line graphs, and produce "butterfly" phase portrait(s) by scatter plotting y(x), y(z), and x(z). For initial conditions, use σ = 10, β = 8/3, ρ = 28, x_0 = 2.0, y_0 = 5.0, and z_0 = 3.0. For the time range, you should choose n=30 (30 steps) to start. dt ~ 0.001. 
 
 ### Visualizations
 Make sure that your axes are labeled and that you set a title for each chart. Increase the size and aspect ratio to improve visibility. 
@@ -22,7 +22,7 @@ Make sure that your axes are labeled and that you set a title for each chart. In
 Vary the step size (n=1, n=5, n=10, n=50, etc.) and interpret the results. What do you observe in the phase portraits? What do you observe in the time series plots? What happens as n increases?
 
 ### Write-Up
-While writing up your solution, use appropriate markdown stying and include the Lorenz system (and all of its initial conditions) written in LaTeX. 
+While writing up your solution, use appropriate markdown stying and include the Lorenz system (and all of its initial conditions) written in LaTeX. Your solution should read like a report about the Lorenz system and points will be awarded for readibility and attention to detail. Cite your sources.
 
 <br />
 
@@ -53,8 +53,20 @@ What would you recommend as a good number for this regulation that will balance 
 
 Back up your decision with graphs and analysis.
 
+### Step 3
+
+The values above for the number of fish in the Great Lakes, the average number of fishing caught, the number of fishing companies, etc, are all very, very rough and incorrect estimates.
+
+Research the actual fishing situation in Michigan by reading about the [current commercial fishing industry](https://www.bridgemi.com/michigan-environment-watch/commercial-fishing-sinking-fast-michigan-time-more-regulations), the [state commercial fishing regulations](https://www.michigan.gov/dnr/0,4570,7-350-79136_79236_80538_80541---,00.html), and a [history of commercial fishing in Michigan](https://www.michigan.gov/dnr/0,4570,7-350-79136_79236_80538_80541-424724--,00.html).
+
+What are some of the largest errors in the numerical estimates used above? Decide on your own estimates and rerun the simulation above to provide a more accurate picture.
+
+
 ### Visualizations
 Make sure that your axes are labeled and that you set a title for each chart. Increase the size and aspect ratio to improve visibility. Produce visualizations that convince yourself (and me) that you have the correct solution to the above problem. 
+
+### Write-Up
+While writing up your solution, use appropriate markdown styling and any LaTeX you think is needed. Your solution should read like a report about overfishing on the Great Lakes and points will be awared for readibility and attention to detail. Cite your sources.
 
 
 <br />

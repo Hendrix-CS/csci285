@@ -167,9 +167,9 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 |         | **Due**:  Project overview one-pager | |
 | R 10/27 | Monte Carlo Methods | [Saving for College](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Monte_Carlo_Simulations.ipynb) [Estimating PI](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Estimating_pi.ipynb) |
 | T 11/1  | [Lab #6](labs/election.md) | |
-| R 11/3  | Agent-based modeling | |
-| T 11/8  | Module #2 Review & Catch-up | |
-| R 11/10 | Exam #2 | |
+| R 11/3  | Agent-based modeling | [Agent Modeling](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Agent_Modeling.ipynb) [Forest Fire](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Forest%20Fire%20Model.ipynb) [mesa](https://github.com/projectmesa/mesa) |
+| T 11/8  | Module #2 Review & Catch-up | [Hunting Season](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Hunting_Season.ipynb) |
+| R 11/10 |  [Exam #2](exams/exam2.md) | |
 | T 11/15 | Lab #7 | |
 |         | **Due**: Model descriptions one-pager | |
 | R 11/17 | Agent-based modeling | |

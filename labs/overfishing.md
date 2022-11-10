@@ -34,7 +34,7 @@ Back up your decision with graphs and analysis.
 
 ### Step 3
 
-The values above for the number of fish in the Great Lakes, the average number of fishing caught, the number of fishing companies, the number of fishing companies, etc, are all very, very rough and incorrect estimates.
+The values above for the number of fish in the Great Lakes, the average number of fishing caught, the number of fishing companies, etc, are all very, very rough and incorrect estimates.
 
 Research the actual fishing situation in Michigan by reading about the [current commercial fishing industry](https://www.bridgemi.com/michigan-environment-watch/commercial-fishing-sinking-fast-michigan-time-more-regulations), the [state commercial fishing regulations](https://www.michigan.gov/dnr/0,4570,7-350-79136_79236_80538_80541---,00.html), and a [history of commercial fishing in Michigan](https://www.michigan.gov/dnr/0,4570,7-350-79136_79236_80538_80541-424724--,00.html).
 
