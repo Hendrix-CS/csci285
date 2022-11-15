@@ -66,28 +66,28 @@ Each assignment is assessed as **Complete**, **Partially Complete** or **Not Com
 
 * To earn an A in the course, a student will:
     * **Complete** two **Exams** and at least **Partially Complete** the remaining **Exam**.
-    * **Complete** seven out of eight **Labs** with the other at least **Partially Complete**.
+    * **Complete** six out of seven **Labs** with the other at least **Partially Complete**.
     * Maintain an 85% or higher on the **Final Project**
     * Schedule and attend a minimum of three **Checkins** (office hour appointments)
     * Up to one unexcused absence.
 
 * To earn a B in the course, a student will:
     * **Complete** one **Exam** and **Partially Complete** the remaining **Exams**.
-    * **Complete** six out of eight **Labs** with the other two at least **Partially Complete**.
+    * **Complete** five out of seven **Labs** with the other two at least **Partially Complete**.
     * Maintain an 75% or higher on the **Final Project**
     * Schedule and attend a minimum of two **Checkins** (office hour appointments)
     * Up to one unexcused absence.
 
 * To earn a C in the course, a student will:
-    * **Partially Complete** all three **Exams**.
-    * **Complete** five out of eight **Labs** with **Partially Complete** on at least two more.
+    * **Partially Complete** two of the **Exams**.
+    * **Complete** four out of seven **Labs** with **Partially Complete** on at least two more.
     * Maintain an 65% or higher on the **Final Project**
     * Schedule and attend a minimum of one **Checkins** (office hour appointments)
     * Up to two unexcused absences.
 
 * To earn a D in the course, a student will:
-    * **Partially Complete** two **Exams**.
-    * **Complete** four out of eight **Labs** with **Partially Complete** on at least two more.
+    * **Partially Complete** one of the **Exams**.
+    * **Complete** three out of seven **Labs** with **Partially Complete** on at least two more.
     * Maintain an 65% or higher on the **Final Project**
     * Up to three unexcused absences.
 
@@ -170,16 +170,17 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 | R 11/3  | Agent-based modeling | [Agent Modeling](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Agent_Modeling.ipynb) [Forest Fire](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Forest%20Fire%20Model.ipynb) [mesa](https://github.com/projectmesa/mesa) |
 | T 11/8  | Module #2 Review & Catch-up | [Hunting Season](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Hunting_Season.ipynb) |
 | R 11/10 |  [Exam #2](exams/exam2.md) | |
-| T 11/15 | Lab #7 | |
+| T 11/15 | [Lab #7](labs/abm.md) | |
 |         | **Due**: Model descriptions one-pager | |
 | R 11/17 | Agent-based modeling | |
-| T 11/22 | Start Module #3 (numerical techniques)       |  |
+| T 11/22 | Project Work Day #2 |  |
 |         | **Due**: Project paper rough draft | |
 | R 11/24 | No class (thanksgiving break) | |
-| T 11/29 | Lab #8 | |
-| R 12/1  | Project presentation day | |
-| T 12/6  | Module #3 Review & Catch-up | |
-| R 12/8  | Exam #3 | |
-| T 12/13 | **Due**: Project data, implementation, and final draft | |
+| T 11/29 | Module #3: Numerical techniques | |
+| R 12/1  | Exam #3 Prep / Project Work Day #3 | |
+| T 12/6  | Exam #3 | |
+| R 12/8  | Project presentation day #1 | |
+| T 12/13 | Project presentation day #2 | |
+|         | **Due**: Project data, implementation, and final draft | |
 
 <br>
