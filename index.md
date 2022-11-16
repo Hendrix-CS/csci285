@@ -175,12 +175,11 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 | R 11/17 | Agent-based modeling | |
 | T 11/22 | Project Work Day #2 |  |
 |         | **Due**: Project paper rough draft | |
-| R 11/24 | No class (thanksgiving break) | |
-| T 11/29 | Module #3: Numerical techniques | |
-| R 12/1  | Exam #3 Prep / Project Work Day #3 | |
-| T 12/6  | Exam #3 | |
-| R 12/8  | Project presentation day #1 | |
-| T 12/13 | Project presentation day #2 | |
-|         | **Due**: Project data, implementation, and final draft | |
+| R 11/24 | No class (Thanksgiving break) | |
+| T 11/29 | Exam #3 | |
+| R 12/1  | Project Work Day #3 | |
+| W 12/7  | Final Project Presentations (08:30 - 11:30am) | |
+| M 12/12 | **Due** Final Project Paper (including all data and code) | |
+| F 12/16 | Final grades are due @ 9am | |
 
 <br>
