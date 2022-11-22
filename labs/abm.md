@@ -73,19 +73,18 @@ Use the Notebook included in the model to visualize a graph of the food collecti
 
 Create a new agent-based model to study the collective behavior of [termites](http://en.wikipedia.org/wiki/Termite). In particular, you will be modeling how termites organize to build large structures without a leader. There will be two types of agents in the world, `Termite` and `Environment`.
 
-{% include tip.html content="Look to the Forest Fire
-model for how to get started." %}
+{% include tip.html content="Look to the Forest Fire model for how to get started." %}
 
 ### Environment
 
-The `Environment` of the world will have two states, `DIRT` and `EMPTY`. Make the `DIRT` tate appear yellow, and the `EMPTY` state be black. In this model, the `Environment` will not need to update its state, only hold information for the `Termite` class to manipulate.
+The `Environment` of the world will have two states, `DIRT` and `EMPTY`. Make the `DIRT` state appear yellow, and the `EMPTY` state be black. In this model, the `Environment` will not need to update its state, only hold information for the `Termite` class to manipulate.
 
 
 ### Termite
 
 We will use three states to model our `Termite` behavior, `FORAGE`, `LOOK`, and `DROP`.
 
-* When a `Termite` is in the `FORAGE` state, they wander randomly around the world. If they step on top of an `Environment` cell that contains `DIRT`, they pick it up by making their current cell `EMTPY`, and change their own state to `LOOK`.
+* When a `Termite` is in the `FORAGE` state, they wander randomly around the world. If they step on top of an `Environment` cell that contains `DIRT`, they pick it up by making their current cell `EMPTY`, and change their own state to `LOOK`.
 
 * In the `LOOK` state, the `Termite` is looking for another piece of `DIRT`. They will again wander around the world randomly until they are standing on a cell with `DIRT`. When this happens, they change their state to `DROP`.
 
@@ -107,7 +106,7 @@ Call the step method of the scheduler, and make sure to stop the model from runn
 
 Following the Forest Fire and Ant models above, write a `server.py` that will allow you to visualize your termites. Use the `ant.png` file to display a termite on the screen. You do not need to create sliders, but are welcome to do so if you want.
 
-Visualize your model using the `mesa runserver` method to display the grid.
+Visualize your model using the `mesa runserver` or `python run.py` method to display the grid.
 
 ### BONUS - Counting Piles
 
