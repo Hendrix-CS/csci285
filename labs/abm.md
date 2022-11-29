@@ -144,8 +144,10 @@ As you work on this lab, record all of your progress in a Jupyter notebook. Reco
 
 ## Grading
 
-* Complete: Notebook can be read easily w/o needing to reference this page for additional detail. It should read like a self-contained report. It can be executed without producing runtime errors. All steps (1-4) are finished and all discussion questions are answered.
+* Complete: Notebook can be read easily w/o needing to reference this page for additional detail. It should read like a self-contained report. It can be executed without producing runtime errors. All steps (1-2) are finished and all discussion questions are answered.
 
-* Partially complete: Notebook can be executed without producing runtime errors. Steps (1-4) are attempted.
+* Partially complete: Notebook can be executed without producing runtime errors. Steps (1-2) are attempted.
 
-* Bonus: If you complete (correctness counts!) the two bonus sections of termite modeling, then you can get 15 additional points added to your Exam #2 grade. this is enough to turn a "B" into an "A".
+* Bonus: If you complete (correctness counts!) Steps 3 & 4 then you can get 15 additional points added to any Exam of your choosing. This is enough to turn a "B" into an "A". If you complete the bonus (correctness counts!) on Step 4 then an additional 5 points can be added to any Exam of your choosing. 
+
+
