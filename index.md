@@ -177,7 +177,7 @@ Here is a link to the deck I'm presenting in class each week: [slides.pdf](asset
 |         | **Due**: Project paper rough draft | |
 | R 11/24 | No class (Thanksgiving break) | |
 | T 11/29 | Project Work Day #3 | |
-| R 12/1  | Exam #3 | |
+| R 12/1  | [Exam #3](exams/exam3.md) | |
 | W 12/7  | Final Project Presentations (08:30 - 11:30am) | |
 | M 12/12 | **Due** Final Project Paper (including all data and code) | |
 | F 12/16 | Final grades are due @ 9am | |
