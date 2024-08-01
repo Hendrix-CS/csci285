@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 number: CSCI 285
 title: Scientific Computing
-semester: Fall 2022
+semester: Fall 2024
 
 navigation:
   - title: Overview
@@ -40,7 +40,7 @@ navigation:
         url: '#attendance'
       - page: Check ins
         url: '#checkins'
-      - page: Late Work Policy
+      - page: Due Date Policy
         url: '#latework'
       - page: Resources
         url: '#resources'
@@ -60,34 +60,31 @@ navigation:
     url: '#commitments'
 
 instructors:
-  - id: wilson
-    name: Prof. Joshua Wilson
-    email: wilsonj@hendrix.edu
-    phone: (919) 323-6369
-    officehours: https://calendly.com/wilsojb/30min
+  - id: goadrich
+    name: Dr. Mark Goadrich
+    email: goadrich@hendrix.edu
+    phone: (501) 450-1367
+    officehours: https://markgoadrich.youcanbook.me
 
 offerings:
   - name: LECTURE 01
-    loc: MCREY 315
-    time: TR 2:45 - 4:00pm
-    instructor: wilson
+    loc: MCREY 314
+    time: TR 9:45 - 11:00am
+    instructor: goadrich
 
 resources:
   - name: Python 3
     image: assets/images/pythonlogo.png
     url: http://python.org
-  - name: Anaconda
-    image: assets/images/anaconda.png
-    url: https://www.anaconda.com/products/individual
+  - name: Kaggle
+    image: assets/images/kaggle.png
+    url: https://www.kaggle.com/
   - name: Pandas
     image: assets/images/pandas.png
     url: https://pandas.pydata.org/
-  - name: Matplotlib
-    image: assets/images/matplotlib.png
+  - name: Plotnine
+    image: assets/images/plotnine.png
     url: https://plotnine.readthedocs.io/en/stable/
-  - name: Seaborn
-    image: assets/images/seaborn_logo.png
-    url: https://seaborn.pydata.org/
   # - name: Scikit-learn
   #   image: assets/images/scikit-learn-logo-small.png
   #   url: https://scikit-learn.org/stable/index.html

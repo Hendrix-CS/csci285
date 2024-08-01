@@ -26,30 +26,61 @@ Upon completing this course, you will be able to,
 
 <br>
 
-### W2 Requirements
-
-This course is designated as a <a href="https://www.hendrix.edu/Faculty_Handbook/2020-2021/Academic_Policies_and_Procedures/F_2_c__Writing_Across_the_Curriculum/">W2 Writing Intensive Course</a> and includes these learning goals and assessment criteria. Writing will be assessed throughout the semester through lab reports and the final paper, with multiple revision
-opportunities and feedback provided regularly.
-
-<br>
 
 ## <a name="attendance">Attendance</a>
 
-We will be meeting this semester in MCREY 315. This course will be using all of our scheduled time slots (TR  2:45 PM-4:00 PM) starting on 8/23/2022 and ending on 12/15/2022. I expect you to be present and participating in our discussions and small group work sessions. If we are forced to meet remotely (e.g. weather, public health, etc.), then I expect video and audio turned on for at least part of each class. If you have difficulties meeting these expectations, please contact me, the Office of Academic Success, the IT HelpDesk, and the Provost’s Office to discuss alternate accommodations.
+Attending class and being an active participant in the class community
+is one of the [most important contributors to your learning at Hendrix](https://www.hendrix.edu/Catalog/2023-2024/Academic_Policies_and_Regulations/Policies_and_Appeals/D_6_e__Class_Attendance/).
+Attendance is especially important in this class since you will often engage in group learning activities. Active participation is expected in order to achieve higher grade levels in the course. 
+
+If you know that you will be absent, please email me so that we can find accomodations. If there is an emergency, please get in touch with me as soon as is possible once the emergency is resolved. I trust you to be honest with me about your reasons for the absence (I do not need details), and honest with yourself about if you truly need to be absent. **If you do not communicate with me about your absence, or if your reason for absence is not listed on the Hendrix Attendance Policy, it will likely be unexcused.**
 
 <br>
 
 ## <a name="checkins">Checkins</a>
 
-Three times throughout the semester, you are expected to make an office hours appointment and check in with me about the course. This will be conversation and feedback about your current progress and understanding. These should be scheduled, in advance, using the available time slots [found here](https://calendly.com/wilsojb/30min). These checkins are a component of your final grade.
+Three times throughout the semester, you are expected to make an office hours appointment and check in with me about the course. This will be conversation and feedback about your current progress and understanding. These should be scheduled, in advance, using the available time slots.These checkins are a component of your final grade.
 
 <br>
 
-## <a name="latework">Late Work Policy</a>
+## <a name="latework">Due Date Policy</a>
 
-Each student has **four late days** to spend throughout the semester as they wish. Simply inform the instructor any time *prior* to the due date for an assignment that you wish to use a late day; you may then turn in the assignment up to 24 hours late. Multiple late days may be used on the same assignment. There are no partial late days; turning in an assignment 2 hours late or 20 hours late will both use 1 late day. Note that late days are intended to cover both normal circumstances (you simply want more time to work on the assignment) and exceptional circumstances (you get sick, travel for a game or family obligation, *etc.*). After you have used up your late days, late assignments will receive at most partial credit.
+[*Adapted from Spencer Bagley and David Clark, via [Robert
+Talbert](https://rtalbert.org/a-real-world-approach-to-deadlines/)*]
 
-In order to spend a late day, the instructor must be notified, by email, prior to the deadline.
+CSCI 352 uses a **real-world policy** on due dates---but this may not
+mean what you think! In the *real* real world, due dates exist but
+they are often not ironclad. Assignments have due dates to help you 
+make progress in the course and solidify your knowledge before moving on 
+to something new. Your life and schedule may not perfectly coincide 
+with the due dates I have chosen. If you need more time to
+get the job done well, you email whoever set the deadline to ask if
+you can have more time. Studies have shown that deadline extension
+requests---in moderation and when truly needed---often lead to
+*better* employee evaluations (not to mention better work). [*See [Go
+Ahead and Ask for More Time on that
+Deadline](https://hbr.org/2021/12/go-ahead-and-ask-for-more-time-on-that-deadline)
+by Ashley Williams*.]
+
+**If you need an extension on a due date, email me and explain what
+you need**, and it will probably be fine. It helps if you propose a
+concrete new deadline (*e.g.* "I can get it done by 5pm on
+Wednesday"). If you ask for lots of extensions, we'll work together
+to find a way to help you keep up. Note, however, that late
+submissions may not receive feedback as quickly as on-time
+submissions.
+
+If you have significant extenuating circumstances that cause you to
+miss multiple deadlines, please [come to office
+hours](markgoadrich.youcanbook.me) to discuss broader accommodations.  I'm
+happy to be flexible, but it helps to know what you need so I can
+figure out the best way to help.
+
+{% include important.html content="You must be in communication with me anytime an assignment is late." %}
+
+If you would like to improve an assignment after it has been graded and improve your grade, you may revise and resubmit the assignment until you do. This must be **within two weeks of receiving feedback**. If you need more than two weeks, *you must schedule a meeting with me to discuss your reasons for the delay*.
+
+{% include important.html content="All work and revisions must be completed the day of the final exam period for this course at 5pm." %}
 
 <br>
 
@@ -62,7 +93,7 @@ In order to spend a late day, the instructor must be notified, by email, prior t
 
 ## <a name="scale">Specifications Grading</a>
 
-Each assignment is assessed as **Complete**, **Partially Complete** or **Not Complete**. Criteria for the first two categories will be specified for each assignment. Final course grades are earned based on cumulative assignment outcomes. **Late Work** is automatically given **Partially Complete** without any further consideration. See the **Late Work Policy** to understand this requirement.
+Each assignment is assessed as **Complete**, **Partially Complete** or **Not Complete**. Criteria for the first two categories will be specified for each assignment. Final course grades are earned based on cumulative assignment outcomes. 
 
 * To earn an A in the course, a student will:
     * **Complete** two **Exams** and at least **Partially Complete** the remaining **Exam**.
