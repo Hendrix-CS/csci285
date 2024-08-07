@@ -7,19 +7,15 @@ worktitle: Lake Trout
 
 ## Overview
 
-In this lab, you will refresh your knowledge of Python, install conda, and get some practice using pandas. You will also learn a great deal about how to determine the age of lake trout in Alaska using [otolith growth measurements](https://en.wikipedia.org/wiki/Age_determination_in_fish).
+In this lab, you will refresh your knowledge of Python, upload data to Kaggle, and get some practice using pandas. You will also learn a great deal about how to determine the age of lake trout in Alaska using [otolith growth measurements](https://en.wikipedia.org/wiki/Age_determination_in_fish).
 
 The data you'll need can be downloaded as a zip file [here](https://alaska.usgs.gov/products/data.php?dataid=306). An abstract of a paper published using this data can be found [here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/eff.12566). (not important to the lab, but you may be curious to learn more about trout!)
 
-## Installing Anaconda
+## Setting up Kaggle
 
-To analyze our data this semester, we will be using Anaconda and Jupyter Notebooks, and hosting these on our own computers. The [Anaconda Installation](https://docs.anaconda.com/anaconda/install/) page lists many instructions for multiple operating systems. Follow the instructions that make sense to you. Or, if you prefer a more light-weight approach, you can start with [miniconda](https://docs.conda.io/en/latest/miniconda.html). If you go with miniconda, then you may require more setup than others. Reach out to your instructor if this interests you.
+To analyze our data this semester, we will be using [Kaggle](https://www.kaggle.com/) and Jupyter Notebooks. First you will need to have an account created in Kaggle. 
 
-In order to test that your installation was successful, follow [these instructions](https://docs.anaconda.com/anaconda/install/verify-install/).
-
-### Open a Jupyter Notebook
-
-There are multiple ways to use Anaconda. You can use the "conda" command line tool to manage your python environments, fire up an instance of [Pycharm](https://www.jetbrains.com/pycharm/), or start a "jupyter notbook" or "jupyter lab" right from your terminal. For starters, the simpliest way may be to use Anaconda Navigator to launch either a "jupyter notebook" or "jupyter lab".
+Next, you should make a **New Notebook** using the large + icon. Kaggle has the ability to run both **R** and **Python** notebooks, so **make sure you are creating a python notebook**. If the notebook started in R, find the *Session options* section on the right side, and change this to *Python*. 
 
 ## Step 1: Understanding the data
 Download the archive and unzip it to find the following three files: 
@@ -39,6 +35,8 @@ The included metadata files (.html or .xml) can be thought of as a [data diction
 2. There is a section in the metadata called "Data Quality". Is there anything in that section that the user of this data may want to be aware of? Add that to your data dictionary section.
 
 ### 1.2: Grokking & (lightly) transforming the data
+Now you should upload the data to Kaggle. On the right-hand side of the notebook, find the *Input* section, then click *Upload*, and finally **New Dataset**. Pick the .csv file for the trout data and give it a name. This should make the data available to you in the notebook under the */kaggle/input/* directory.
+
 Load the data into a `pandas.DataFrame` and begin exploring its contents. 
 
 1. What is the shape of the data (how many rows, how many columns)? 
@@ -56,7 +54,6 @@ Perform some common [descriptive statistics](https://chrisalbon.com/code/python/
 4. Produce histograms for the `age` and `width` columns in addition to `year`.
 5. For the `lake` column, run `.value_counts()`. 
 
-
 ## Step 2: Aggregating the data
 For this section of the lab, you will write out a CSV file that has two columns: `lake` and `fish_count`. This CSV file should be turned in with your notebook and raw data.
 
@@ -66,7 +63,6 @@ For this section of the lab, you will write out a CSV file that has two columns:
 4. Rename the aggregated column name to `fish_count`. 
 5. Save the resulting dataframe to a [CSV file](https://chrisalbon.com/code/python/data_wrangling/pandas_saving_dataframe_as_csv/). 
 
-
 ## Step 3: Python Only
 As you can (hopefully) appreciate by now, doing all of this analysis with pure python (sans pandas) would be a daunting task even for the most savvy pythonistas. In order to drive this point home, please re-do 1.3.5 using only python libraries. 
 
@@ -74,12 +70,9 @@ As you can (hopefully) appreciate by now, doing all of this analysis with pure p
 
 In other words, compute how many times each lake appears in the CSV file. You'll need to load the CSV file using [the csv module](https://docs.python.org/3/library/csv.html) and store the results in a data structure. Hint: A dictionary is a good data structure to use for this.
 
-
 ## What To Turn In
 
 As you work on this lab, record all of your progress in a Jupyter notebook. Record your solutions and attempts in `Code` blocks, and annotate what you did with `MarkDown` blocks. Cite all the webpages you find and use in your search for your solution. You should turn in this notebook, all of the data you used, and the CSV file produced in Step 2. A good solution should read like a self-contained report.
-
-{% include warning.html content="For this lab, you can collaborate with your team, but each team member must install the necesssary tooling we will use for the rest of the semester." %}
 
 ## Grading
 

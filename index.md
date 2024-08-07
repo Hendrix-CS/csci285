@@ -26,6 +26,11 @@ Upon completing this course, you will be able to,
 
 <br>
 
+## <a name="resources">Resources</a>
+
+{% include resources.html content=site.resources %}
+
+<br>
 
 ## <a name="attendance">Attendance</a>
 
@@ -34,12 +39,6 @@ is one of the [most important contributors to your learning at Hendrix](https://
 Attendance is especially important in this class since you will often engage in group learning activities. Active participation is expected in order to achieve higher grade levels in the course. 
 
 If you know that you will be absent, please email me so that we can find accomodations. If there is an emergency, please get in touch with me as soon as is possible once the emergency is resolved. I trust you to be honest with me about your reasons for the absence (I do not need details), and honest with yourself about if you truly need to be absent. **If you do not communicate with me about your absence, or if your reason for absence is not listed on the Hendrix Attendance Policy, it will likely be unexcused.**
-
-<br>
-
-## <a name="checkins">Checkins</a>
-
-Three times throughout the semester, you are expected to make an office hours appointment and check in with me about the course. This will be conversation and feedback about your current progress and understanding. These should be scheduled, in advance, using the available time slots.These checkins are a component of your final grade.
 
 <br>
 
@@ -84,10 +83,9 @@ If you would like to improve an assignment after it has been graded and improve 
 
 <br>
 
+## <a name="checkins">Checkins</a>
 
-## <a name="resources">Resources</a>
-
-{% include resources.html content=site.resources %}
+Three times throughout the semester, you are expected to make an office hours appointment and check in with me about the course. This will be conversation and feedback about your current progress and understanding. These should be scheduled, in advance, using the available time slots.These checkins are a component of your final grade.
 
 <br>
 
@@ -123,16 +121,6 @@ Each assignment is assessed as **Complete**, **Partially Complete** or **Not Com
     * Up to three unexcused absences.
 
 
-### Revising Labs
-
-If a submitted **Lab** receives a **Partially Complete** assessment and the student seeks a **Complete** assessment:
-
-- In most cases, detailed feedback will be provided with requirements necessary for a revision to be considered **Complete**. A deadline will also be established – typically a week after the assignment is returned.
-- If the student has any questions or is uncertain what those requirements are, they should schedule an office hour appointment.
-- If the student submits revisions which meet the requirements by the deadline, the revised **Lab** will receive a **Complete** assessment.
-
-If a submitted **Lab** receives a **Not Complete** assessment, a similar list of requirements will be provided. In most cases, a **Not Complete** assessment can only be upgraded to **Partially Complete**, but the instructor reserves the right to allow students to achieve **Complete** on a case-by-case basis.
-
 <br>
 
 # <a name="coursework">Coursework</a>
@@ -151,9 +139,7 @@ On these labs, you will work with partners on the lab assignments. Their name mu
 
 ## <a name="exams">Exams</a>
 
-There will be three exams administered throughout the semester in order to evaluate your competency with the course material. They will consist of **individually** working through problems directly related to the labs and lectures. There will be no "pop" quizzes. You will know when each exam is scheduled to occur.
-
-These exams will be allotted three full class periods. We will also reserve the class period before the exam for "Module Review". This is meant to be exam prep, Q/A, and cover any lingering subject matter in the module. 
+There will be two exams administered throughout the semester in order to evaluate your competency with the course material. They will consist of **individually** working through problems directly related to the labs and lectures. We will reserve the class period before the exam for "Module Review". This is meant to be exam prep, Q/A, and cover any lingering subject matter in the module. 
 
 <br>
 
@@ -162,9 +148,7 @@ A major component of this course is a "Final Project" which we will build up to 
 
 [https://hendrix-cs.github.io/csci285/projects/project.html](https://hendrix-cs.github.io/csci285/projects/project.html)
 
-
 <br>
-
 
 # <a name="calendar">Calendar</a>
 

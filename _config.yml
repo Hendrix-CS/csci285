@@ -55,7 +55,7 @@ navigation:
       - page: Final Project
         url: '#project'
   - page: Calendar
-    url: '#calendar'
+    url: 'https://app.teamgantt.com/public/projects/calendar/?projectIds=4022847&publicKeys=0a6PEh2HUtGX&ids=4022847'
   - page: Commitments
     url: '#commitments'
 
