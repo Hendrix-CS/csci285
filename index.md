@@ -4,12 +4,13 @@
 
 layout: course-single
 ---
+<br/>
 
 # <a name="description">Overview</a>
 
 {{ site.description }}
 
-<br>
+<br/>
 
 ## <a name="goals">Learning Goals</a>
 
@@ -24,13 +25,13 @@ Upon completing this course, you will be able to,
 * Understand the strengths and limitations of numerical techniques.
 * Write idiomatic python and use scientific python libraries.
 
-<br>
+<br/>
 
 ## <a name="resources">Resources</a>
 
 {% include resources.html content=site.resources %}
 
-<br>
+<br/>
 
 ## <a name="attendance">Attendance</a>
 
@@ -40,7 +41,7 @@ Attendance is especially important in this class since you will often engage in 
 
 If you know that you will be absent, please email me so that we can find accomodations. If there is an emergency, please get in touch with me as soon as is possible once the emergency is resolved. I trust you to be honest with me about your reasons for the absence (I do not need details), and honest with yourself about if you truly need to be absent. **If you do not communicate with me about your absence, or if your reason for absence is not listed on the Hendrix Attendance Policy, it will likely be unexcused.**
 
-<br>
+<br/>
 
 ## <a name="latework">Due Date Policy</a>
 
