@@ -1,5 +1,5 @@
     <!-- Footer -->
-    <footer class="py-4 bg-primary">
+    <footer class="py-4 navbar-custom">
       <div class="container">
         <p class="m-0 text-center text-white"><small>Copyright &copy; Hendrix Computer Science {{ site.semester }}</small></p>
       </div>
@@ -12,13 +12,13 @@
     {% if site.hypothesis %}
       <script src="https://hypothes.is/embed.js" async></script>
     {% endif %}
-  	<script>
-  //https://codepen.io/lkp/pen/bdPbQx
-  $(function(){
-       var navMain = $(".navbar-collapse");
+    <script>
+      //https://codepen.io/lkp/pen/bdPbQx
+        $( document ).ready(function() {
+             var navMain = $(".navbar-collapse");
 
-       navMain.on("click", "a", null, function () {
-           navMain.collapse('hide');
-       });
-   });
-   </script>
+             navMain.on("click", "a", null, function () {
+                 navMain.collapse('hide');
+             });
+        });
+    </script>

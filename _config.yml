@@ -28,6 +28,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 number: CSCI 285
 title: Scientific Computing
 semester: Fall 2024
+hypothesis: false
+jumbotext: 
+jumbourl:
 
 navigation:
   - title: Overview
@@ -36,16 +39,8 @@ navigation:
         url: '#description'
       - page: Learning Goals
         url: '#goals'
-      - page: Attendance
-        url: '#attendance'
-      - page: Check ins
-        url: '#checkins'
-      - page: Due Date Policy
-        url: '#latework'
       - page: Resources
         url: '#resources'
-      - page: Scale
-        url: '#scale'
   - title: Coursework
     subfolderitems:
       - page: Labs
@@ -54,6 +49,16 @@ navigation:
         url: '#exams'
       - page: Final Project
         url: '#project'
+      - page: Check ins
+        url: '#checkins'
+  - title: Policies
+    subfolderitems:
+      - page: Attendance
+        url: '#attendance'
+      - page: Due Date Policy
+        url: '#latework'
+      - page: Scale
+        url: '#scale'
   - page: Calendar
     url: 'https://app.teamgantt.com/public/projects/calendar/?projectIds=4022847&publicKeys=0a6PEh2HUtGX&ids=4022847'
   - page: Commitments

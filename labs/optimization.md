@@ -1,7 +1,7 @@
 ---
 layout: work
 type: Lab
-num: 8
+num: 7
 worktitle: Optimization
 ---
 

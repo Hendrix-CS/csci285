@@ -33,6 +33,53 @@ Upon completing this course, you will be able to,
 
 <br/>
 
+<br>
+
+# <a name="coursework">Coursework</a>
+
+<br>
+
+## <a name="labs">Labs</a>
+
+Much of your experience with programming in this course will be through labs. We will set aside time in class for working on labs together. The instructor will make time for lab Q/A every week to address common pain points. 
+
+On these labs, you will work with partners on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a ***\*single copy\**** of the assignment. If students working as partners wish to turn in a lab late, all students must use a late day.
+
+| #  | Name                                                               
+|:--:|-----                                                               
+|1 | [Python and Pandas]({{site.baseurl}}/labs/pandas.html)                    
+|2 | [Data Visualization]({{site.baseurl}}/labs/visualization.html)              
+|3 | [Clustering]({{site.baseurl}}/labs/heart-disease.html)  
+|4 | [Dynamical Systems]({{site.baseurl}}/labs/malaria.html)     
+|5 | [Monte Carlo Simulation]({{site.baseurl}}/labs/election.html)   
+|6 | [Agent-Based Modeling]({{site.baseurl}}/labs/abm.html)                     
+|7 | [Optimization]({{site.baseurl}}/labs/optimization.html)            
+
+
+
+<br>
+
+## <a name="exams">Exams</a>
+
+There will be two exams administered throughout the semester in order to evaluate your competency with the course material. They will consist of **individually** working through problems directly related to the labs and lectures. We will reserve the class period before the exam for "Module Review". This is meant to be exam prep, Q/A, and cover any lingering subject matter in the module. 
+
+<br>
+
+## <a name="project">Final Project</a>
+A major component of this course is a "Final Project" which we will build up to over the second half of the semester with various incremental deadlines. 
+
+[https://hendrix-cs.github.io/csci285/projects/project.html](https://hendrix-cs.github.io/csci285/projects/project.html)
+
+<br>
+
+## <a name="checkins">Checkins</a>
+
+Three times throughout the semester, you are expected to make an office hours appointment and check in with me about the course. This will be conversation and feedback about your current progress and understanding. These should be scheduled, in advance, using the available time slots.These checkins are a component of your final grade.
+
+<br/>
+
+# <a name="policies">Policies<a/>
+
 ## <a name="attendance">Attendance</a>
 
 Attending class and being an active participant in the class community
@@ -84,12 +131,6 @@ If you would like to improve an assignment after it has been graded and improve 
 
 <br>
 
-## <a name="checkins">Checkins</a>
-
-Three times throughout the semester, you are expected to make an office hours appointment and check in with me about the course. This will be conversation and feedback about your current progress and understanding. These should be scheduled, in advance, using the available time slots.These checkins are a component of your final grade.
-
-<br>
-
 ## <a name="scale">Specifications Grading</a>
 
 Each assignment is assessed as **Complete**, **Partially Complete** or **Not Complete**. Criteria for the first two categories will be specified for each assignment. Final course grades are earned based on cumulative assignment outcomes. 
@@ -122,80 +163,3 @@ Each assignment is assessed as **Complete**, **Partially Complete** or **Not Com
     * Up to three unexcused absences.
 
 
-<br>
-
-# <a name="coursework">Coursework</a>
-
-<br>
-
-## <a name="labs">Labs</a>
-
-Much of your experience with programming in this course will be through labs. We will set aside time in class for working on labs together. The instructor will make time for lab Q/A every week to address common pain points and we'll generally spend half of our in class time working on labs together. 
-
-Labs will be issued on the morning of a "lab day". **Attendance is required** on these days. Every lab (sans the final lab) is due before the next lab begins. This results in most labs being due one week after being discussed with a couple spread out over longer time windows. All labs are weighted equally within the lab portion of your final grade.
-
-On these labs, you will work with partners on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a ***\*single copy\**** of the assignment. If students working as partners wish to turn in a lab late, all students must use a late day.
-
-<br>
-
-## <a name="exams">Exams</a>
-
-There will be two exams administered throughout the semester in order to evaluate your competency with the course material. They will consist of **individually** working through problems directly related to the labs and lectures. We will reserve the class period before the exam for "Module Review". This is meant to be exam prep, Q/A, and cover any lingering subject matter in the module. 
-
-<br>
-
-## <a name="project">Final Project</a>
-A major component of this course is a "Final Project" which we will build up to over the second half of the semester with various incremental deadlines. 
-
-[https://hendrix-cs.github.io/csci285/projects/project.html](https://hendrix-cs.github.io/csci285/projects/project.html)
-
-<br>
-
-# <a name="calendar">Calendar</a>
-
-Here is a link to the deck I'm presenting in class each week: [slides.pdf](assets/pres/slides.pdf). I'll continue to update this link with new slides after each class period.
-
-
-| Date | Topic | Resources |
-|:----:|------:|-----:|
-| T 8/23  | Start Module #1 (Data Analysis) | [pandas_intro](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/pandas_intro.ipynb) |
-|         | Intro to pandas | [Palmer_Penguins_1](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Palmer_Penguins_1.ipynb) [raw data](assets/data/penguins_raw.csv) [cleaned data](assets/data/penguins.csv) |
-| R 8/25  | [Lab #1: Lake Trout](labs/pandas.md) |  |
-| T 8/30  | Markdown overview | [dillinger.io](https://dillinger.io/) |
-|         | Intro to seaborn  | [Palmer_Penguins_2](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Palmer_Penguins_2.ipynb) [cleaned data](assets/data/penguins.csv) |
-| R 9/1   | [Lab #2: Data Visualization](labs/visualization.md) | |
-| T 9/6   | Intro to scikit-learn | [Distance Measures](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Distance_Measures.ipynb) [K-Means](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/K-Means.ipynb) |
-| R 9/8   | Clustering & PCA | [Palmer_Penguins_3](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Palmer_Penguins_3.ipynb) [K-Means Considerations](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/K-Means_Considerations.ipynb) |
-| T 9/13  | [Lab #3: K-means and PCA](labs/heart-disease.md) | |
-| R 9/15  | Geopandas & More Visualizations | [Geopandas](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/geopandas.ipynb) [Flight Delays](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Flight_Delays_And_Cancellations.ipynb?flush_cache=true) |
-| T 9/20  | Module #1 Review & Catch-up | [Datasets](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Datasets.ipynb) [Lemurs](http://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Lemurs.ipynb) |
-| R 9/22  | Class cancelled | |
-| T 9/27  | [Exam #1](exams/exam1.md) | |
-| R 9/29  | [Lab #4](labs/flights.md) | |
-| T 10/4  | Start Module #2 (System Dynamics) | [Euler's Method](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Euler_Method.ipynb) [Taylor Expansion](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Taylor_Expansion.ipynb) [Population Growth](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Population_Growth.ipynb) |
-| R 10/6  | SIR Modeling | [Pred_Prey_Revisited](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/PredPrey_Revisited.ipynb) [SIR_Modeling](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/SIR_Modeling.ipynb) [Newton's law of cooling](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Newton_law_of_cooling.ipynb) |
-| T 10/11  | [Lab #5](labs/malaria.md) | |
-|         | **Due**:  Project topic selection one-pager | |
-| R 10/13 | No class (fall break) | |
-| T 10/18 | Monte Carlo Methods | [Monte_Carlo_Method](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Monte_Carlo_Method.ipynb) |
-| R 10/20 | Project Work Day #1 | |
-| T 10/25 | Project overview presentation day | |
-|         | **Due**:  Project overview one-pager | |
-| R 10/27 | Monte Carlo Methods | [Saving for College](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Monte_Carlo_Simulations.ipynb) [Estimating PI](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Estimating_pi.ipynb) |
-| T 11/1  | [Lab #6](labs/election.md) | |
-| R 11/3  | Agent-based modeling | [Agent Modeling](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Agent_Modeling.ipynb) [Forest Fire](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Forest%20Fire%20Model.ipynb) [mesa](https://github.com/projectmesa/mesa) |
-| T 11/8  | Module #2 Review & Catch-up | [Hunting Season](https://nbviewer.org/github/Hendrix-CS/csci285/blob/master/assets/notebooks/Hunting_Season.ipynb) |
-| R 11/10 |  [Exam #2](exams/exam2.md) | |
-| T 11/15 | [Lab #7](labs/abm.md) | |
-|         | **Due**: Model descriptions one-pager | |
-| R 11/17 | Agent-based modeling | |
-| T 11/22 | Project Work Day #2 |  |
-|         | **Due**: Project paper rough draft | |
-| R 11/24 | No class (Thanksgiving break) | |
-| T 11/29 | Project Work Day #3 | |
-| R 12/1  | [Exam #3](exams/exam3.md) | |
-| W 12/7  | Final Project Presentations (08:30 - 11:30am) | |
-| M 12/12 | **Due** Final Project Paper (including all data and code) | |
-| F 12/16 | Final grades are due @ 9am | |
-
-<br>

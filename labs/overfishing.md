@@ -1,7 +1,7 @@
 ---
 layout: work
 type: Lab
-num: 6
+num: 5
 worktitle: Overfishing
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: work
 type: Lab
-num: 7
+num: 6
 worktitle: Agent-Based Modeling
 ---
 

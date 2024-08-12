@@ -1,7 +1,7 @@
 ---
 layout: work
 type: Lab
-num: 5
+num: 4
 worktitle: Modeling the System Dynamics of Malaria in Rwanda
 ---
 
