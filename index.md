@@ -47,6 +47,17 @@ On these labs, you will work with partners on the lab assignments. Their name mu
 
 | #  | Name                                                               
 |:--:|-----                                                               
+|1 | [Python and Pandas]                   
+|2 | [Data Visualization]             
+|3 | [Clustering] 
+|4 | [Dynamical Systems]   
+|5 | [Monte Carlo Simulation]   
+|6 | [Agent-Based Modeling]                   
+|7 | [Optimization]            
+
+<!--
+| #  | Name                                                               
+|:--:|-----                                                               
 |1 | [Python and Pandas]({{site.baseurl}}/labs/pandas.html)                    
 |2 | [Data Visualization]({{site.baseurl}}/labs/visualization.html)              
 |3 | [Clustering]({{site.baseurl}}/labs/heart-disease.html)  
@@ -55,7 +66,7 @@ On these labs, you will work with partners on the lab assignments. Their name mu
 |6 | [Agent-Based Modeling]({{site.baseurl}}/labs/abm.html)                     
 |7 | [Optimization]({{site.baseurl}}/labs/optimization.html)            
 
-
+-->
 
 <br>
 
@@ -68,8 +79,10 @@ There will be two exams administered throughout the semester in order to evaluat
 ## <a name="project">Final Project</a>
 A major component of this course is a "Final Project" which we will build up to over the second half of the semester with various incremental deadlines. 
 
+<!--
 [https://hendrix-cs.github.io/csci285/projects/project.html](https://hendrix-cs.github.io/csci285/projects/project.html)
 
+-->
 <br>
 
 ## <a name="checkins">Checkins</a>
@@ -136,30 +149,30 @@ If you would like to improve an assignment after it has been graded and improve 
 Each assignment is assessed as **Complete**, **Partially Complete** or **Not Complete**. Criteria for the first two categories will be specified for each assignment. Final course grades are earned based on cumulative assignment outcomes. 
 
 * To earn an A in the course, a student will:
-    * **Complete** two **Exams** and at least **Partially Complete** the remaining **Exam**.
+    * **Complete** two **Exams**.
     * **Complete** six out of seven **Labs** with the other at least **Partially Complete**.
-    * Maintain an 85% or higher on the **Final Project**
+    * **Complete** the **Final Project**
     * Schedule and attend a minimum of three **Checkins** (office hour appointments)
     * Up to one unexcused absence.
 
 * To earn a B in the course, a student will:
-    * **Complete** one **Exam** and **Partially Complete** the remaining **Exams**.
+    * **Complete** one **Exam** and **Partially Complete** the remaining **Exam**.
     * **Complete** five out of seven **Labs** with the other two at least **Partially Complete**.
-    * Maintain an 75% or higher on the **Final Project**
+    * **Complete** the **Final Project**
     * Schedule and attend a minimum of two **Checkins** (office hour appointments)
     * Up to one unexcused absence.
 
 * To earn a C in the course, a student will:
     * **Partially Complete** two of the **Exams**.
     * **Complete** four out of seven **Labs** with **Partially Complete** on at least two more.
-    * Maintain an 65% or higher on the **Final Project**
+    * **Partially Complete** the **Final Project**
     * Schedule and attend a minimum of one **Checkins** (office hour appointments)
     * Up to two unexcused absences.
 
 * To earn a D in the course, a student will:
     * **Partially Complete** one of the **Exams**.
     * **Complete** three out of seven **Labs** with **Partially Complete** on at least two more.
-    * Maintain an 65% or higher on the **Final Project**
+    * **Partially Complete** the **Final Project**
     * Up to three unexcused absences.
 
 

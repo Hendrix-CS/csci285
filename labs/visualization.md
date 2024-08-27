@@ -11,8 +11,8 @@ In this lab, you will find a dataset and analyze it using the pandas and seaborn
 
 ## Materials
 
-* [FEV dataset](../assets/data/FEV.csv)
-* [FEV notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/assets/notebooks/FEV_Data_Analysis.ipynb)
+* [FEV dataset](../data/FEV.csv)
+* [FEV notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/code/FEV_Data_Analysis.ipynb)
 * [Seaborn Regression Models](https://seaborn.pydata.org/tutorial/regression.html)
 
 
