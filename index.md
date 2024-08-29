@@ -33,6 +33,14 @@ Upon completing this course, you will be able to,
 
 <br/>
 
+## <a name="code">Class Code</a>
+
+| Topic  | Resources |                                                            
+|:--:|-----|
+|Pandas| [Getting Started](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) |
+| | [Pandas Basics](https://www.kaggle.com/code/markgoadrich/pandas-basics) |
+| | [Palmer Penguins](https://www.kaggle.com/code/markgoadrich/palmer-penguins) |
+
 <br>
 
 # <a name="coursework">Coursework</a>
