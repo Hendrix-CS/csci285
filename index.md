@@ -47,7 +47,7 @@ On these labs, you will work with partners on the lab assignments. Their name mu
 
 | #  | Name                                                               
 |:--:|-----                                                               
-|1 | [Python and Pandas]                   
+|1 | [Python and Pandas]({{site.baseurl}}/labs/pandas.html)                  
 |2 | [Data Visualization]             
 |3 | [Clustering] 
 |4 | [Dynamical Systems]   
