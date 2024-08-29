@@ -108,7 +108,7 @@ If you know that you will be absent, please email me so that we can find accomod
 [*Adapted from Spencer Bagley and David Clark, via [Robert
 Talbert](https://rtalbert.org/a-real-world-approach-to-deadlines/)*]
 
-CSCI 352 uses a **real-world policy** on due dates---but this may not
+CSCI 285 uses a **real-world policy** on due dates---but this may not
 mean what you think! In the *real* real world, due dates exist but
 they are often not ironclad. Assignments have due dates to help you 
 make progress in the course and solidify your knowledge before moving on 
