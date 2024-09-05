@@ -40,6 +40,7 @@ Upon completing this course, you will be able to,
 |Pandas| [Getting Started](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) |
 | | [Pandas Basics](https://www.kaggle.com/code/markgoadrich/pandas-basics) |
 | | [Palmer Penguins](https://www.kaggle.com/code/markgoadrich/palmer-penguins) |
+|Visualization|[Palmer Penguins Visualization](https://www.kaggle.com/code/markgoadrich/palmer-penguins-visualization) |
 
 <br>
 
@@ -56,7 +57,7 @@ On these labs, you will work with partners on the lab assignments. Their name mu
 | #  | Name                                                               
 |:--:|-----                                                               
 |1 | [Python and Pandas]({{site.baseurl}}/labs/pandas.html)                  
-|2 | [Data Visualization]             
+|2 | [Data Visualization]({{site.baseurl}}/labs/visualization.html)    
 |3 | [Clustering] 
 |4 | [Dynamical Systems]   
 |5 | [Monte Carlo Simulation]   

@@ -12,8 +12,7 @@ In this lab, you will find a dataset and analyze it using the pandas and seaborn
 ## Materials
 
 * [FEV dataset](../data/FEV.csv)
-* [FEV notebook](https://nbviewer.jupyter.org/urls/hendrix-cs.github.io/csci285/code/FEV_Data_Analysis.ipynb)
-* [Seaborn Regression Models](https://seaborn.pydata.org/tutorial/regression.html)
+* [FEV notebook](https://www.kaggle.com/code/markgoadrich/fev-lab-2-example)
 
 
 ## Step 1: Data Gathering
