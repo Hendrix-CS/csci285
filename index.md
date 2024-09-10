@@ -41,6 +41,7 @@ Upon completing this course, you will be able to,
 | | [Pandas Basics](https://www.kaggle.com/code/markgoadrich/pandas-basics) |
 | | [Palmer Penguins](https://www.kaggle.com/code/markgoadrich/palmer-penguins) |
 |Visualization|[Palmer Penguins Visualization](https://www.kaggle.com/code/markgoadrich/palmer-penguins-visualization) |
+| Clustering | [K Means](https://www.kaggle.com/code/markgoadrich/k-means-algorithm) |
 
 <br>
 
