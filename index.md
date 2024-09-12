@@ -42,6 +42,8 @@ Upon completing this course, you will be able to,
 | | [Palmer Penguins](https://www.kaggle.com/code/markgoadrich/palmer-penguins) |
 |Visualization|[Palmer Penguins Visualization](https://www.kaggle.com/code/markgoadrich/palmer-penguins-visualization) |
 | Clustering | [K Means](https://www.kaggle.com/code/markgoadrich/k-means-algorithm) |
+| | [Scaling](https://www.kaggle.com/code/markgoadrich/considerations-when-clustering-with-k-means) |
+| | [PCA](https://www.kaggle.com/code/markgoadrich/principal-component-analysis) |
 
 <br>
 
