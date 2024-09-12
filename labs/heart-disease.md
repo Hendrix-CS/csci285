@@ -66,7 +66,7 @@ Produce a confusion matrix (2x2) and associated heatmap that compares ground tru
 
 Use PCA to find the first two principal components. The variance of each component explains its "importance" in the decomposition. By running `pca = PCA(n_components=2).fit(x)`, you can get back the variance of each component from `pca.explained_variance_`. You can then run `pca.transform(x)` to rotate your input features into PCA-1/PCA-2 space. 
 
-* Produce a bar chart (i.e. `sns.barplot`) that plots the components (PCA-1, PCA-2) against their explained variance. 
+* Produce a bar chart that plots the components (PCA-1, PCA-2) against their explained variance. 
 * Produce a scatter plot of the PCA rotated heart disease data colored by cluster (i.e. K-Means resulting labels). 
 
 Describe how much variance is explained through using these components. 

@@ -7,7 +7,7 @@ worktitle: Data Visualization
 
 ## Overview
 
-In this lab, you will find a dataset and analyze it using the pandas and seaborn python libraries.
+In this lab, you will find a dataset and analyze it using the pandas and plotnine python libraries.
 
 ## Materials
 
