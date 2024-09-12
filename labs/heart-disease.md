@@ -29,7 +29,7 @@ Imagine you are tasked by the [Cleveland Clinic](http://my.clevelandclinic.org/)
 
 You will be analyzing past patient history in order to understand patterns of heart disease. Create a Jupyter notebook and read the cleveland-testing.csv into a pandas data frame.
 
-* Here is the dataset for the lab: [cleveland-testing.csv](../assets/data/cleveland-testing.csv)
+* Here is the dataset for the lab: [cleveland-testing.csv](../data/cleveland-testing.csv)
 * Display the shape (i.e. rows & columns) and a subset of the data using pandas. 
 * Display `.dtypes` and confirm these match with the provided data dictionary.
 * `.describe()` the dataset to understand the quality of numerical columns
