@@ -59,7 +59,7 @@ On these labs, you will work with partners on the lab assignments. Their name mu
 |:--:|-----                                                               
 |1 | [Python and Pandas]({{site.baseurl}}/labs/pandas.html)                  
 |2 | [Data Visualization]({{site.baseurl}}/labs/visualization.html)    
-|3 | [Clustering] 
+|3 | [Clustering]({{site.baseurl}}/labs/heart-disease.html)
 |4 | [Dynamical Systems]   
 |5 | [Monte Carlo Simulation]   
 |6 | [Agent-Based Modeling]                   
