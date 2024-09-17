@@ -38,9 +38,9 @@ The data contained in this data frame should satisfy the following constraints,
 
 1. (**5 points**) Display the minimum, maximum, and average (mean) values of `age` and `income`. 
 
-2. (**10 points**) Draw two histograms, using seaborn, in order to show that your data is normally distributed. Make sure that your axes are labeled and that you set a title for each chart. Increase the size and aspect ratio to improve visibility. 
+2. (**10 points**) Draw two histograms, using plotnine, in order to show that your data is normally distributed. Make sure that your axes are labeled and that you set a title for each chart. 
 
-3. (**10 points**) Draw a scatter plot, using seaborn, that plots age vs. income. Make sure that your axes are labeled and that you set a title. Increase the size and aspect ratio to improve visibility.
+3. (**10 points**) Draw a scatter plot, using plotnine, that plots age vs. income. Make sure that your axes are labeled and that you set a title. 
 
 4. (**10 points**) Create a new column on your data frame, called `sector`, that contains one of four values: "jazz", "puck", "camp", and "flub". Draw another scatter plot similar to one you created in (3) except that "sector" is displayed using color.
 > Assign "jazz" if age > 25 and income > 35k
@@ -71,11 +71,11 @@ The [iris flower dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dat
 
 4. (**5 points**) Display the data types of the columns.
 
-5. (**10 points**) Draw a box plot, using seaborn, of iris petal width (cm) vs. species. Make sure that your axes are labeled and that you set a title. Increase the size and aspect ratio to improve visibility. What differences do you noticed in this plot? 
+5. (**10 points**) Draw a box plot, using plotnine, of iris petal width (cm) vs. species. Make sure that your axes are labeled and that you set a title. What differences do you noticed in this plot? 
 
-6. (**10 points**) Draw a pairwise plot, using seaborn, of the four numerical columns and the one categorical column. Make sure to color by the categorical column. What do you notice about the dataset through analyzing this array of charts?
+6. (**10 points**) Draw a pairwise plot, using plotnine, of the four numerical columns and the one categorical column. Make sure to color by the categorical column. What do you notice about the dataset through analyzing this array of charts?
 
-7. (**10 points**) Draw a scatter plot that includes linear regressions, using seaborn, of two features that appear linearly related. Color by species. Increase the size and aspect ratio to improve visibility. Make sure that your axes are labeled and that you set a title. What conclusions can you draw from this plot?
+7. (**10 points**) Draw a scatter plot that includes linear regressions, using plotnine, of two features that appear linearly related. Color by species. Make sure that your axes are labeled and that you set a title. What conclusions can you draw from this plot?
 
 <br />
 

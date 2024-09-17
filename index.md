@@ -44,6 +44,7 @@ Upon completing this course, you will be able to,
 | Clustering | [K Means](https://www.kaggle.com/code/markgoadrich/k-means-algorithm) |
 | | [Scaling](https://www.kaggle.com/code/markgoadrich/considerations-when-clustering-with-k-means) |
 | | [PCA](https://www.kaggle.com/code/markgoadrich/principal-component-analysis) |
+| | [Duke Lemur Center](https://www.kaggle.com/code/markgoadrich/duke-lemur-center-data) |
 
 <br>
 
