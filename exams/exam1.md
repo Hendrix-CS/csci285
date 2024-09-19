@@ -12,7 +12,7 @@ In this exam, you will demonstrate your mastery of CSCI 285 Module #1 concepts i
 
 <br />
 
-# Part 1 - 50 points
+# Part 1 - Pandas
 
 The [iris flower dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dataset) is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper "The use of multiple measurements in taxonomic problems". It is sometimes called Anderson's Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species. The data set consists of 50 samples from each of three species of Iris (Iris Setosa, Iris virginica, and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
@@ -35,7 +35,7 @@ To earn a **Complete** on the exam, you must also
 
 <br />
 
-# Part 2 - 50 points
+# Part 2 - Visualization
 
 <br />
 
@@ -51,11 +51,9 @@ To earn a **Complete** on the exam, you must also
 
 <br />
 
-# Part 3 - 50 points
+# Part 3 - Clustering and PCA
 
 <br />
-
-### Clustering & PCA - 30 points
 
 Continuing clustering with the iris flower data set.
 
