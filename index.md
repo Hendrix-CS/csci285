@@ -88,6 +88,11 @@ On these labs, you will work with partners on the lab assignments. Their name mu
 
 There will be two exams administered throughout the semester in order to evaluate your competency with the course material. They will consist of **individually** working through problems directly related to the labs and lectures. We will reserve the class period before the exam for "Module Review". This is meant to be exam prep, Q/A, and cover any lingering subject matter in the module. 
 
+
+| #  | Name                                                               
+|:--:|-----                                                               
+|1 | [Data Visualization]({{site.baseurl}}/exams/exam1.html)                  
+
 <br>
 
 ## <a name="project">Final Project</a>
