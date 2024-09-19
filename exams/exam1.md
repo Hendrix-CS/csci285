@@ -19,7 +19,7 @@ The [iris flower dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dat
 
 <img src="../assets/images/iris.png" alt="" width="600"/>
 
-To earn a **Partially Complete* on the exam, you must 
+To earn a **Partially Complete** on the exam, you must 
 
 1. Load [iris.csv](../data/iris.csv) into a pandas data frame. Record the shape of the data frame. 
 
@@ -27,7 +27,7 @@ To earn a **Partially Complete* on the exam, you must
 
 3. Display the data types of the columns.
 
-To earn a **Complete* on the exam, you must also 
+To earn a **Complete** on the exam, you must also 
 
 4. Display the count of each value in the `species` column. 
 
@@ -41,11 +41,11 @@ To earn a **Complete* on the exam, you must also
 
 Next, use plotnine to visualize the dataset.
 
-To earn a **Partially Complete* on the exam, you must 
+To earn a **Partially Complete** on the exam, you must 
 
 1. Draw a box plot of species vs iris petal width (cm). Make sure that your axes are labeled and that you set a title. What differences do you notice in this plot? 
 
-To earn a **Complete* on the exam, you must also 
+To earn a **Complete** on the exam, you must also 
 
 3. Draw a scatter plot that includes linear regressions of two features that appear linearly related. Color by species. Make sure that your axes are labeled and that you set a title. What conclusions can you draw from this plot?
 
@@ -59,12 +59,12 @@ To earn a **Complete* on the exam, you must also
 
 Continuing clustering with the iris flower data set.
 
-To earn a **Partially Complete* on the exam, you must 
+To earn a **Partially Complete** on the exam, you must 
 
 1. Scale your features.
 2. Use KMeans to cluster your data into 3 clusters.
 
-To earn a **Complete* on the exam, you must also 
+To earn a **Complete** on the exam, you must also 
 
 3. Use PCA to decompose your features into two dimensions.
 4. Draw a scatter plot for your two PCA dimensions and color the plot using the clustering results.
