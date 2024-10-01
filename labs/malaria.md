@@ -40,9 +40,9 @@ The compartment model diagram can be drawn using any tool of your choosing:
 Investigate the [WHO malaria fact sheet for Rwanda](https://www.who.int/publications/m/item/malaria-2021-country-profile-rwa), the [President's Malaria Initiative fact sheet](https://www.pmi.gov/where-we-work/rwanda/), and the ["In Rwanda, ‘Human Bait’ Volunteers Help Battle Malaria"](https://undark.org/2020/04/22/rwanda-malaria/) article to determine your model parameters and initial populations. Also research the number of mosquitoes that live in an acre and estimate their population.
 
 
-## Step 4: Euler's Method
+## Step 4: ODE Integration
 
-Using Forward Euler's Method, simulate the spread of malaria in Rwanda over the next 60 months. Start in October 2022.
+Using the `odeint` library from scipy, simulate the spread of malaria in Rwanda over the next 60 months. Start in October 2022.
 
 Draw charts showing how the populations of mosquitoes and humans change over time, with a line for each of the individual compartments you drew above in Step 2.
 
