@@ -18,7 +18,7 @@ In this lab, we will model the lifecycle of the malaria parasite and its relatio
 
 ## Step 1: Initial Research
 
-Research the [life cycle](https://www.ncbi.nlm.nih.gov/books/NBK555962/figure/article-27309.image.f1/?report=objectonly) of malaria using the [CDC Malaria website](https://www.cdc.gov/malaria/about/biology/index.html) as a primary resource. Write a summary of your findings.
+Research the [life cycle](https://www.ncbi.nlm.nih.gov/books/NBK555962/figure/article-27309.image.f1/?report=objectonly) of malaria using the [CDC Malaria website](https://www.cdc.gov/malaria/index.html) as a primary resource. Write a summary of your findings.
 
 
 ## Step 2: Compartment Model
@@ -28,21 +28,21 @@ Based on your research above, draw an SIR [compartment model](https://en.wikiped
 The compartment model diagram can be drawn using any tool of your choosing: 
 
 * https://www.figma.com/
-* Microsoft Teams may have apps to install
 * https://miro.com/
 * https://www.zenflowchart.com/
 * https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software
 * https://textografo.com/
+* https://app.diagrams.net/
 
 
 ## Step 3: Parameter Investigation
 
-Investigate the [WHO malaria fact sheet for Rwanda](https://www.who.int/publications/m/item/malaria-2021-country-profile-rwa), the [President's Malaria Initiative fact sheet](https://www.pmi.gov/where-we-work/rwanda/), and the ["In Rwanda, ‘Human Bait’ Volunteers Help Battle Malaria"](https://undark.org/2020/04/22/rwanda-malaria/) article to determine your model parameters and initial populations. Also research the number of mosquitoes that live in an acre and estimate their population.
+Investigate the [WHO malaria fact sheet for Rwanda](https://www.who.int/news-room/fact-sheets/detail/malaria), the [President's Malaria Initiative fact sheet](https://www.pmi.gov/where-we-work/rwanda/), and the ["In Rwanda, ‘Human Bait’ Volunteers Help Battle Malaria"](https://undark.org/2020/04/22/rwanda-malaria/) article to determine your model parameters and initial populations. Also research the number of mosquitoes that live in an acre and estimate their population.
 
 
 ## Step 4: ODE Integration
 
-Using the `odeint` library from scipy, simulate the spread of malaria in Rwanda over the next 60 months. Start in October 2022.
+Using the `odeint` library from scipy, simulate the spread of malaria in Rwanda over the next 60 months. Start in October 2024.
 
 Draw charts showing how the populations of mosquitoes and humans change over time, with a line for each of the individual compartments you drew above in Step 2.
 
@@ -60,7 +60,7 @@ Rerun you simulation, draw a chart, and describe the differences you find.
 
 ## Step 6: Drug Therapy
 
-Antimalarial drugs such as [Hydroxychloroquine](https://www.cdc.gov/malaria/resources/pdf/fsp/drugs/Hydroxychloroquine.pdf?fbclid=IwAR1lVp5ucnLK9g_crh1lro-BHlgFiqXT7sOP30lNVtTLvWCxZT5dcbB4MuM) can be effective in the prevention of humans contracting malaria.
+Antimalarial drugs such as [Hydroxychloroquine](https://www.cdc.gov/malaria/resources/pdf/fsp/drugs_2017/Hydroxychloroquine_2017.pdf) can be effective in the prevention of humans contracting malaria.
 
 Research the [efficacy](https://www.who.int/docs/default-source/documents/publications/gmp/who-cds-gmp-2019-17-eng.pdf?ua=1) of these medications in Rwanda and update your model, factoring in a 75% adoption rate of these medicines by the general population.
 
@@ -70,7 +70,7 @@ Rerun you simulation, draw a chart, and describe the differences you find.
 
 Recently, [genetically-engineered mosquitoes](https://www.nih.gov/news-events/nih-research-matters/engineering-malaria-resistance-mosquitoes) have been developed in an attempt to inhibit the spread of malaria.
 
-Research the effectiveness of releasing these mosquitoes into the environment. Incorporate your findings into your model, assuming they will be released in Rwanda in April 2024.
+Research the effectiveness of releasing these mosquitoes into the environment. Incorporate your findings into your model, assuming they will be released in Rwanda in April 2025.
 
 Rerun you simulation, draw a chart, and describe the differences you find.
 
