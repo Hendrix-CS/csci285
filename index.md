@@ -48,6 +48,7 @@ Upon completing this course, you will be able to,
 | | [Duke Lemur Center](https://www.kaggle.com/code/markgoadrich/duke-lemur-center-data) |
 | Dynamical Systems | [Population Dynamics](https://www.kaggle.com/code/markgoadrich/population-dynamics) |
 | | [Epidemiology](https://www.kaggle.com/code/markgoadrich/epidemiology-modeling) |
+| | [Drug Dosages](https://www.kaggle.com/code/markgoadrich/drug-dosages) |
 
 <br>
 
