@@ -49,6 +49,7 @@ Upon completing this course, you will be able to,
 | Dynamical Systems | [Population Dynamics](https://www.kaggle.com/code/markgoadrich/population-dynamics) |
 | | [Epidemiology](https://www.kaggle.com/code/markgoadrich/epidemiology-modeling) |
 | | [Drug Dosages](https://www.kaggle.com/code/markgoadrich/drug-dosages) |
+| Monte Carlo Simulation | [Randomness and Simulation](https://www.kaggle.com/code/markgoadrich/random-numbers-in-computing) |
 
 <br>
 

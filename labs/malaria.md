@@ -92,6 +92,6 @@ As you work on this lab, record all of your progress in a Jupyter notebook. Reco
 
 ## Grading
 
-* Complete: Notebook can be read easily w/o needing to reference this page for additional detail. It should read like a self-contained report. It can be executed without producing runtime errors. All steps (1 - 8) are finished and all discussion questions are answered.
+* Complete: Notebook can be read easily w/o needing to reference this page for additional detail. It should read like a self-contained report. It can be executed without producing runtime errors. All steps (1 - 4, (5, 6, or 7), and 8) are finished and all discussion questions are answered.
 
-* Partially complete: Notebook can be executed without producing runtime errors. Steps (1-5, 8) are finished and discussion questions are answered.
+* Partially complete: Notebook can be executed without producing runtime errors. Steps (1-4, 8) are finished and discussion questions are answered.

@@ -2,7 +2,7 @@
 layout: work
 type: Lab
 num: 5
-worktitle: Predicting the mid-term elections
+worktitle: Predicting the Senate elections
 ---
 
 ## Description
@@ -73,5 +73,3 @@ As you work on this lab, record all of your progress in a Jupyter notebook. Reco
 * Complete: Notebook can be read easily w/o needing to reference this page for additional detail. It should read like a self-contained report. It can be executed without producing runtime errors. All steps (1-5) are finished and all discussion questions are answered.
 
 * Partially complete: Notebook can be executed without producing runtime errors. Steps (1-5) are attempted.
-
-* Bonus: If you complete the lab before the mid-terms on November 8th, then you can get 15 additional points added to your Exam #2 grade. this is enough to turn a "B" into an "A".
