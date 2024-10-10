@@ -28,7 +28,7 @@ Our goal is to predict the probability that Democrats will win or lose [key swin
 * Montana (JOHN TESTER (D) vs. Tim Sheehy (R))
 * Texas (Colin Allred (D) vs. TED CRUZ (R))
 
- _For our first assumption_, we will only use the most recent poll for each state. Format the `created_at` column of the polling DataFrame as a datetime and then select only the poll with the latest value for each state. If there are multiple polls entered on the same date, select the one with the larger sample size.
+ _For our first assumption_, we will only use the most recent poll for each state. Format the `created_at` column of the polling DataFrame as a **datetime** and then select only the poll with the latest value for each `state`. If there are multiple polls entered on the same date, select the one with the larger `sample_size`.
 
 In these polls, we will need the data in the `sample_size`, `party`, and `pct` columns. The `sample_size` is how many people were surveyed in this poll, the `party` lists the choice offered (Note: `answer` is actually the choice offered, but since we are rolling this up to political parties it makes sense to work with the `party` column), and the `pct` is the percent of people who selected this choice. Divide the value in `pct` by 100, so it is a number between 0 and 1.
 
