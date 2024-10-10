@@ -7,29 +7,26 @@ worktitle: Predicting the mid-term elections
 
 ## Description
 
-The 2022 mid-term elections are upon us. These elections are taking place now and will culminate on election day, which is November 8th. To get a sense of the will of the electorate, and predict what news we might wake up to on November 8th, organizations (such as [Hendrix](https://www.hendrix.edu/news/news.aspx?id=86521)) conduct polls where they ask randomly selected likely voters for their choice in the upcoming election. These organizations then use statistics to show how their sample of the population is representative of the whole state. Others, such as [FiveThirtyEight](https://fivethirtyeight.com/), can then attempt to determine the winner of the election using these polls and performing Monte Carlo simulations.
+The 2024 elections are upon us. These elections are taking place now and will culminate on election day, which is November 5th. To get a sense of the will of the electorate, and predict what news we might wake up to on November 5th, organizations (such as [Hendrix](https://www.hendrix.edu/news/news.aspx?id=86521)) conduct polls where they ask randomly selected likely voters for their choice in the upcoming election. These organizations then use statistics to show how their sample of the population is representative of the whole state. Others, such as [FiveThirtyEight](https://fivethirtyeight.com/), can then attempt to determine the winner of the election using these polls and performing Monte Carlo simulations.
 
 
 ## Step 1: Download polling data
 
-Download the zip file of the [polling data](https://projects.fivethirtyeight.com/2022-election-forecast/senate/) collected by FiveThirtyEight, located at the bottom of this page, with the relevant polls recorded in `senate_polls.csv`. This file holds all the senate polls for each state from the last two years. Load this file up in a Jupyter notebook as a Pandas DataFrame. Examine its shape and features and produce a data dictionary explaining the most important columns and what a row of data represents. 
+Download the zip file of the [polling data](https://projects.fivethirtyeight.com/polls/senate/2024/) collected by FiveThirtyEight, located at the bottom of this page, with the relevant polls recorded in `senate_polls.csv`. This file holds all the senate polls for each state from the last two years. Load this file up in a Kaggle notebook as a Pandas DataFrame. Examine its shape and features and produce a data dictionary explaining the most important columns and what a row of data represents. 
 
 
 ## Step 2: Preparing the polling data for analysis
 
-Our goal is to predict the probability that Democrats will win or lose [key swing states](https://www.politico.com/news/2022/10/15/senate-swing-state-polls-midterms-00061877) and retain (or lose) control of the Senate after the November 8th mid-term elections. We will look at the following races,
+Our goal is to predict the probability that Democrats will win or lose [key swing states](https://www.cookpolitical.com/ratings/senate-race-ratings) and retain (or lose) control of the Senate after the November 5th mid-term elections. We will look at the following races which are LEAN D, TOSS UP, or LEAN R (incumbent Senators are in all caps):
 
-* Nevada (CATHERINE CORTEZ MASTO (D) vs. Adam Laxalt (R))
-* Pennsylvania (Mehmet Oz (R) vs. John Fetterman (D))
-* Georgia (RAPHAEL WARNOCK (D) vs. Herschel Walker (R))
-* Wisconsin (Sen. Ron Johnson, (R) vs. Lt. Gov. Mandela Barnes (D))
-* Arizona (MARK KELLY (D) vs. Blake Masters (R))
-* Colorado (MICHAEL BENNET (D) vs. Joe O’Dea (R))
-* Florida (MARCO RUBIO (R) vs. Val Demings (D))
-* New Hampshire (MAGGIE HASSAN (D) vs. Don Bolduc (R))
-* North Carolina (Ted Budd (R) vs. Cheri Beasley (D))
-* Ohio (J.D. Vance (R) vs. Tim Ryan (D))
-
+* Arizona (Ruben Gallego (D) vs. Kari Lake (R))
+* Nevada (JACKY ROSEN (D) vs. Sam Brown (R))
+* Pennsylvania (BOB CASEY JR. (D) vs. Dave McCormick (R))
+* Michigan (Elissa Slotkin (D) vs. Mike Rogers (R))
+* Ohio (SHERROD BROWN (D) vs. Bernie Moreno (R))
+* Wisconsin (TAMMY BALDWIN (D) vs. Eric Hovde (R))
+* Montana (JOHN TESTER (D) vs. Tim Sheehy (R))
+* Texas (Colin Allred (D) vs. TED CRUZ (R))
 
  _For our first assumption_, we will only use the most recent poll for each state. Format the `created_at` column of the polling DataFrame as a datetime and then select only the poll with the latest value for each state. If there are multiple polls entered on the same date, select the one with the larger sample size.
 
@@ -37,6 +34,7 @@ In these polls, we will need the data in the `sample_size`, `party`, and `pct` c
 
 These choices don’t always add up to 100%, some small percentage of voters remain undecided or unwilling to offer their choice, and there are small margins for Libertarian, Green, and other party candidates. _For our second assumption_, to help determine the plurality winner for each state, we will say that people are either voting DEM, or voting against DEM. Therefore, we can select only those rows with the `party` equal to DEM.
 
+_For our third assumption_, we will say that all other Senate races besides the 8 listed above, in the SOLID or LIKELY categories, will be won as predicted by the Cook Report. 
 
 ## Step 3: Generating probability distributions
 
@@ -57,9 +55,7 @@ Plot the (binary) outcomes (e.g. "won" or "lost") for each state using a bar cha
 
 ## Step 5: Conclusion
 
-Download [current U.S. Senate data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PEJ5QU). The file should be called "1976-2020-senate.csv". Load this file up in a Jupyter notebook as a Pandas DataFrame. Examine its shape and features and produce a data dictionary explaining each column and what a row of data represents. 
-
-Using the data in this file, and the results of your Monte Carlo simulations, clearly state your predicted 2022 mid-term election outcomes. Will the Democrats maintain control of the U.S. Senate? How closely do your results match the predictions at FiveThirtyEight? What could explain any differences you see? What other assumptions did we implicitly make in our simulation?
+Using the results of your Monte Carlo simulations, clearly state your predicted 2024 mid-term election outcomes for each state, and for the Senate as a whole. Will the Democrats maintain control of the U.S. Senate? How closely do your results match the [Consensus Forecast](https://www.270towin.com/2024-senate-election/consensus-2024-senate-forecast) at 270toWIN? What could explain any differences you see? What other assumptions did we implicitly make in our simulation?
 
 
 ## What To Turn In

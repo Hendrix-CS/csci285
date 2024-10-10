@@ -68,7 +68,7 @@ On these labs, you will work with partners on the lab assignments. Their name mu
 |2 | [Data Visualization]({{site.baseurl}}/labs/visualization.html)    
 |3 | [Clustering]({{site.baseurl}}/labs/heart-disease.html)
 |4 | [Dynamical Systems]({{site.baseurl}}/labs/malaria.html) 
-|5 | [Monte Carlo Simulation]   
+|5 | [Monte Carlo Simulation]({{site.baseurl}}/labs/election.html) 
 |6 | [Agent-Based Modeling]                   
 |7 | [Optimization]            
 
