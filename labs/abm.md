@@ -41,6 +41,8 @@ Using [Forest Fire Notebook](https://nbviewer.org/github/Hendrix-CS/csci285/blob
 
  Determine the effect of changing this parameter on the number of `Fine` trees after 200 time steps.
 
+<!--
+
 ## Step 2 - Forest Fire Visualization
 
 Download the code for this project as a PyCharm project. TO BE ADDED LATER.
@@ -138,4 +140,5 @@ As you work on this lab, record all of your progress in a Jupyter notebook. Reco
 
 * Bonus: If you complete (correctness counts!) Steps 3 & 4 then you can get 15 additional points added to any Exam of your choosing. This is enough to turn a "B" into an "A". If you complete the bonus (correctness counts!) on Step 4 then an additional 5 points can be added to any Exam of your choosing. 
 
+-->
 
