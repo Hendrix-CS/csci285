@@ -50,6 +50,7 @@ Upon completing this course, you will be able to,
 | | [Epidemiology](https://www.kaggle.com/code/markgoadrich/epidemiology-modeling) |
 | | [Drug Dosages](https://www.kaggle.com/code/markgoadrich/drug-dosages) |
 | Monte Carlo Simulation | [Randomness and Simulation](https://www.kaggle.com/code/markgoadrich/random-numbers-in-computing) |
+| Agent-Based Modeling | [Forest Fires](https://www.kaggle.com/code/markgoadrich/forest-fires-mesa-abm-2-4) |
 
 <br>
 
