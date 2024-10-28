@@ -41,3 +41,26 @@ Using [Forest Fire Notebook](https://nbviewer.org/github/Hendrix-CS/csci285/blob
 
  Determine the effect of changing this parameter on the number of `Fine` trees after 200 time steps.
 
+
+## Step 2 - Forest Fire Visualization
+
+Download the code for this project as a [PyCharm project](https://github.com/mgoadric/forestfires/archive/refs/heads/main.zip).
+
+Copy the edits you made to the `TreeCell` and `ForestFire` classes into the PyCharm version of the Forest Fire project.
+
+Visualize your results using `mesa runserver` or `python run.py`. 
+
+Add sliders for `decay_time` and `lifetime`. 
+
+Identify a set of parameters and/or initial conditions that create an interesting visualization that highlights all of the model's behavior. 
+
+Take some screen shots of your visualization to turn in with your report. 
+
+## Step 3 - Ant Parameter Tweaking
+
+[Ant Phereomone Model](https://github.com/wilsojb/ants-mesa/archive/refs/heads/master.zip) demonstrates ants communicating about food stores using pheromone diffusion. Download this model and visualize it using `mesa runserver` or `python run.py`. Read through the README to understand the model parameters and agent rules.
+
+You should notice that the parameters for this model are very inadequate for effective communication. Find a reasonable set of parameters that allow the ants to quickly find the food and gather it all to their home. 
+
+Use the Notebook included in the model to visualize a graph of the food collection using your optimized parameters.
+
