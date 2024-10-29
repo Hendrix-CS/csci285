@@ -58,7 +58,7 @@ Take some screen shots of your visualization to turn in with your report.
 
 ## Step 3 - Ant Parameter Tweaking
 
-[Ant Phereomone Model](https://github.com/wilsojb/ants-mesa/archive/refs/heads/master.zip) demonstrates ants communicating about food stores using pheromone diffusion. Download this model and visualize it using `mesa runserver` or `python run.py`. Read through the README to understand the model parameters and agent rules.
+[Ant Phereomone Model](https://github.com/mgoadric/ants-mesa/archive/refs/heads/master.zip) demonstrates ants communicating about food stores using pheromone diffusion. Download this model and visualize it using `mesa runserver` or `python run.py`. Read through the README to understand the model parameters and agent rules.
 
 You should notice that the parameters for this model are very inadequate for effective communication. Find a reasonable set of parameters that allow the ants to quickly find the food and gather it all to their home. 
 
