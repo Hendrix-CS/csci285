@@ -64,3 +64,39 @@ You should notice that the parameters for this model are very inadequate for eff
 
 Use the Notebook included in the model to visualize a graph of the food collection using your optimized parameters.
 
+## Step 4 - Firefly Synchronization
+
+![Fireflies](../assets/images/firefliespublicdomain.jpg){: .pull-right .w-50 .img-fluid}
+
+Certain species of [fireflies](https://www.nps.gov/grsm/learn/nature/fireflies.htm) have been observed to synchronize their flashing. Models in science have been developed to [understand this phenomenon](http://users.uoa.gr/~pjioannou/nonlin/fireflysychronization.pdf). You will create an agent-based model to understand these fireflies.
+
+<br />
+
+### Step 4.1: Agent
+
+Create a Firefly that has a flash clock cycle that lasts 10 timesteps. The firefly should track where it is in their clock, and will start the simulation at a random time in the clock. For the first step of the clock, the firefly will be flashing, and the rest of the clock the firefly will be dark.
+
+{% include note.html content="You can test that your flash clock cycle is working correctly w/o even using the mesa framework. You should be able to create a Firefly Agent, make calls to step(), and print results to the screen in order to validate you have the FLASHING / DARK clock built correctly." %}
+
+<br />
+
+A firefly will adjust its place in its clock based on the fireflies in its neighborhood. For this model, use the [Moore neighborhood](https://mesa.readthedocs.io/en/latest/apis/space.html#mesa.space.Grid.get_neighborhood). Each timestep, a firefly will look for flashing fireflies in its neighborhood. If any local fireflies are flashing, the firefly will attempt to sync with them by reseting its clock to be immediately after it would have flashed. If there are no fireflies flashing locally, the clock advances one step along the cycle.
+
+{% include note.html content="For example, a firefly is at time 7 of its clock, but sees a nearby firefly flash. It resets its time to 2." %}
+
+<br />
+
+A firefly will wander around the world, randomly choosing a new location from its neighbors.
+
+<br />
+
+### Step 4.2: Model
+
+Create a 30x30 model of firefly agents. The density of the agents, the length of the clock cycle, and the length of the flashing should all be parmeters. For your visualization in the server, make DARK fireflies Brown, and FLASHING fireflies Yellow. Run the simulation for 500 timestamps. For initial parameters, set density=20%, cycle_length=10, and flashing_length=1. Discuss your results.
+
+<br />
+
+### Step 4.3: Variable Parameters
+
+Alter your simulation so that each firefly flashes for the first **two** steps of the clock instead of only the first step. Rerun your simulation for 500 timesteps and discuss the results. Vary other parameters, such as density and clock cycle. Discuss how this affects the firefly simulation. 
+
