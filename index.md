@@ -52,7 +52,7 @@ Upon completing this course, you will be able to,
 | Monte Carlo Simulation | [Randomness and Simulation](https://www.kaggle.com/code/markgoadrich/random-numbers-in-computing) |
 | Agent-Based Modeling | [Forest Fires](https://www.kaggle.com/code/markgoadrich/forest-fires-mesa-abm-2-4) |
 | | [Ants](https://www.kaggle.com/code/markgoadrich/ants-diffusion-mesa-2-4) | 
-
+| Optimization | [Local Search Heuristics](https://www.kaggle.com/code/markgoadrich/local-search-algorithms) |
 <br>
 
 # <a name="coursework">Coursework</a>
@@ -174,28 +174,28 @@ Each assignment is assessed as **Complete**, **Partially Complete** or **Not Com
 
 * To earn an A in the course, a student will:
     * **Complete** two **Exams**.
-    * **Complete** six out of seven **Labs** with the other at least **Partially Complete**.
+    * **Complete** five out of six **Labs** with the other at least **Partially Complete**.
     * **Complete** the **Final Project**
     * Schedule and attend a minimum of three **Checkins** (office hour appointments)
     * Up to one unexcused absence.
 
 * To earn a B in the course, a student will:
     * **Complete** one **Exam** and **Partially Complete** the remaining **Exam**.
-    * **Complete** five out of seven **Labs** with the other two at least **Partially Complete**.
+    * **Complete** four out of six **Labs** with the other two at least **Partially Complete**.
     * **Complete** the **Final Project**
     * Schedule and attend a minimum of two **Checkins** (office hour appointments)
     * Up to one unexcused absence.
 
 * To earn a C in the course, a student will:
     * **Partially Complete** two of the **Exams**.
-    * **Complete** four out of seven **Labs** with **Partially Complete** on at least two more.
+    * **Complete** three out of six **Labs** with **Partially Complete** on at least two more.
     * **Partially Complete** the **Final Project**
     * Schedule and attend a minimum of one **Checkins** (office hour appointments)
     * Up to two unexcused absences.
 
 * To earn a D in the course, a student will:
     * **Partially Complete** one of the **Exams**.
-    * **Complete** three out of seven **Labs** with **Partially Complete** on at least two more.
+    * **Complete** two out of six **Labs** with **Partially Complete** on at least two more.
     * **Partially Complete** the **Final Project**
     * Up to three unexcused absences.
 
