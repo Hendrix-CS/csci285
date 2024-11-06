@@ -53,6 +53,7 @@ Upon completing this course, you will be able to,
 | Agent-Based Modeling | [Forest Fires](https://www.kaggle.com/code/markgoadrich/forest-fires-mesa-abm-2-4) |
 | | [Ants](https://www.kaggle.com/code/markgoadrich/ants-diffusion-mesa-2-4) | 
 | Optimization | [Local Search Heuristics](https://www.kaggle.com/code/markgoadrich/local-search-algorithms) |
+
 <br>
 
 # <a name="coursework">Coursework</a>
