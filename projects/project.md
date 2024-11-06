@@ -1,7 +1,7 @@
 ---
 layout: work
 type: Project
-num: 1
+num: 
 worktitle: Final Project
 ---
 

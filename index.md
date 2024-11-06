@@ -104,10 +104,11 @@ There will be two exams administered throughout the semester in order to evaluat
 ## <a name="project">Final Project</a>
 A major component of this course is a "Final Project" which we will build up to over the second half of the semester with various incremental deadlines. 
 
-<!--
-[https://hendrix-cs.github.io/csci285/projects/project.html](https://hendrix-cs.github.io/csci285/projects/project.html)
+| #  | Name                                                               
+|:--:|-----                                                               
+|1 | [Final Project]({{site.baseurl}}/projects/project.html)                  
 
--->
+
 <br>
 
 ## <a name="checkins">Checkins</a>
