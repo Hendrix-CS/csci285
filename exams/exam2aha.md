@@ -34,7 +34,7 @@ To earn a **Partially Complete** on the exam, you must
 
     * For the parameters, use a = 1, b = 3, c = 1, d = 5, s = 4, x_r = -8/5, r = 0.001, I = 2. 
     * For the initial conditions, x_0 = -1.0, y_0 = 1.0, and z_0 = 2.0. 
-    * For the time range, you should choose n=2000 (2000 steps) to start. 
+    * For the time range, you should choose n=2000 (2000 steps). 
 
 3. Display the trajectory of the `x` variable over time, using a line graph in plotnine. Make sure that you set a title for this chart.
 
@@ -49,11 +49,11 @@ To earn a **Complete** on the exam, you must also
 
 ![Snakes and Ladders Board, from Yellow Mountain Imports](../assets/images/snakes_ladders.webp){: .pull-right .w-50 .img-fluid}
 
-[Snakes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_ladders) is a classic board game with ancient and mystical origin from India. you will attempt to estimate how long it takes a player on average to finish the game.
+[Snakes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_ladders) is a classic board game with ancient and mystical origin from India. You will attempt to estimate how long it takes a player on average to finish the game.
 
 For our purposes, we will use the following setup and rules. The board consists of 100 sequentially numbered squares in a 10x10 grid. Players start the game by placing a pawn off the board (in space 0). On their turn, a player rolls a six-sided die (known as a d6) and moves that many spaces along the track. So if you roll a 3, you move 3 spaces ahead. When you reach or exceed 100 on the track, you have finished the game.
 
-The twist is that some spaces are linked through one-way connections to others, either moving you far behind (Snakes) or far ahead (Ladders). These connections must be followed. When you land on a square with the head of a snake, you must travel backward on the board to the tail square. When you land on a square with the base of a ladder, you must travel foward to the top of the ladder.
+The twist is that some spaces are linked through one-way connections to others, either moving you far behind (Snakes) or far ahead (Ladders). **These connections must be followed**. When you land on a square with the head of a snake, you must travel backward on the board to the tail square. When you land on a square with the base of a ladder, you must travel foward to the top of the ladder.
 
 To earn a **Partially Complete** on the exam, you must 
 
@@ -61,7 +61,7 @@ To earn a **Partially Complete** on the exam, you must
 
     * Use the board image above to determine the Snake and Ladder connections. 
     * The player starts at space 0 and moves according to the rules above. 
-    * The game is over after the player reaches or exceeds the 100 space, or if the game has taken longer than 1000 turns (in case they get stuck in a loop; this will happen extremely rarely but you should still account for it in your code).
+    * The game is over after the player reaches or exceeds the 100 space, or if the game has taken longer than 500 turns (in case they get stuck in a loop; this will happen extremely rarely but you should still account for it in your code).
 
 2. Run the above simulation 1000 times, collecting the number of turns from each simulated game, and calculate the mean value.
 
@@ -69,9 +69,9 @@ To earn a **Partially Complete** on the exam, you must
 
 To earn a **Complete** on the exam, you must also 
 
-4. Compare the results above with a version of the game where players move by rolling **two three-sided die** and summing the values rolled.
+4. Compare the results above with a version of the game where players move by rolling **two three-sided die (2d3)** and summing the values rolled.
 
-5. If you were given a choice of using a single six-sided die or summing two three-sided die, which would you choose and why?
+5. Discuss the following: If you were given a choice of using a single six-sided die or summing two three-sided die, which would you choose and why?
 
 
 # What To Turn In
