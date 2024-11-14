@@ -28,7 +28,7 @@ Using `odeint`, you will solve and visualize the Hindmarsh-Rose model for x(t), 
 
 To earn a **Partially Complete** on the exam, you must 
 
-1. Write a function to calculate the derivative of x, y, and z at a given point in time. Use the equations as shown on the Wikipedia page. 
+1. Write a function to calculate the derivative of x, y, and z at a given point in time. Use the equations as shown on the Wikipedia page. They use the [] to denote another level of paraenthesis, so don't be fooled, it is not an index lookup.
 
 2. Use `odeint` and your function above to solve the model given the following:
 
@@ -55,11 +55,19 @@ For our purposes, we will use the following setup and rules. The board consists 
 
 The twist is that some spaces are linked through one-way connections to others, either moving you far behind (Snakes) or far ahead (Ladders). **These connections must be followed**. When you land on a square with the head of a snake, you must travel backward on the board to the tail square. When you land on a square with the base of a ladder, you must travel foward to the top of the ladder.
 
+Here is a dictionary of connections based on the board above, you might find it useful. The key is the starting point, and the value is the ending point.
+
+```
+connect = {1:38, 4:14, 8:30, 21:42, 28:76, 
+           32:10, 34:6, 48:26, 50:67, 62:18, 
+           71:92, 80:99, 88:24, 95:56, 97:78}
+```
+
 To earn a **Partially Complete** on the exam, you must 
 
 1. Write code to simulate one player's pathway through Snakes and Ladders and determine the number of turns taken to finish the game. 
 
-    * Use the board image above to determine the Snake and Ladder connections. 
+    * Use the connections shown in the Snakes and Ladder board image above. 
     * The player starts at space 0 and moves according to the rules above. 
     * The game is over after the player reaches or exceeds the 100 space, or if the game has taken longer than 500 turns (in case they get stuck in a loop; this will happen extremely rarely but you should still account for it in your code).
 
