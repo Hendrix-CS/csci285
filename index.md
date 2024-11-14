@@ -98,6 +98,7 @@ There will be two exams administered throughout the semester in order to evaluat
 | #  | Name                                                               
 |:--:|-----                                                               
 |1 | [Data Visualization]({{site.baseurl}}/exams/exam1.html)                  
+|2 | [Simulation]({{site.baseurl}}/exams/exam2aha.html)                  
 
 <br>
 
