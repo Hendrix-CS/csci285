@@ -5,7 +5,7 @@ num: 1
 worktitle: Data Analysis & Visualization
 ---
 
-In this exam, you will demonstrate your mastery of CSCI 285 Module #1 concepts in three parts. Part #1 focuses on analyzing a dataset with pandas. Part #2 focuses on visualizing it. Part #3 asks you to take the dataset and perform KMeans clustering and PCA.
+In this exam, you will demonstrate your mastery of CSCI 285 concepts in three parts. Part #1 focuses on analyzing a dataset with pandas. Part #2 focuses on visualizing it. Part #3 asks you to take the dataset and perform KMeans clustering and PCA.
 
 * Create a notebook in Kaggle to record your answers to the exam.
 * Please label each **Part** of the exam using markdown headers. 
