@@ -45,7 +45,7 @@ Near the end of the semester, you will turn in a rough-draft of your project.
 
 Your notebook should follow the guidelines below in the Final Notebook section. I don't expect everything to be complete at this point, but you should have substantial progress to write about beyond your previous submissions and be formatting your work as a full notebook.
 
-The rough draft is due right before Thanksgiving break. I will provide feedback to you before our first class after the break so that you have an opportunity to revise your work before the final period. 
+The rough draft is due right after Thanksgiving break. I will provide feedback to you before our last class so that you have an opportunity to revise your work before the final period. 
 
 # Final Notebook
 
